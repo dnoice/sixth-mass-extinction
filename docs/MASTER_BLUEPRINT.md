@@ -97,21 +97,27 @@ MASTER_BLUEPRINT
 ├── Major Section (X.0)
 │   ├── Subsection (X.1)
 │   │   ├── article/
-│   │   │   └── article_X.1_[title].md
+│   │   │   ├── article_X.1_[title].md
+│   │   │   ├── article_summary.md
+│   │   │   └── key_findings.md
 │   │   ├── notebooks/
 │   │   │   ├── 01_data_acquisition.ipynb
 │   │   │   ├── 02_analysis_core.ipynb
-│   │   │   └── 03_visualization.ipynb
+│   │   │   ├── 03_visualization.ipynb
+│   │   │   ├── 04_novel_synthesis.ipynb
+│   │   │   └── 05_sensitivity_analysis.ipynb
 │   │   ├── figures/
 │   │   │   ├── fig_X.1_01_[description].png
-│   │   │   └── fig_X.1_02_[description].png
+│   │   │   ├── fig_X.1_02_[description].svg
+│   │   │   └── FIGURE_MANIFEST.json
 │   │   ├── data/
 │   │   │   ├── raw/
 │   │   │   ├── processed/
 │   │   │   └── derived/
 │   │   ├── uncertainty_documentation.md
 │   │   ├── methods_original_analysis.md
-│   │   └── technical_supplement.md
+│   │   ├── technical_supplement.md
+│   │   └── README.md
 │   ├── Subsection (X.2)
 │   └── ...
 ```
@@ -142,14 +148,14 @@ Every subsection (X.Y) **MUST** contain the following:
 | `article_summary.md` | Executive summary (300-500 words) | `[ ] Pending` |
 | `key_findings.md` | Bullet-point key takeaways | `[ ] Pending` |
 
-#### 2. Notebooks (`notebooks/`) - MINIMUM 3
+#### 2. Notebooks (`notebooks/`) - ALL 5 REQUIRED
 | Notebook | Purpose | Required |
 |----------|---------|----------|
 | `01_data_acquisition.ipynb` | Data sourcing, cleaning, validation | ✓ |
 | `02_analysis_core.ipynb` | Primary statistical/analytical work | ✓ |
 | `03_visualization.ipynb` | Figure generation, visual analysis | ✓ |
-| `04_novel_synthesis.ipynb` | Original cross-dataset analysis | Optional |
-| `05_sensitivity_analysis.ipynb` | Uncertainty/robustness testing | Optional |
+| `04_novel_synthesis.ipynb` | Original cross-dataset analysis, connecting dots | ✓ |
+| `05_sensitivity_analysis.ipynb` | Uncertainty quantification, robustness testing | ✓ |
 
 #### 3. Figures (`figures/`)
 | Requirement | Specification |
