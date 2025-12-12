@@ -1,6 +1,6 @@
 <!--
 ✒ Metadata
-    - Title: Major & Minor Animal Groups Reference (BEASTIQUE Edition - v2.0)
+    - Title: Major & Minor Animal Groups Reference (SME Edition - v2.0)
     - File Name: major_minor_animal_groups.md
     - Relative Path: docs/reference/major_minor_animal_groups.md
     - Artifact Type: docs
@@ -32,7 +32,7 @@
 
 ✒ Usage Instructions:
     This document serves as the authoritative reference for animal biodiversity
-    and conservation status within the BEASTIQUE research framework.
+    and conservation status within the Sixth Mass Extinction (SME) research framework.
 
     How to use:
         1. Navigate via Table of Contents to specific taxonomic groups
@@ -59,7 +59,7 @@
 ---------
 -->
 
-# Sixth Mass Extinction (SME): Major & Minor Animal Groups
+# Major & Minor Animal Groups
 
 The Sixth Mass Extinction (SME) is an ongoing extinction event primarily driven by anthropogenic activities. Current extinction rates are estimated at 1,000-10,000 times the natural background rate, with approximately one million species facing extinction risk globally. The IUCN Red List (Version 2025-2) has assessed 169,420 species, with 47,187 (27.8%) classified as threatened with extinction.
 
@@ -67,7 +67,7 @@ The Sixth Mass Extinction (SME) is an ongoing extinction event primarily driven 
 
 ## Table of Contents
 
-- [Sixth Mass Extinction (SME): Major & Minor Animal Groups](#sixth-mass-extinction-sme-major--minor-animal-groups)
+- [Major & Minor Animal Groups](#major--minor-animal-groups)
   - [Table of Contents](#table-of-contents)
   - [Global Conservation Overview](#global-conservation-overview)
   - [Major Animal Groups](#major-animal-groups)
@@ -1148,4 +1148,4 @@ This document synthesizes data from multiple authoritative sources. For specific
 *Document generated: Thursday, December 11, 2025*
 *Data current as of: IUCN Red List Version 2025-2*
 
-︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+> **︻デ═—··· 🎯 = Aim Twice, Shoot Once!**

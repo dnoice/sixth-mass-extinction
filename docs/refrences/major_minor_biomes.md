@@ -1,6 +1,6 @@
 <!--
 ✒ Metadata
-    - Title: Major & Minor Biomes Reference (BEASTIQUE Edition - v1.0)
+    - Title: Major & Minor Biomes Reference (SME Edition - v1.0)
     - File Name: major_minor_biomes.md
     - Relative Path: docs/reference/major_minor_biomes.md
     - Artifact Type: docs
@@ -93,7 +93,7 @@ Biomes are large-scale ecosystems classified by their dominant vegetation, clima
     - [Polar Ice and Sea Ice](#polar-ice-and-sea-ice)
   - [Summary: Biome Comparison and Conservation Status](#summary-biome-comparison-and-conservation-status)
 
----<https://vscode.dev/github.com/dnoice/sixth-mass-extinction/blob/main/docs/major_minor_biomes.md#L102>
+---
 
 ## Major Terrestrial Biomes
 
@@ -935,13 +935,18 @@ Tropical and subtropical shallow waters:
 - Medicine: Source of cancer and HIV treatments
 - Nursery habitat: Juvenile fish grow in reef shelter
 
-**Conservation Status:**
+**Conservation Status (2024-2025):**
 
-- **Most threatened marine ecosystem**: 50% lost since 1950
-- Mass bleaching events: 2016–2017 killed 50% of Great Barrier Reef corals
-- Major threats: Ocean warming, acidification, pollution, overfishing, coastal development, destructive fishing
-- 90% of reefs may be lost by 2050 under current trajectory
-- Recovery takes decades if stressors removed
+- **Most threatened marine ecosystem**: 50%+ of live coral cover lost since 1950s
+- **Fourth global bleaching event (2023-2025)**: Most extensive in recorded history
+- 84% of world's reefs impacted (82+ countries/territories affected)
+- 44% of reef-building coral species now threatened (up from 33% in 2008)
+- Previous bleaching events: 1998 (21% reefs), 2010 (37%), 2014-2017 (68%)
+- NOAA added Alert Levels 3-5 to bleaching scale (Level 5 = >80% mortality risk)
+- Critical threshold: 7.9% annual bleaching rate threatens reef persistence
+- Major threats: Ocean warming (primary), acidification, pollution, overfishing, coastal development
+- Atlantic corals particularly threatened (severe annual bleaching, disease, pollution)
+- Recovery takes decades if stressors removed; many reefs not recovering between events
 - Notable protected areas: Great Barrier Reef Marine Park, Papahānaumokuākea
 
 ---
@@ -1147,11 +1152,15 @@ Worldwide, concentrated in glaciated regions:
 - Biodiversity hotspots: Ancient lakes have extreme endemism
 - Carbon cycling: Lakes process terrestrial carbon
 
-**Conservation Status:**
+**Conservation Status (2024-2025):**
 
-- **Severely threatened worldwide**: Multiple stressors
-- 81% of freshwater species populations declined since 1970
-- Major threats: Eutrophication, invasive species, overfishing, pollution, water diversion, climate change
+- **Severely threatened worldwide**: Multiple stressors converging
+- **First comprehensive freshwater assessment (2024)**: 25% of freshwater species threatened
+- Freshwater biodiversity declining **2× faster** than terrestrial or marine
+- Migratory freshwater fish populations: **81% decline** since 1970
+- Large freshwater species (>30kg): **94% decline** since 1970
+- 82 freshwater fish species confirmed extinct; 187 possibly extinct
+- Major threats: Pollution (57%), dams/water extraction (45%), invasive species (33%), overfishing (25%), climate change (17%)
 - Lake Chad: Shrunk 90% since 1960
 - Aral Sea: Virtually disappeared
 - Notable protected areas: Lake Baikal, Everglades, Pantanal
@@ -1742,5 +1751,8 @@ The fate of biodiversity is inseparable from the fate of biomes. Protecting thes
 
 ---
 
-*Document compiled: Thursday, December 11, 2025*
-*︻デ═—··· 🎯 = Aim Twice, Shoot Once!*
+> *Document compiled: Thursday, December 11, 2025*
+
+---
+
+> **︻デ═—··· 🎯 = Aim Twice, Shoot Once!**
