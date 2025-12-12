@@ -1,15 +1,16 @@
 <!--
 ✒ Metadata
-    - Title: Major & Minor Physical Drivers Reference (SME Edition - v1.0)
+    - Title: Major & Minor Physical Drivers Reference (SME Edition - v2.0)
     - File Name: major_minor_physical_drivers.md
     - Relative Path: docs/refrences/major_minor_physical_drivers.md
     - Artifact Type: docs
-    - Version: 1.0.0
+    - Version: 2.0.0
     - Date: 2025-12-12
     - Update: Friday, December 12, 2025
     - Author: Dennis 'dnoice' Smaltz
     - A.I. Acknowledgement: Anthropic - Claude Opus 4
     - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+    - Research Verification: Updated with 2024 temperature records (hottest year), IPCC AR6 confirmed, 1.5°C milestone
 
 ✒ Description:
     Comprehensive reference document covering the physical science foundations of the
@@ -1153,14 +1154,32 @@ Contribution to warming: <10%
 
 ## 12. Data Sources & References
 
-### Primary Sources
+### Primary Sources (Verified 2024-2025)
 
 **Climate Science:**
 
-- IPCC. 2021–2023. Sixth Assessment Report (WG I, II, III).
-- NOAA Global Monitoring Laboratory. Greenhouse gas data.
-- NASA GISS. Temperature records.
-- Copernicus Climate Change Service. ERA5 reanalysis.
+- IPCC. 2021–2023. Sixth Assessment Report (WG I, II, III). **[AR6 ECS: 3°C best estimate, 2.5-4°C likely range - CONFIRMED]**
+- NOAA Global Monitoring Laboratory. Greenhouse gas data. **[CO₂ 424.6 ppm annual avg 2024]**
+- NASA GISS. Temperature records. **[2024 HOTTEST YEAR: +1.29°C above 20th century avg]**
+- **NASA/NOAA. January 2025.** Joint announcement: 2024 hottest year on record.
+- Copernicus Climate Change Service. ERA5 reanalysis. **[2024: +1.60°C above pre-industrial]**
+- **WMO. 2025.** State of the Global Climate 2024. **[First year above 1.5°C threshold in most datasets]**
+
+**2024 Temperature Records (Verified):**
+
+| Agency | 2024 Anomaly (vs pre-industrial) | Note |
+|--------|----------------------------------|------|
+| Berkeley Earth | +1.62°C | Above 1.5°C |
+| Copernicus (EU) | +1.60°C | Above 1.5°C |
+| UK Met Office | +1.53°C | Above 1.5°C |
+| NASA GISS | +1.47°C | Slightly below |
+| NOAA | +1.46°C | Slightly below |
+| **WMO synthesis** | **+1.55°C** | **First year above 1.5°C** |
+
+> **Critical Milestone:** 2024 was the first calendar year to exceed 1.5°C above pre-industrial temperatures in
+> most datasets. While this single year does not constitute breach of the Paris Agreement (which uses long-term
+> averages), it indicates the world is rapidly approaching this threshold. From June 2023 to August 2024, the
+> planet recorded 15 consecutive months of monthly temperature records—an "unprecedented heat streak."
 
 **Ocean Science:**
 
@@ -1178,7 +1197,7 @@ Contribution to warming: <10%
 **Tipping Points:**
 
 - Lenton, T.M., et al. 2019. Climate tipping points. Nature.
-- Armstrong McKay, D.I., et al. 2022. Exceeding 1.5°C global warming could trigger multiple climate tipping points. Science.
+- Armstrong McKay, D.I., et al. 2022. Exceeding 1.5°C global warming could trigger multiple climate tipping points. Science. **[Critical: 5 tipping points may already be triggered]**
 - Steffen, W., et al. 2018. Trajectories of the Earth System. PNAS.
 
 **Pollution:**
@@ -1194,6 +1213,7 @@ Contribution to warming: <10%
 - Trenberth, K.E., et al. Earth's global energy budget.
 - Hansen, J., et al. Climate sensitivity studies.
 - Held, I.M. & Soden, B.J. Water vapor feedback.
+- **Sherwood, S.C., et al. 2020.** An assessment of Earth's climate sensitivity using multiple lines of evidence. Reviews of Geophysics. **[Foundation for AR6 ECS assessment]**
 
 **Ocean:**
 
@@ -1206,16 +1226,44 @@ Contribution to warming: <10%
 - Diffenbaugh, N.S. & Field, C.B. Changes in extreme events.
 - Coumou, D. & Rahmstorf, S. Quasi-resonant circulation.
 
+### Gaps and Uncertainties
+
+**Known Uncertainties:**
+
+1. **Climate sensitivity (ECS):** AR6 likely range 2.5-4°C; higher end would mean faster warming
+2. **2023-2024 warming anomaly:** Excess warming beyond what models predicted; possible contributions from Tonga eruption (2022), reduced shipping pollution (cleaner air = less cooling), natural variability
+3. **Tipping point timing:** Significant uncertainty in exact thresholds; may be lower than previously estimated
+4. **Ocean heat content:** Measurement coverage still incomplete, especially deep ocean
+5. **Sea level rise acceleration:** Ice sheet dynamics remain uncertain
+
+**Areas Requiring Updates:**
+
+1. AR7 findings (expected late 2020s)
+2. Annual temperature and CO₂ records
+3. Tipping point research evolution
+4. Ocean deoxygenation monitoring
+
 ---
 
-> **Document Status:** Version 1.0 - Complete
+> **Document Status:** Version 2.0 - Comprehensive Research Verification Complete
 > **Last Updated:** Friday, December 12, 2025
-> **Next Review:** Following major IPCC or scientific reports
+> **Verification Date:** December 2025 (against NASA, NOAA, WMO, IPCC AR6)
+> **Next Review:** Following major IPCC or scientific reports; annual temperature records
 > **Cross-References:** major_minor_biomes.md, major_minor_current_status.md
 
 ---
 
-> *Document compiled: Friday, December 12, 2025*
+### Version History
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.0 | 2025-12-12 | Initial comprehensive document |
+| 2.0 | 2025-12-12 | Research verification: Added 2024 temperature records (hottest year, first above 1.5°C), verified AR6 ECS estimate, added agency comparison table, added uncertainty clauses, updated CO₂ levels |
+
+---
+
+> *Document compiled and verified: Friday, December 12, 2025*
+> *Physical science sources: IPCC AR6, NASA, NOAA, WMO, Copernicus, UK Met Office*
 
 ---
 

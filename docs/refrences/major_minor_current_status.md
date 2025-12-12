@@ -1,15 +1,16 @@
 <!--
 ✒ Metadata
-    - Title: Major & Minor Current Status Reference (SME Edition - v1.0)
+    - Title: Major & Minor Current Status Reference (SME Edition - v2.0)
     - File Name: major_minor_current_status.md
     - Relative Path: docs/refrences/major_minor_current_status.md
     - Artifact Type: docs
-    - Version: 1.0.0
+    - Version: 2.0.0
     - Date: 2025-12-12
     - Update: Friday, December 12, 2025
     - Author: Dennis 'dnoice' Smaltz
     - A.I. Acknowledgement: Anthropic - Claude Opus 4
     - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+    - Research Verification: Comprehensive update with 2024-2025 IUCN, WWF LPR, COP16, and coral bleaching data
 
 ✒ Description:
     Real-time reference document capturing the current state of the Sixth Mass Extinction
@@ -126,28 +127,34 @@
 
 | Metric | Current Value | Trend | Context |
 |--------|---------------|-------|---------|
-| **Species assessed (IUCN)** | 169,420 | ↑ | 18,000+ added in 2024 |
+| **Species assessed (IUCN)** | **172,600+** | ↑ | 2025-2 update; 60th anniversary |
 | **Threatened species** | 47,187 (28%) | ↑ | Increasing annually |
 | **Critically Endangered** | ~9,800 | ↑ | Most precarious |
 | **Extinct (since 1500)** | 943+ documented | ↑ | Undercount |
 | **Extinction rate** | 100–1,000× background | ↑ | Accelerating |
-| **Population decline (LPI)** | 73% (1970–2020) | ↑ | Up from 69% (2022) |
-| **Freshwater decline** | 85% | ↑ | Worst ecosystem |
-| **Protected area coverage** | 17% land, 8% ocean | ↑ | Below targets |
-| **Conservation funding gap** | $598–824 billion/year | — | Massive shortfall |
+| **Population decline (LPI)** | **73%** (1970–2020) | ↑ | WWF LPR 2024 confirmed |
+| **Freshwater decline** | **85%** | ↑ | Worst ecosystem |
+| **Protected area coverage** | 17% land, 8% ocean | ↑ | Below 30x30 targets |
+| **Conservation funding gap** | $542–737 billion/year | — | UNEP 2023 estimate |
+
+> **Data Currency Note (December 2025):** IUCN Red List version 2025-2 released. Three Arctic seal species
+> moved closer to extinction. Over 50% of bird species globally are in decline. Nearly 100 threatened
+> European bee species added. IUCN celebrating 60th anniversary with comprehensive retrospective report.
 
 ### Red Flag Indicators
 
 | Indicator | Status | Assessment |
 |-----------|--------|------------|
-| Coral reefs | Fourth global bleaching event | **CRITICAL** |
-| Amazon forest | Approaching tipping point | **CRITICAL** |
-| Amphibians | 41% threatened (highest) | **CRITICAL** |
+| Coral reefs | **84% affected by 4th global bleaching** | **CRITICAL** |
+| Amazon forest | Approaching tipping point (17-18% lost) | **CRITICAL** |
+| Amphibians | 41% threatened (highest vertebrate group) | **CRITICAL** |
 | Sharks & rays | 37% threatened | **SEVERE** |
-| Pollinators | 40%+ declining | **SEVERE** |
+| Pollinators | 40%+ declining; 22.6% at risk (N. America) | **SEVERE** |
 | Freshwater megafauna | 94% decline since 1970 | **CRITICAL** |
 | Tropical deforestation | 4.7 million ha/year | **SEVERE** |
 | Ocean acidification | 30% increase since 1800 | **ONGOING** |
+| Birds | **>50% of species declining globally** | **SEVERE** (new) |
+| Arctic seals | 3 species moved closer to extinction | **WORSENING** (new) |
 
 ---
 
@@ -155,21 +162,26 @@
 
 ### 2.1 Overall Assessment Status
 
-**IUCN Red List Version 2025-2 (December 2025)**
+**IUCN Red List Version 2025-2 (Updated December 2025)**
 
 | Category | Number of Species | % of Assessed |
 |----------|-------------------|---------------|
-| **Extinct (EX)** | 943 | 0.6% |
-| **Extinct in Wild (EW)** | 90 | 0.05% |
-| **Critically Endangered (CR)** | 9,761 | 5.8% |
-| **Endangered (EN)** | 16,516 | 9.7% |
-| **Vulnerable (VU)** | 20,910 | 12.3% |
-| **Near Threatened (NT)** | 9,464 | 5.6% |
-| **Least Concern (LC)** | 80,000+ | 47%+ |
+| **Extinct (EX)** | 943+ | 0.5% |
+| **Extinct in Wild (EW)** | 90+ | 0.05% |
+| **Critically Endangered (CR)** | 9,761+ | 5.7% |
+| **Endangered (EN)** | 16,516+ | 9.6% |
+| **Vulnerable (VU)** | 20,910+ | 12.1% |
+| **Near Threatened (NT)** | 9,464+ | 5.5% |
+| **Least Concern (LC)** | 80,000+ | 46%+ |
 | **Data Deficient (DD)** | 20,000+ | 12%+ |
 | **Not Evaluated** | ~1.8 million | — |
-| **TOTAL ASSESSED** | **169,420** | 100% |
-| **TOTAL THREATENED** | **47,187** | **28%** |
+| **TOTAL ASSESSED** | **172,600+** | 100% |
+| **TOTAL THREATENED** | **47,187+** | **~28%** |
+
+> **2025 Updates:** The 2025-1 update (March 2025) added 1,000+ fungi species highlighting threats from
+> deforestation. Frankincense trees face increasing extinction risk. The 2025-2 update added nearly
+> 100 threatened European bee species and moved three Arctic seal species closer to extinction.
+> IUCN is now marking 60 years of the Red List.
 
 ### 2.2 Taxonomic Breakdown
 
@@ -226,23 +238,30 @@
 
 **Species Declared Extinct (2023-2025)**
 
-| Species | Common Name | Location | Year Declared | Last Seen |
-|---------|-------------|----------|---------------|-----------|
-| *Vermivora bachmanii* | Bachman's warbler | USA | 2023 | 1988 |
-| *Campephilus principalis* | Ivory-billed woodpecker | USA | 2023 | 1944 (disputed) |
-| *Tympanuchus cupido cupido* | Heath hen | USA | 2023 | 1932 |
-| *Caprimulgus centralasicus* | Vaurie's nightjar | China | 2023 | 1929 |
-| *Acanthiza iredalei iredalei* | Slender-billed thornbill | Australia | 2024 | 1910 |
-| *Pseudophilautus nasutus* | Shrub frog | Sri Lanka | 2024 | 1869 |
-| Multiple Pacific island snails | Various | Pacific | 2023-2024 | Various |
-| *Cyanea pinnatifida* | Hawaiian plant | Hawaii | 2024 | 2016 |
+| Species | Common Name | Location | Year Declared | Last Seen | Significance |
+|---------|-------------|----------|---------------|-----------|--------------|
+| *Numenius tenuirostris* | **Slender-billed curlew** | Europe/N. Africa/W. Asia | **Nov 2024** | 1995 | **First bird extinction from mainland Europe/N. Africa/W. Asia** |
+| *Urolophus javanicus* | **Java stingaree** | Indonesia | 2024 | 1862 | First marine fish extinction from human activity |
+| 3 Swiss whitefish species | Various | Switzerland | 2024 | Various | Eutrophication |
+| *Vermivora bachmanii* | Bachman's warbler | USA | 2023 | 1988 | — |
+| *Campephilus principalis* | Ivory-billed woodpecker | USA | 2023 | 1944 (disputed) | — |
+| *Tympanuchus cupido cupido* | Heath hen | USA | 2023 | 1932 | — |
+| *Caprimulgus centralasicus* | Vaurie's nightjar | China | 2023 | 1929 | — |
+| *Acanthiza iredalei iredalei* | Slender-billed thornbill | Australia | 2024 | 1910 | — |
+| *Pseudophilautus nasutus* | Shrub frog | Sri Lanka | 2024 | 1869 | — |
+| Multiple Pacific island snails | Various | Pacific | 2023-2024 | Various | — |
+| *Cyanea pinnatifida* | Hawaiian plant | Hawaii | 2024 | 2016 | — |
 
-**US Fish & Wildlife 2023 Declaration:**
+> **2024 Milestone Extinctions:** The slender-billed curlew declaration (November 2024) marked the first documented
+> extinction of a bird species from mainland Europe, North Africa, and Western Asia in modern history. The Java
+> stingaree became the first marine fish declared extinct due to human activity.
 
-22 species officially delisted as extinct:
+**US Fish & Wildlife 2023 Declaration (October 17, 2023):**
 
-- **Birds:** 11 species (including ivory-billed woodpecker)
-- **Mussels:** 8 species
+21 species officially delisted as extinct:
+
+- **Birds:** 10 species (8 Hawaiian birds + Bachman's warbler + ivory-billed woodpecker)
+- **Mussels:** 8 species (flat pigtoe, green-blossom pearly mussel, southern acornshell, stirrupshell, tubercled-blossom pearly mussel, turgid-blossom pearly mussel, upland combshell, yellow-blossom pearly mussel)
 - **Fish:** 2 species
 - **Plants:** 1 species
 
@@ -285,7 +304,7 @@
 
 | Species | Population | Trend | Primary Threat |
 |---------|------------|-------|----------------|
-| **Vaquita** (*Phocoena sinus*) | 6–10 | ↓ Critical | Bycatch in gillnets |
+| **Vaquita** (*Phocoena sinus*) | **7–10** (2025 survey) | **→ Stabilizing** | Bycatch in gillnets |
 | **Sumatran rhinoceros** | <80 | ↓ Critical | Poaching, habitat |
 | **Javan rhinoceros** | ~76 | → Stable | Disease, catastrophe risk |
 | **Cross River gorilla** | ~300 | ↓ | Hunting, habitat |
@@ -295,6 +314,12 @@
 | **Yangtze finless porpoise** | ~1,000 | ↓ | Fishing, pollution |
 | **Saola** | Unknown (<100?) | ↓ | Snares, rarity |
 | **Philippine eagle** | ~800 | ↓ | Deforestation |
+
+> **Vaquita Update (October 2025):** The most recent acoustic and visual monitoring surveys (May-September 2025)
+> confirmed sightings of 7-10 vaquitas, including newly born calves. For three consecutive years, scientific
+> data shows no substantial decline. Mexican Navy deployed concrete blocks with hooks to entangle illegal
+> gillnets, achieving 90% reduction in gillnetting in zero-tolerance area. This represents cautious hope for
+> the world's most endangered marine mammal, though the population remains critically small.
 
 ### 4.2 Birds
 
@@ -393,26 +418,32 @@
 
 ### 5.2 Fourth Global Coral Bleaching Event
 
-**2023-2025 Event Status:**
+**2023-2025 Event Status (Updated April 2025):**
 
-| Metric | Value |
-|--------|-------|
-| Start date | Early 2023 |
-| Duration | Ongoing (longest in history) |
-| Reefs affected | 84%+ of world's reefs |
-| Countries/territories | 82+ |
-| Severity | Most extensive ever recorded |
+| Metric | Value | Source |
+|--------|-------|--------|
+| Start date | January 2023 | NOAA/ICRI |
+| Duration | **Ongoing (longest in history)** | ICRI April 2025 |
+| Reefs affected | **84%** of world's reefs | ICRI April 2025 |
+| Countries/territories | **82+** | ICRI |
+| Severity | **Most extensive ever recorded** | NOAA |
+| Historical comparison | 1998: 21%; 2010: 37%; 2014-17: 68% | ICRI |
+
+> **Unprecedented Scale:** From January 1, 2023 to March 30, 2025, bleaching-level heat stress impacted 84% of
+> the world's reefs across 82 countries. The Atlantic saw 99.7% of tropical reef areas affected—no previous
+> event came close. Scientists warn ocean temperatures may not drop below bleaching thresholds in the
+> foreseeable future.
 
 **Regional Impacts:**
 
-| Region | Bleaching Level | Notes |
-|--------|-----------------|-------|
-| **Great Barrier Reef** | 73% of surveyed reefs | 5th bleaching in 8 years |
-| **Caribbean** | Severe | Annual bleaching now |
-| **Indian Ocean** | Severe | Maldives, Seychelles affected |
-| **Pacific** | Widespread | Fiji, Hawaii, Pacific islands |
-| **Atlantic** | Critical | Florida Keys devastated |
-| **Red Sea** | Moderate | Heat-adapted corals showing stress |
+| Region | Bleaching Level | Mortality | Notes |
+|--------|-----------------|-----------|-------|
+| **Great Barrier Reef** | 73% of surveyed reefs | >1/3 at Lizard Island | Largest annual drop in 40 years |
+| **Caribbean** | Severe | High | Annual bleaching now normalized |
+| **Indian Ocean** | Severe | 23% killed (Chagos); 95% at Peros Banhos | Maldives, Seychelles affected |
+| **Pacific** | Widespread | Variable | Fiji, Hawaii, Pacific islands |
+| **Atlantic** | Critical | 70%+ (Florida Keys) | 99.7% of tropical reefs stressed |
+| **Red Sea** | Moderate | Increasing | Heat-adapted corals now showing stress |
 
 **Florida Keys Crisis (2023-2024):**
 
@@ -421,17 +452,20 @@
 - Rescuers removed corals for shore-based survival
 - Unprecedented emergency response
 
-**NOAA Coral Bleaching Alert Levels (Updated 2024):**
+**NOAA Coral Bleaching Alert Levels (Expanded 2024):**
 
-| Level | Definition |
-|-------|------------|
-| **Watch** | Thermal stress possible |
-| **Warning** | Thermal stress likely |
-| **Alert Level 1** | Bleaching likely |
-| **Alert Level 2** | Mortality likely |
-| **Alert Level 3** | Multi-species mortality likely (NEW) |
-| **Alert Level 4** | Severe mortality likely (NEW) |
-| **Alert Level 5** | Near complete mortality (NEW) |
+| Level | Definition | Context |
+|-------|------------|---------|
+| **Watch** | Thermal stress possible | — |
+| **Warning** | Thermal stress likely | — |
+| **Alert Level 1** | Bleaching likely | — |
+| **Alert Level 2** | Mortality likely | Previous highest |
+| **Alert Level 3** | Multi-species mortality likely | **NEW (2024)** |
+| **Alert Level 4** | Severe mortality likely | **NEW (2024)** |
+| **Alert Level 5** | >80% coral mortality | **NEW (2024)** |
+
+> **New Alert Levels Required:** The severity of the 2023-2025 event forced NOAA to add three new alert
+> levels (3-5) because the previous scale (maxed at Level 2) was insufficient to capture the crisis.
 
 ### 5.3 Insect Decline Crisis
 
@@ -723,7 +757,28 @@
 | **Invasive species** | Control priority invasives | Limited progress |
 | **Reduce pollution** | 50% reduction | Some progress |
 | **Sustainable use** | Transform consumption | Early stages |
-| **Finance gap** | Close $700 billion gap | $20 billion pledged |
+| **Finance gap** | Close $700 billion gap | $200B/year pledged (Rome 2025) |
+
+**COP16 Outcomes (Cali, Colombia - October 21–November 1, 2024):**
+
+| Achievement | Status | Details |
+|-------------|--------|---------|
+| **Cali Fund (DSI)** | **Adopted** | Fund for Digital Sequence Information; companies encouraged to contribute 1% of DSI profits or 0.1% of revenue |
+| **Indigenous Peoples Recognition** | **Adopted** | First-ever permanent subsidiary body for Indigenous Peoples and local communities |
+| **Biodiversity-Health Action Plan** | **Adopted** | Voluntary plan linking biodiversity and health policy after 4 years of negotiations |
+| **Marine EBSAs** | **Adopted** | Agreement on identifying Ecologically or Biologically Significant Marine Areas |
+| **NBSAPs Submitted** | Progress | 44 countries submitted revised national biodiversity strategies; 119 parties uploaded national targets |
+| **Finance mechanism** | **Suspended** | No consensus on new dedicated fund; discussions deferred |
+| **Monitoring mechanism** | **Suspended** | Lack of consensus; not enough negotiators present |
+
+**COP16 Extended Session (Rome, Italy - February 25-27, 2025):**
+
+Following partial collapse in Cali, an extended session agreed on a roadmap to provide developing countries with
+**US$200 billion per year** to finance implementation of conservation targets by 2030.
+
+> **Assessment:** COP16 achieved landmark agreements on DSI funding and Indigenous rights but collapsed on the
+> critical issues of finance mechanisms and monitoring. The Rome extended session addressed some finance gaps.
+> COP17 scheduled for 2026 in Yerevan, Armenia.
 
 ### 9.2 30x30 Initiative Status
 
@@ -810,28 +865,34 @@
 
 ## 11. Data Sources & References
 
-### Primary Data Sources
+### Primary Data Sources (Verified 2024-2025)
 
 **Global Assessments:**
 
-- IUCN Red List of Threatened Species. Version 2025-2. www.iucnredlist.org
-- WWF. 2024. Living Planet Report 2024.
+- IUCN Red List of Threatened Species. **Version 2025-2.** www.iucnredlist.org **[172,600+ species assessed]**
+- WWF. 2024. Living Planet Report 2024. **[73% population decline confirmed]**
 - IPBES. 2019/2023. Global Assessment Reports.
-- Global Tree Assessment. 2024. IUCN/BGCI.
+- Global Tree Assessment. 2024. IUCN/BGCI. **[38% of trees threatened]**
+
+**Coral and Marine:**
+
+- NOAA Coral Reef Watch. 2024-2025. Bleaching monitoring. coralreefwatch.noaa.gov
+- ICRI. April 2025. 4th Global Bleaching Event Update. **[84% of reefs affected]**
+- Sea Shepherd Conservation Society. 2025. Vaquita monitoring reports. **[7-10 individuals]**
 
 **Regional and Taxonomic:**
 
-- BirdLife International. 2024. State of the World's Birds.
+- BirdLife International. 2024. State of the World's Birds. **[>50% declining]**
 - Amphibian Survival Alliance. 2024. Assessment updates.
-- Coral Reef Watch (NOAA). 2024-2025. Bleaching monitoring.
 - TRAFFIC. 2024. Wildlife trade monitoring.
 
-**Policy and Finance:**
+**Policy and COP:**
 
-- CBD. Kunming-Montreal GBF monitoring.
+- CBD. 2024. COP16 Outcomes (Cali, Colombia). **[Cali Fund adopted; finance mechanism suspended]**
+- CBD. 2025. COP16 Extended Session (Rome). **[$200B/year roadmap]**
 - Paulson Institute. 2020. Financing Nature report.
-- TNFD. 2024. Adoption reports.
-- World Economic Forum. 2024. Nature risk assessments.
+- UNEP. 2023. State of Finance for Nature. **[Updated finance gap: $542-737 billion]**
+- TNFD. 2024-2025. Adoption reports. **[733+ organizations]**
 
 ### Key Publications (2023-2025)
 
@@ -839,24 +900,54 @@
 - Díaz, S. et al. 2024. Climate change and biodiversity loss: The twin crises.
 - Rivers, M. et al. 2024. Global Tree Assessment: Final report.
 - WWF/ZSL. 2024. Living Planet Report methodology and data.
+- IUCN. 2025. The IUCN Red List Report: 60 Years of Success. **[60th anniversary]**
 
 ### Real-Time Monitoring
 
-- IUCN Red List (updated bi-annually)
+- IUCN Red List (updated bi-annually: March and October)
 - Global Forest Watch (weekly updates)
 - Coral Reef Watch (daily SST monitoring)
 - eBird/iNaturalist (citizen science)
+- Our World in Data (environmental data compilation)
+
+### Gaps and Uncertainties
+
+**Known Data Limitations:**
+
+1. **Extinction undercount:** Only ~943 documented extinctions since 1500; actual number likely 10×+ higher
+2. **Assessment coverage:** Only ~172,600 of ~2 million known species assessed; millions more unknown
+3. **Invertebrate bias:** <1% of invertebrates assessed; true extinction crisis likely much worse
+4. **Real-time lag:** Extinction declarations often come decades after last sighting
+5. **Regional gaps:** Africa, Asia, and Latin America significantly under-assessed
+
+**Areas of Uncertainty:**
+
+- Coral reef mortality rates (varies by methodology)
+- Insect decline rates (limited long-term datasets)
+- Climate-extinction interactions (complex modeling)
+- "Dark extinctions" (species lost before discovery)
 
 ---
 
-> **Document Status:** Version 1.0 - Current
+> **Document Status:** Version 2.0 - Comprehensive Research Verification Complete
 > **Last Updated:** Friday, December 12, 2025
-> **Next Review:** Quarterly (March 2026)
+> **Verification Date:** December 2025 (against 2024-2025 authoritative sources)
+> **Next Review:** Quarterly (March 2026); update after each IUCN Red List release
 > **Cross-References:** major_minor_extinction_events.md, major_minor_animal_groups.md
 
 ---
 
-> *Document compiled: Friday, December 12, 2025*
+### Version History
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.0 | 2025-12-12 | Initial comprehensive document |
+| 2.0 | 2025-12-12 | Research verification update: Updated IUCN (172,600+ species), added slender-billed curlew extinction, coral bleaching (84% reefs), COP16 outcomes, vaquita population (7-10), WWF LPR 2024 confirmed, added uncertainty clauses |
+
+---
+
+> *Document compiled and verified: Friday, December 12, 2025*
+> *Research sources: IUCN, WWF, NOAA, ICRI, IPBES, CBD, UNEP, Sea Shepherd*
 
 ---
 
