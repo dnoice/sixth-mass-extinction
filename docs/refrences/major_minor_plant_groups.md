@@ -37,11 +37,11 @@
 
     How to use:
         1. Navigate via Table of Contents to specific taxonomic groups
-        2. Reference conservation statistics for research and reporting
-        3. Cross-reference with major_minor_biomes.md for habitat analysis
-        4. Cross-reference with major_minor_animal_groups.md for ecosystem context
-        5. Use summary tables for comparative extinction risk assessment
-        6. Cite primary sources listed for academic/professional use
+        1. Reference conservation statistics for research and reporting
+        1. Cross-reference with major_minor_biomes.md for habitat analysis
+        1. Cross-reference with major_minor_animal_groups.md for ecosystem context
+        1. Use summary tables for comparative extinction risk assessment
+        1. Cite primary sources listed for academic/professional use
 
 ✒ Examples:
     - Example 1: Research orchid illegal trade → Orchidaceae section
@@ -78,26 +78,26 @@
 ## Table of Contents
 
 1. [Executive Summary](#1-executive-summary)
-2. [Vascular Plants: Seed Plants](#2-vascular-plants-seed-plants)
+1. [Vascular Plants: Seed Plants](#2-vascular-plants-seed-plants)
    - [2.1 Angiosperms (Flowering Plants)](#21-angiosperms-flowering-plants)
    - [2.2 Gymnosperms (Naked Seed Plants)](#22-gymnosperms-naked-seed-plants)
-3. [Vascular Plants: Spore-Bearing](#3-vascular-plants-spore-bearing)
+1. [Vascular Plants: Spore-Bearing](#3-vascular-plants-spore-bearing)
    - [3.1 Pteridophytes (Ferns & Allies)](#31-pteridophytes-ferns--allies)
    - [3.2 Lycophytes (Club Mosses & Relatives)](#32-lycophytes-club-mosses--relatives)
-4. [Non-Vascular Plants](#4-non-vascular-plants)
+1. [Non-Vascular Plants](#4-non-vascular-plants)
    - [4.1 Bryophytes (Mosses, Liverworts, Hornworts)](#41-bryophytes-mosses-liverworts-hornworts)
-5. [Specialized High-Risk Groups](#5-specialized-high-risk-groups)
+1. [Specialized High-Risk Groups](#5-specialized-high-risk-groups)
    - [5.1 Orchidaceae (Orchids)](#51-orchidaceae-orchids)
    - [5.2 Cactaceae (Cacti)](#52-cactaceae-cacti)
    - [5.3 Cycadophyta (Cycads)](#53-cycadophyta-cycads)
-6. [Cross-Cutting Conservation Concerns](#6-cross-cutting-conservation-concerns)
+1. [Cross-Cutting Conservation Concerns](#6-cross-cutting-conservation-concerns)
    - [6.1 Trees Global Assessment](#61-trees-global-assessment)
    - [6.2 Medicinal Plants](#62-medicinal-plants)
    - [6.3 Illegal Plant Trade](#63-illegal-plant-trade)
-7. [Extinction Patterns & Drivers](#7-extinction-patterns--drivers)
-8. [Conservation Framework](#8-conservation-framework)
-9. [Summary Comparison Table](#9-summary-comparison-table)
-10. [Data Sources & References](#10-data-sources--references)
+1. [Extinction Patterns & Drivers](#7-extinction-patterns--drivers)
+1. [Conservation Framework](#8-conservation-framework)
+1. [Summary Comparison Table](#9-summary-comparison-table)
+1. [Data Sources & References](#10-data-sources--references)
 
 ---
 
@@ -106,7 +106,7 @@
 ### Global Plant Diversity at a Glance
 
 | Metric | Value | Source |
-|--------|-------|--------|
+| -------- | ------- | -------- |
 | **Total described plant species** | ~400,000 | World Flora Online 2024 |
 | **Flowering plants (angiosperms)** | ~335,000 species | WCVP 2024 |
 | **Gymnosperms** | ~1,090 species | IUCN 2024 |
@@ -130,7 +130,7 @@
 ### Threat Summary
 
 | Primary Threat | % of Threatened Plants Affected |
-|----------------|--------------------------------|
+| ---------------- | -------------------------------- |
 | Agriculture/land conversion | 73% |
 | Logging/wood harvesting | 50% |
 | Urban/infrastructure development | 35% |
@@ -158,7 +158,7 @@ Angiosperms—flowering plants—dominate terrestrial ecosystems and comprise ov
 #### Taxonomic Diversity: Bryophytes
 
 | Major Group | Approx. Species | Key Families |
-|-------------|-----------------|--------------|
+| ------------- | ----------------- | -------------- |
 | **Eudicots** | ~210,000 | Asteraceae (daisies), Fabaceae (legumes), Rosaceae (roses) |
 | **Monocots** | ~70,000 | Poaceae (grasses), Orchidaceae (orchids), Arecaceae (palms) |
 | **Magnoliids** | ~10,000 | Lauraceae (laurels), Magnoliaceae (magnolias) |
@@ -167,17 +167,17 @@ Angiosperms—flowering plants—dominate terrestrial ecosystems and comprise ov
 #### Largest Families by Species Count
 
 1. **Asteraceae** (daisies, sunflowers): ~32,000 species
-2. **Orchidaceae** (orchids): ~28,000 species
-3. **Fabaceae** (legumes): ~20,000 species
-4. **Rubiaceae** (coffee family): ~13,500 species
-5. **Poaceae** (grasses): ~12,000 species
+1. **Orchidaceae** (orchids): ~28,000 species
+1. **Fabaceae** (legumes): ~20,000 species
+1. **Rubiaceae** (coffee family): ~13,500 species
+1. **Poaceae** (grasses): ~12,000 species
 
 #### Conservation Status (2024-2025)
 
-**IUCN Red List Summary for Flowering Plants:**
+##### IUCN Red List Summary for Flowering Plants
 
 | Category | Number | Notes |
-|----------|--------|-------|
+| ---------- | -------- | ------- |
 | Critically Endangered | ~5,700 | 569 tagged "possibly extinct" |
 | Endangered | ~8,200 | Rapid habitat loss |
 | Vulnerable | ~13,100 | High extinction risk |
@@ -185,7 +185,7 @@ Angiosperms—flowering plants—dominate terrestrial ecosystems and comprise ov
 | Data Deficient | ~5,400 | Likely threatened |
 | Least Concern | ~28,000 | Stable populations |
 
-**Extinction Risk Prediction (Bachman et al. 2024):**
+##### Extinction Risk Prediction (Bachman et al. 2024)
 
 - Based on Bayesian Additive Regression Trees analysis
 - 42% of ~330,000 angiosperms predicted threatened
@@ -199,17 +199,17 @@ Angiosperms—flowering plants—dominate terrestrial ecosystems and comprise ov
    - Grazing pressure
    - Plantation monocultures
 
-2. **Habitat fragmentation**
+1. **Habitat fragmentation**
    - Road construction
    - Urban sprawl
    - Infrastructure development
 
-3. **Climate change**
+1. **Climate change**
    - Range shifts
    - Phenological mismatches
    - Drought stress
 
-4. **Invasive species competition**
+1. **Invasive species competition**
    - Displacement by non-native plants
    - Altered fire regimes
    - Pathogen introduction
@@ -226,7 +226,7 @@ Angiosperms—flowering plants—dominate terrestrial ecosystems and comprise ov
 #### Notable Threatened Species: Cactaceae
 
 | Species | Status | Region | Threat |
-|---------|--------|--------|--------|
+| --------- | -------- | -------- | -------- |
 | *Magnolia sirindhorniae* | CR | Thailand | Habitat loss |
 | *Dracaena cinnabari* | VU | Socotra | Climate change |
 | *Encholirium spectabile* | EN | Brazil | Collection |
@@ -244,10 +244,10 @@ The first **Global Tree Assessment** (October 2024) was a landmark achievement:
 - Over **5,000 species** used for timber
 - Over **2,000 species** used for medicines, food, fuel
 
-**Regional Threat Levels:**
+##### Regional Threat Levels
 
 | Region | % Trees Threatened | Notes |
-|--------|-------------------|-------|
+| -------- | ------------------- | ------- |
 | Islands (global) | 50%+ | Highest vulnerability |
 | South America | 25%+ | Expected to increase |
 | Southeast Asia | 35%+ | Logging pressure |
@@ -269,7 +269,7 @@ Gymnosperms—"naked seed" plants—produce seeds without enclosing fruits. This
 #### Taxonomic Breakdown
 
 | Group | Species | Threatened % | Key Representatives |
-|-------|---------|--------------|---------------------|
+| ------- | --------- | -------------- | --------------------- |
 | **Conifers** | 638 | 34% | Pines, firs, spruces, redwoods |
 | **Cycads** | 339 | 70% | *Encephalartos*, *Cycas*, *Zamia* |
 | **Gnetophytes** | 112 | Variable | *Welwitschia*, *Ephedra*, *Gnetum* |
@@ -277,10 +277,10 @@ Gymnosperms—"naked seed" plants—produce seeds without enclosing fruits. This
 
 #### Conservation Status: Pteridophytes
 
-**Gymnosperms face the highest threat level of any major plant group:**
+##### Gymnosperms face the highest threat level of any major plant group
 
 | Category | Conifers | Cycads | All Gymnosperms |
-|----------|----------|--------|-----------------|
+| ---------- | ---------- | -------- | ----------------- |
 | Critically Endangered | 81 species | ~100 | 81+ CR gymnosperms |
 | Endangered | ~100 | ~100 | High illegal trade |
 | Vulnerable | ~35 | ~38 | Climate vulnerable |
@@ -292,20 +292,20 @@ Gymnosperms—"naked seed" plants—produce seeds without enclosing fruits. This
 **Distribution:** Boreal/montane forests, some tropics
 **Threatened:** 34%
 
-**Major Conifer Families:**
+##### Major Conifer Families
 
 | Family | Species | Examples | Conservation Notes |
-|--------|---------|----------|-------------------|
+| -------- | --------- | ---------- | ------------------- |
 | Pinaceae | ~250 | Pines, spruces, firs | Some overharvested |
 | Cupressaceae | ~160 | Cypresses, junipers, redwoods | Giant sequoia VU |
 | Podocarpaceae | ~190 | Podocarps (Southern Hemisphere) | Island species at risk |
 | Araucariaceae | ~40 | Araucarias, kauri | Ancient lineages threatened |
 | Taxaceae | ~30 | Yews | Medicinal overharvest |
 
-**Iconic Threatened Conifers:**
+##### Iconic Threatened Conifers
 
 | Species | Status | Estimated Pop. | Threat |
-|---------|--------|----------------|--------|
+| --------- | -------- | ---------------- | -------- |
 | *Wollemia nobilis* (Wollemi pine) | CR | ~100 wild | Fire, disease |
 | *Araucaria araucana* (Monkey puzzle) | EN | Declining | Logging, fire |
 | *Sequoiadendron giganteum* | EN | ~80,000 | Climate/fire |
@@ -318,15 +318,15 @@ Gymnosperms—"naked seed" plants—produce seeds without enclosing fruits. This
 Top 10 EDGE priority gymnosperms (2018 assessment):
 
 1. *Wollemia nobilis* (Wollemi pine) - Australia
-2. *Amentotaxus argotaenia* - China/Vietnam
-3. *Araucaria angustifolia* (Parana pine) - Brazil
-4. *Agathis australis* (Kauri) - New Zealand
-5. *Acmopyle sahniana* - Fiji (<200 individuals)
-6. *Microcycas calocoma* - Cuba (sole genus member)
-7. *Bowenia serrulata* - Australia
-8. *Stangeria eriopus* - South Africa
-9. *Zamia purpurea* - Mexico
-10. *Dioon edule* - Mexico
+1. *Amentotaxus argotaenia* - China/Vietnam
+1. *Araucaria angustifolia* (Parana pine) - Brazil
+1. *Agathis australis* (Kauri) - New Zealand
+1. *Acmopyle sahniana* - Fiji (<200 individuals)
+1. *Microcycas calocoma* - Cuba (sole genus member)
+1. *Bowenia serrulata* - Australia
+1. *Stangeria eriopus* - South Africa
+1. *Zamia purpurea* - Mexico
+1. *Dioon edule* - Mexico
 
 #### Ecological Importance of Gymnosperms
 
@@ -354,7 +354,7 @@ Pteridophytes—ferns, horsetails, and whisk ferns—are vascular plants reprodu
 #### Taxonomic Structure: Cycadophyta
 
 | Group | Species | Key Features |
-|-------|---------|--------------|
+| ------- | --------- | -------------- |
 | **True ferns** (Polypodiopsida) | ~10,500 | Fronds with sori (spore clusters) |
 | **Horsetails** (Equisetopsida) | ~15 | Silica-rich jointed stems |
 | **Whisk ferns** (Psilotopsida) | ~17 | Simple, rootless structure |
@@ -363,12 +363,12 @@ Pteridophytes—ferns, horsetails, and whisk ferns—are vascular plants reprodu
 
 #### Conservation Assessment: Bryophytes
 
-**IUCN Sampled Red List Index (2016-2024):**
+##### IUCN Sampled Red List Index (2016-2024)
 
 Prior to comprehensive sampling, 54% of assessed ferns were threatened (because assessments targeted known threatened species). Random sampling revealed a more realistic **16% threatened** rate:
 
 | Category | % of Sampled Species |
-|----------|---------------------|
+| ---------- | --------------------- |
 | Critically Endangered | 3% |
 | Endangered | 5% |
 | Vulnerable | 8% |
@@ -385,17 +385,17 @@ Prior to comprehensive sampling, 54% of assessed ferns were threatened (because 
    - Wetland drainage
    - Land conversion
 
-2. **Climate change**
+1. **Climate change**
    - Moisture regime shifts
    - Cloud forest desiccation
    - Temperature stress
 
-3. **Collection**
+1. **Collection**
    - Horticultural trade
    - Traditional medicine
    - Scientific overcollection
 
-4. **Invasive species**
+1. **Invasive species**
    - Competition
    - Altered light regimes
    - Fire frequency changes
@@ -403,7 +403,7 @@ Prior to comprehensive sampling, 54% of assessed ferns were threatened (because 
 #### Notable Threatened Ferns
 
 | Species | Status | Region | Notes |
-|---------|--------|--------|-------|
+| --------- | -------- | -------- | ------- |
 | *Isoetes* spp. (quillworts) | Multiple CR | Global | Aquatic, pollution-sensitive |
 | *Pteris vittata* (brake fern) | LC | Global | Arsenic hyperaccumulator |
 | *Marsilea quadrifolia* (4-leaf clover fern) | VU | Europe | Wetland loss |
@@ -435,7 +435,7 @@ Lycophytes are an ancient lineage—once dominant as 40-meter trees in Carbonife
 #### Taxonomic Groups
 
 | Family | Species | Distribution | Features |
-|--------|---------|--------------|----------|
+| -------- | --------- | -------------- | ---------- |
 | **Lycopodiaceae** (club mosses) | ~400 | Global | Sporophylls in strobili |
 | **Selaginellaceae** (spike mosses) | ~700 | Tropical/temperate | Heterosporous |
 | **Isoetaceae** (quillworts) | ~150 | Aquatic/wetland | Grass-like, submerged |
@@ -449,7 +449,7 @@ Lycophytes are **under-assessed** on the IUCN Red List:
 - Spike mosses collected for ornamental trade
 - Habitat loss primary concern
 
-**High-Risk Genera:**
+##### High-Risk Genera
 
 - *Isoetes*: Aquatic/semi-aquatic, pollution-sensitive
 - *Huperzia*: Tropical epiphytes, deforestation-vulnerable
@@ -458,7 +458,7 @@ Lycophytes are **under-assessed** on the IUCN Red List:
 #### Notable Species: Bryophytes
 
 | Species | Status | Region | Significance |
-|---------|--------|--------|--------------|
+| --------- | -------- | -------- | -------------- |
 | *Isoetes malinverniana* | CR | Italy | Possibly extinct |
 | *Selaginella lepidophylla* (resurrection plant) | LC | Americas | Drought tolerance |
 | *Huperzia serrata* | VU | Asia | Traditional medicine |
@@ -482,19 +482,19 @@ Bryophytes—mosses, liverworts, and hornworts—are non-vascular plants that la
 #### Taxonomic Diversity
 
 | Division | Species | Key Features |
-|----------|---------|--------------|
+| ---------- | --------- | -------------- |
 | **Bryophyta** (true mosses) | ~13,000 | Spiral leaf arrangement, upright growth |
 | **Marchantiophyta** (liverworts) | ~6,000 | Thalloid or leafy, oil bodies |
 | **Anthocerotophyta** (hornworts) | ~300 | Horn-shaped sporophytes, cyanobacteria symbiosis |
 
 #### Conservation Assessment
 
-**IUCN Sampled Red List Index (2020-2024):**
+##### IUCN Sampled Red List Index (2020-2024)
 
 Before random sampling, 58% of assessed bryophytes were threatened (biased toward known rare species). Comprehensive sampling revealed **~15% threatened**:
 
 | Category | % Assessed |
-|----------|-----------|
+| ---------- | ----------- |
 | Critically Endangered | 2% |
 | Endangered | 5% |
 | Vulnerable | 8% |
@@ -511,44 +511,44 @@ Before random sampling, 58% of assessed bryophytes were threatened (biased towar
    - Altered precipitation
    - Permafrost thaw
 
-2. **Habitat loss**
+1. **Habitat loss**
    - Deforestation (epiphytic species)
    - Wetland drainage
    - Agricultural conversion
 
-3. **Air pollution**
+1. **Air pollution**
    - Bryophytes highly sensitive to SO₂, heavy metals
    - Atmospheric deposition
    - Eutrophication
 
-4. **Land use changes**
+1. **Land use changes**
    - Peat extraction
    - Forestry practices
    - Urban development
 
 #### Ecological Importance
 
-**Peatland Carbon Storage:**
+##### Peatland Carbon Storage
 
 - Sphagnum (peat moss) dominates northern peatlands
 - Peatlands store **2-3× more carbon than tropical rainforests**
 - ~30% of global soil carbon in peatlands
 - Sphagnum accumulates 1mm/year, locking carbon for millennia
 
-**Water Retention:**
+##### Water Retention
 
 - Sphagnum holds 20× its dry weight in water
 - Critical for watershed hydrology
 - Reduces flood risk
 - Maintains stream flow during drought
 
-**Indicator Species:**
+##### Indicator Species
 
 - Sensitive to air quality (biomonitors)
 - Used to track pollution deposition
 - Early warning of environmental change
 
-**Successional Role:**
+##### Successional Role
 
 - Pioneer species on bare substrates
 - Facilitate soil formation
@@ -557,7 +557,7 @@ Before random sampling, 58% of assessed bryophytes were threatened (biased towar
 #### Notable Bryophyte Species
 
 | Species | Status | Region | Notes |
-|---------|--------|--------|-------|
+| --------- | -------- | -------- | ------- |
 | *Sphagnum* spp. (peat mosses) | Variable | Northern | Carbon storage, 50+ species assessed |
 | *Bryum calophyllum* | EX | England | Extinct 1983 |
 | *Fissidens grandifrons* | VU | Atlantic islands | Laurel forest endemic |
@@ -592,14 +592,14 @@ Orchids represent one of the most species-rich and threatened plant families. Th
 #### Diversity and Distribution: Cactaceae
 
 | Region | Approx. Species | Endemism |
-|--------|-----------------|----------|
+| -------- | ----------------- | ---------- |
 | Tropical Americas | ~10,000 | High |
 | Southeast Asia | ~8,000 | Very high |
 | Africa/Madagascar | ~3,500 | High (Madagascar) |
 | Australasia | ~1,500 | High |
 | Temperate regions | ~1,000 | Moderate |
 
-**Major Genera:**
+##### Major Genera
 
 - *Bulbophyllum*: ~2,000 species (largest orchid genus)
 - *Epidendrum*: ~1,500 species
@@ -609,7 +609,7 @@ Orchids represent one of the most species-rich and threatened plant families. Th
 
 #### Conservation Status
 
-**Alarming Statistics:**
+##### Alarming Statistics
 
 - **56.5% of assessed orchids** are threatened (CR, EN, VU)
 - **Slipper orchids (Cypripedioideae):** 79-90% threatened
@@ -617,7 +617,7 @@ Orchids represent one of the most species-rich and threatened plant families. Th
 - Illegal trade contributes to decline of ~1/3 of threatened species
 
 | Category | % of Assessed Orchids |
-|----------|----------------------|
+| ---------- | ---------------------- |
 | Critically Endangered | 15% |
 | Endangered | 22% |
 | Vulnerable | 19.5% |
@@ -629,27 +629,27 @@ Orchids represent one of the most species-rich and threatened plant families. Th
 Four distinct threat patterns identified:
 
 1. **Syndrome 1:** Terrestrial forest orchids, endemic to single countries, threatened by illegal collection
-2. **Syndrome 2:** East Asian orchids threatened by climate change, pollution, tourism development
-3. **Syndrome 3:** African/Madagascan epiphytes with diverse threats
-4. **Syndrome 4:** South/Southeast Asian orchids threatened by shifting agriculture
+1. **Syndrome 2:** East Asian orchids threatened by climate change, pollution, tourism development
+1. **Syndrome 3:** African/Madagascan epiphytes with diverse threats
+1. **Syndrome 4:** South/Southeast Asian orchids threatened by shifting agriculture
 
 #### Illegal Trade
 
-**Scale of Problem:**
+##### Scale of Problem (Illegal Trade)
 
 - Global orchid market: ~$5.15 billion (2020), projected $7.05 billion (2025)
 - Wild-collected plants remain in high demand despite propagation
 - Social media platforms facilitate illegal sales
 - Salep trade (ground orchid tubers): 7-11 million orchids harvested annually for food products
 
-**High-Risk Genera for Trade:**
+##### High-Risk Genera for Trade
 
 - *Paphiopedilum* (slipper orchids): Critically sought by collectors
 - *Phragmipedium*: South American slippers
 - *Dendrobium*: Medicinal and ornamental
 - *Vanilla*: Wild populations declining
 
-**Recent Cases:**
+##### Recent Cases
 
 - 2020 "Operation Atacama": 1,000+ illegally harvested plants seized in Italy
 - Ghost orchid (*Dendrophylax lindenii*): Listed as Endangered under US ESA (2024)
@@ -657,14 +657,14 @@ Four distinct threat patterns identified:
 
 #### Ecological Specialization
 
-**Pollination:**
+##### Pollination
 
 - 87% of orchids rely on animal pollinators
 - Many species have single pollinator (extreme specialization)
 - Deceptive pollination common (no reward)
 - Pollinator decline threatens reproduction
 
-**Mycorrhizal Dependency:**
+##### Mycorrhizal Dependency
 
 - All orchid seeds require fungal partners to germinate
 - Many species maintain fungal relationships throughout life
@@ -697,17 +697,17 @@ Cacti are iconic plants of New World deserts, characterized by water-storing ste
 
 **Geographic Range:** Americas (one exception: *Rhipsalis baccifera* in Africa/Madagascar/Sri Lanka)
 
-**Diversity Hotspots:**
+##### Diversity Hotspots
 
 | Region | Approx. Species | Endemism |
-|--------|-----------------|----------|
+| -------- | ----------------- | ---------- |
 | Mexico | ~700 | 80%+ endemic |
 | Brazil | ~250 | High |
 | Andes region | ~200 | High |
 | Chile (Atacama) | ~100 | Very high |
 | Caribbean | ~150 | High |
 
-**Major Genera:**
+##### Major Genera (Diversity and Distribution)
 
 - *Mammillaria*: ~200 species
 - *Opuntia*: ~150 species
@@ -717,20 +717,20 @@ Cacti are iconic plants of New World deserts, characterized by water-storing ste
 
 #### Conservation Status (2024): Cycadophyta
 
-**Overall Assessment:**
+##### Overall Assessment
 
 - **31% threatened** (among highest for comprehensively assessed plant groups)
 - 47% of threatened species impacted by **illegal trade**
 - Cacti more threatened than birds or mammals
 
 | Category | Number | % |
-|----------|--------|---|
+| ---------- | -------- | --- |
 | Critically Endangered | ~150 | 10% |
 | Endangered | ~180 | 12% |
 | Vulnerable | ~135 | 9% |
 | **Total Threatened** | ~465 | 31% |
 
-**Copiapoa Crisis (2024 Assessment):**
+##### Copiapoa Crisis (2024 Assessment)
 
 - Endemic to Chile's Atacama Desert
 - **82% threatened** (up from 55% in 2013)
@@ -748,19 +748,19 @@ Cacti are iconic plants of New World deserts, characterized by water-storing ste
    - Slow growth makes replacement impossible
    - Poachers now using GPS and drones
 
-2. **Habitat destruction**
+1. **Habitat destruction**
    - Agricultural expansion
    - Urban development
    - Mining operations
    - Infrastructure (roads, solar farms)
 
-3. **Climate change**
+1. **Climate change**
    - Altered fog patterns (Atacama coast)
    - Drought intensity
    - Temperature extremes
    - Range shifts impossible (slow dispersal)
 
-4. **Invasive species**
+1. **Invasive species**
    - Grazing by introduced animals
    - Competition from exotic plants
    - Altered fire regimes
@@ -776,7 +776,7 @@ Cacti are iconic plants of New World deserts, characterized by water-storing ste
 #### Notable Threatened Species
 
 | Species | Status | Population | Primary Threat |
-|---------|--------|------------|----------------|
+| --------- | -------- | ------------ | ---------------- |
 | *Copiapoa cinerea* | CR | <1,000 | Collection |
 | *Mammillaria luethyi* | CR | <500 | Collection |
 | *Ariocarpus* spp. | CR/EN | Variable | Collection, habitat |
@@ -810,11 +810,11 @@ Cycads are the **most endangered plant group on Earth**. These ancient gymnosper
 #### Taxonomic Structure
 
 | Family | Genera | Species | Distribution |
-|--------|--------|---------|--------------|
+| -------- | -------- | --------- | -------------- |
 | **Cycadaceae** | *Cycas* | ~115 | Asia, Australia, Pacific |
 | **Zamiaceae** | 9 genera | ~220 | Americas, Africa, Australia |
 
-**Major Genera:**
+##### Major Genera (Taxonomic Structure)
 
 - *Encephalartos* (Africa): 65 species, 12 Critically Endangered
 - *Cycas* (Asia/Australia): 115 species
@@ -824,10 +824,10 @@ Cycads are the **most endangered plant group on Earth**. These ancient gymnosper
 
 #### Conservation Status (2024)
 
-**The Cycad Crisis:**
+##### The Cycad Crisis
 
 | Category | Number | % |
-|----------|--------|---|
+| ---------- | -------- | --- |
 | Critically Endangered | ~100 | 29% |
 | Endangered | ~100 | 29% |
 | Vulnerable | ~40 | 12% |
@@ -836,7 +836,7 @@ Cycads are the **most endangered plant group on Earth**. These ancient gymnosper
 | Least Concern | 55 | 16% |
 | Data Deficient | 19 | 6% |
 
-**Extinct in the Wild:**
+##### Extinct in the Wild
 
 - *Encephalartos woodii*: Male only survives in cultivation; no wild females
 - Other species possibly functionally extinct (single sex remaining)
@@ -848,37 +848,37 @@ Cycads are the **most endangered plant group on Earth**. These ancient gymnosper
    - Centuries to reach full size
    - Cannot recover from population losses
 
-2. **Illegal collection** (threatens 2/3 of species)
+1. **Illegal collection** (threatens 2/3 of species)
    - Premium prices for large specimens ($20,000+)
    - Entire populations poached overnight
    - "Laundering" as cultivated stock
    - Organized criminal involvement
 
-3. **Habitat destruction**
+1. **Habitat destruction**
    - Agricultural expansion
    - Urban development
    - Mining
 
-4. **Small populations**
+1. **Small populations**
    - Many species <1,000 individuals
    - Some <100 individuals
    - Genetic vulnerability
 
-5. **Climate change**
+1. **Climate change**
    - Tropical range restrictions
    - Drought sensitivity
    - Fire regime changes
 
 #### Ecological Significance
 
-**Ancient Relationships:**
+##### Ancient Relationships
 
 - Oldest seed plants still in existence
 - Specialized pollinators (beetles, thrips)
 - Toxic seeds with specialized dispersers
 - Nitrogen-fixing root symbionts (cyanobacteria)
 
-**Evolutionary Value:**
+##### Evolutionary Value
 
 - Represent 300 million years of evolution
 - Living window to Mesozoic ecosystems
@@ -888,7 +888,7 @@ Cycads are the **most endangered plant group on Earth**. These ancient gymnosper
 #### Notable Species
 
 | Species | Status | Population | Notes |
-|---------|--------|------------|-------|
+| --------- | -------- | ------------ | ------- |
 | *Encephalartos woodii* | EW | 0 wild (male clones only) | "Loneliest plant" |
 | *Encephalartos latifrons* | CR | ~60 wild | Heavy poaching |
 | *Microcycas calocoma* | CR | <600 | Cuban endemic, sole genus |
@@ -916,7 +916,7 @@ The **2024 Global Tree Assessment** represents a landmark in plant conservation,
 #### Key Findings (October 2024)
 
 | Statistic | Value |
-|-----------|-------|
+| ----------- | ------- |
 | **Total trees assessed** | 47,282 species |
 | **Threatened species** | 16,425 (38%) |
 | **Critically Endangered** | ~2,500 species |
@@ -924,7 +924,7 @@ The **2024 Global Tree Assessment** represents a landmark in plant conservation,
 | **Trees for timber** | 5,000+ species |
 | **Trees for medicine/food** | 2,000+ species |
 
-**Comparison to Other Groups:**
+##### Comparison to Other Groups
 
 - Threatened trees > threatened birds + mammals + reptiles + amphibians **combined**
 - Trees now comprise >25% of all IUCN Red List assessments
@@ -932,7 +932,7 @@ The **2024 Global Tree Assessment** represents a landmark in plant conservation,
 #### Regional Patterns
 
 | Region | Threat Level | Key Drivers |
-|--------|--------------|-------------|
+| -------- | -------------- | ------------- |
 | **Islands (global)** | Highest | Invasive species, sea-level rise, storms |
 | **Tropical forests** | Very high | Deforestation, agriculture |
 | **Mediterranean** | High | Fire, development, climate |
@@ -952,7 +952,7 @@ Island trees face exceptional risk:
 
 ### 6.2 Medicinal Plants
 
-**Overview:**
+#### Overview (Medicinal Plants)
 
 - ~50,000-70,000 plant species used in traditional medicine globally
 - 7,500+ species in Indian traditional systems (Ayurveda, Siddha, Unani)
@@ -967,12 +967,12 @@ Island trees face exceptional risk:
    - Unregulated collection
    - Increasing market demand (global herbal market: $100+ billion)
 
-2. **Habitat Loss**
+1. **Habitat Loss**
    - Deforestation removes source populations
    - Agricultural expansion
    - Mining and development
 
-3. **Climate Change**
+1. **Climate Change**
    - Shifts distribution of temperature-sensitive species
    - Alters active compound production
    - Changes pollinator availability
@@ -980,7 +980,7 @@ Island trees face exceptional risk:
 #### High-Risk Medicinal Species
 
 | Species | Status | Use | Region |
-|---------|--------|-----|--------|
+| --------- | -------- | ----- | -------- |
 | *Panax ginseng* | CR | Tonic | East Asia |
 | *Panax quinquefolius* (American ginseng) | EN/VU | Tonic | North America |
 | *Taxus* spp. (yews) | Variable | Paclitaxel (cancer) | Global |
@@ -1001,14 +1001,14 @@ Island trees face exceptional risk:
 
 ### 6.3 Illegal Plant Trade
 
-**The Forgotten Wildlife Crime:**
+#### The Forgotten Wildlife Crime
 
 While attention focuses on ivory and rhino horn, illegal plant trade represents a massive, under-recognized conservation crisis.
 
 #### Scale of Problem
 
 | Group | Estimated Annual Trade | Value |
-|-------|----------------------|-------|
+| ------- | ---------------------- | ------- |
 | Orchids | Millions of plants | $5+ billion market |
 | Cacti/succulents | Hundreds of thousands | Hundreds of millions |
 | Cycads | Thousands of plants | Individual plants to $50,000+ |
@@ -1017,14 +1017,14 @@ While attention focuses on ivory and rhino horn, illegal plant trade represents 
 
 #### Methods and Routes
 
-**Collection:**
+##### Collection
 
 - Targeted poaching of rare species
 - Opportunistic harvest during other activities
 - GPS-guided collection of known populations
 - Drone surveillance of remote areas
 
-**Trade Channels:**
+##### Trade Channels
 
 - Social media marketplaces (Instagram, Facebook groups)
 - Online auction sites
@@ -1032,7 +1032,7 @@ While attention focuses on ivory and rhino horn, illegal plant trade represents 
 - Traditional markets (medicinal plants)
 - Dark web forums
 
-**Transport:**
+##### Transport
 
 - Postal services (most common)
 - Concealment in luggage
@@ -1060,16 +1060,16 @@ While attention focuses on ivory and rhino horn, illegal plant trade represents 
 
 ### Documented Plant Extinctions
 
-**Historical Record (1753-present):**
+#### Historical Record (1753-present)
 
 | Period | Documented Extinctions | Rate |
-|--------|----------------------|------|
+| -------- | ---------------------- | ------ |
 | 1753-1900 | ~70 species | ~0.5/year |
 | 1900-2024 | ~500 species | ~3/year |
 | **Total confirmed** | ~571 species | - |
 | **Estimated actual (2024)** | ~850 species | Undercount likely |
 
-**Extinction Rate:**
+#### Extinction Rate
 
 - **500× higher** than background extinction rate
 - ~3 plant species lost per year since 1900
@@ -1078,7 +1078,7 @@ While attention focuses on ivory and rhino horn, illegal plant trade represents 
 ### Geographic Patterns
 
 | Location | Extinctions | % of Total | Key Factor |
-|----------|-------------|-----------|------------|
+| ---------- | ------------- | ----------- | ------------ |
 | **Islands (all)** | ~285 | 50% | Invasive species |
 | **Hawaii** | 79 | 14% | Highest single location |
 | **Mauritius** | 37 | 6% | Historical clearing |
@@ -1089,7 +1089,7 @@ While attention focuses on ivory and rhino horn, illegal plant trade represents 
 
 ### Taxonomic Patterns
 
-**Groups Most Likely to Go Extinct:**
+#### Groups Most Likely to Go Extinct
 
 - Woody plants (trees, shrubs): Highest extinction rates
 - Island endemics: 50% of all extinctions
@@ -1099,7 +1099,7 @@ While attention focuses on ivory and rhino horn, illegal plant trade represents 
 ### Driver Analysis
 
 | Threat | % Species Affected | Trend |
-|--------|-------------------|-------|
+| -------- | ------------------- | ------- |
 | Habitat loss/conversion | 73% | Stable (high) |
 | Agriculture | 65% | Increasing |
 | Logging | 50% | Stable |
@@ -1116,14 +1116,14 @@ While attention focuses on ivory and rhino horn, illegal plant trade represents 
 
 ### In-Situ Conservation
 
-**Protected Areas:**
+#### Protected Areas
 
 - ~15% of land area in protected status
 - Coverage of plant diversity hotspots variable
 - Key Biodiversity Areas (KBAs) prioritize plant sites
 - Important Plant Areas (IPAs) designation ongoing
 
-**Limitations:**
+#### Limitations
 
 - Many rare species outside protected areas
 - "Paper parks" with inadequate enforcement
@@ -1131,14 +1131,14 @@ While attention focuses on ivory and rhino horn, illegal plant trade represents 
 
 ### Ex-Situ Conservation
 
-**Botanical Gardens:**
+#### Botanical Gardens
 
 - 3,000+ gardens worldwide
 - ~100,000 species in cultivation
 - ~30% of all plant species represented
 - Living collections for research and education
 
-**Seed Banks:**
+#### Seed Banks
 
 - Svalbard Global Seed Vault: 1.1 million+ samples
 - Millennium Seed Bank (Kew): 40,000+ species (2.4 billion seeds)
@@ -1147,7 +1147,7 @@ While attention focuses on ivory and rhino horn, illegal plant trade represents 
 
 ### Restoration and Reintroduction
 
-**Challenges:**
+#### Challenges
 
 - Slow growth of many threatened species
 - Specialized habitat requirements
@@ -1155,7 +1155,7 @@ While attention focuses on ivory and rhino horn, illegal plant trade represents 
 - Pollinator requirements
 - Genetic diversity limitations
 
-**Successes:**
+#### Successes
 
 - *Sophora toromiro* (Easter Island): Reintroduction from garden plants
 - *Franklinia alatamaha*: Survives only in cultivation (EW since 1803)
@@ -1163,16 +1163,16 @@ While attention focuses on ivory and rhino horn, illegal plant trade represents 
 
 ### Policy Framework
 
-**International:**
+#### International
 
 - **CITES:** Regulates trade in ~35,000 plant species
 - **CBD:** Convention on Biological Diversity (GBF targets)
 - **GSPC:** Global Strategy for Plant Conservation
 
-**Global Strategy for Plant Conservation 2020 Targets:**
+#### Global Strategy for Plant Conservation 2020 Targets
 
 | Target | Status |
-|--------|--------|
+| -------- | -------- |
 | Online flora (all known plants) | Partially achieved |
 | Preliminary conservation assessment (all) | Not achieved |
 | 75% of threatened plants in ex-situ collections | Partially achieved |
@@ -1185,7 +1185,7 @@ While attention focuses on ivory and rhino horn, illegal plant trade represents 
 ### Threat Levels by Major Plant Group
 
 | Group | Species | Assessed | Threatened | % Threatened | Trend |
-|-------|---------|----------|------------|--------------|-------|
+| ------- | --------- | ---------- | ------------ | -------------- | ------- |
 | **Trees (all)** | ~60,000 | 47,282 | 16,425 | **38%** | ↓ Declining |
 | **Cycads** | 339 | 339 | ~240 | **70%** | ↓ Declining |
 | **Orchids** | ~28,000 | ~1,000 | ~565 | **56.5%** | ↓ Declining |
@@ -1200,7 +1200,7 @@ While attention focuses on ivory and rhino horn, illegal plant trade represents 
 ### Key Statistics Summary
 
 | Metric | Value |
-|--------|-------|
+| -------- | ------- |
 | **Total plant species** | ~400,000 |
 | **Species assessed (IUCN)** | ~66,000+ |
 | **Species threatened** | ~27,000+ |
@@ -1217,53 +1217,53 @@ While attention focuses on ivory and rhino horn, illegal plant trade represents 
 
 ### Primary Sources
 
-**IUCN Red List:**
+#### IUCN Red List
 
 - IUCN. 2024. The IUCN Red List of Threatened Species. Version 2024-2. <https://www.iucnredlist.org>
 - IUCN. 2025. The IUCN Red List of Threatened Species. Version 2025-2.
 
-**Global Tree Assessment:**
+#### Global Tree Assessment
 
 - Rivers, M., et al. 2024. Global Tree Assessment. IUCN/BGCI.
 - BGCI. 2024. 4,485 Tree Assessments Published in First 2024 IUCN Red List Update.
 
-**Extinction Studies:**
+#### Extinction Studies
 
 - Humphreys, A.M., et al. 2019. Global dataset shows geography and life form predict modern plant extinction and rediscovery. Nature Ecology & Evolution.
 - Christenhusz, M.J.M. & Govaerts, R. 2024. Plant extinctions: A global assessment.
 
-**Specialist Groups:**
+#### Specialist Groups
 
 - IUCN SSC Orchid Specialist Group
 - IUCN SSC Cactus and Succulent Plants Specialist Group
 - IUCN SSC Cycad Specialist Group
 - IUCN SSC Global Tree Specialist Group
 
-**Prediction Models:**
+#### Prediction Models
 
 - Bachman, S.P., et al. 2024. Extinction risk predictions for the world's flowering plants. New Phytologist.
 
 ### Key Publications
 
-**Trees:**
+#### Trees
 
 - Global Tree Assessment. 2024. More than one in three tree species worldwide faces extinction. IUCN Press Release.
 
-**Orchids:**
+#### Orchids
 
 - Hinsley, A., et al. 2018. A review of the trade in orchids and its implications for conservation. Botanical Journal of the Linnean Society.
 - Fay, M.F. 2018. Orchid conservation: how can we meet the challenges in the twenty-first century? Botanical Studies.
 
-**Cacti:**
+#### Cacti
 
 - Goettsch, B., et al. 2015. High proportion of cactus species threatened with extinction. Nature Plants.
 - Guerrero, P.C., et al. 2024. Effects of trade and poaching pressure on extinction risk for cacti in the Atacama Desert. Conservation Biology.
 
-**Cycads:**
+#### Cycads
 
 - Donaldson, J.S. (ed.). 2003. Cycads: Status Survey and Conservation Action Plan. IUCN.
 
-**Bryophytes & Pteridophytes:**
+#### Bryophytes & Pteridophytes
 
 - Natural History Museum. 2024. Plants Under Pressure: Bryophytes and Pteridophytes assessments.
 - Brummitt, N.A., et al. 2016. Where are threatened ferns found? Journal of Systematics and Evolution.

@@ -9,7 +9,7 @@
     - Update: Thursday, December 11, 2025
     - Author: Dennis 'dnoice' Smaltz
     - A.I. Acknowledgement: Anthropic - Claude Opus 4.5
-    - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+    - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 
 ✒ Description:
     Comprehensive reference guide covering all major and minor biomes of Earth.
@@ -1755,4 +1755,4 @@ The fate of biodiversity is inseparable from the fate of biomes. Protecting thes
 
 ---
 
-> **︻デ═—··· 🎯 = Aim Twice, Shoot Once!**
+> **︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!**

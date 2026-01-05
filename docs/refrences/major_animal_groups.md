@@ -9,7 +9,7 @@
     - Update: Thursday, December 11, 2025
     - Author: Dennis 'dnoice' Smaltz
     - A.I. Acknowledgement: Anthropic - Claude Opus 4.5
-    - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+    - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 
 ✒ Description:
     Comprehensive reference document covering all major and minor animal taxonomic groups
@@ -158,10 +158,10 @@ Approximately 6,025 species assessed (2024), divided into three major groups:
 **Major Threats:**
 
 1. Habitat loss and degradation (40% of threatened species)
-2. Overexploitation and hunting
-3. Climate change
-4. Human-wildlife conflict
-5. Disease
+1. Overexploitation and hunting
+1. Climate change
+1. Human-wildlife conflict
+1. Disease
 
 **Subgroup Highlights:**
 
@@ -253,10 +253,10 @@ Approximately 11,185 species assessed (BirdLife International 2025) across 40+ o
 **Major Threats (% of threatened species affected):**
 
 1. Agriculture (73%)
-2. Logging and wood harvesting (50%)
-3. Invasive species (43%)
-4. Hunting and trapping (41%)
-5. Climate change (37%)
+1. Logging and wood harvesting (50%)
+1. Invasive species (43%)
+1. Hunting and trapping (41%)
+1. Climate change (37%)
 
 **Notable Endangered Species:**
 
@@ -325,10 +325,10 @@ All 7 species face extinction threats:
 **Major Threats:**
 
 1. Habitat loss (agriculture, logging, urban development)
-2. Illegal pet trade
-3. Climate change (affects sex ratios in egg-laying species)
-4. Bycatch in fishing gear
-5. Hunting for skins and shells
+1. Illegal pet trade
+1. Climate change (affects sex ratios in egg-laying species)
+1. Bycatch in fishing gear
+1. Hunting for skins and shells
 
 **Notable Endangered Species:**
 
@@ -389,11 +389,11 @@ Approximately 8,009 species assessed in three orders:
 **Major Threats (% affected):**
 
 1. Habitat loss/degradation (93%)
-2. Chytrid fungus disease
-3. Climate change (36% of threatened species)
-4. Pollution and pesticides
-5. Overexploitation (food, pet trade, traditional medicine)
-6. UV radiation (thin, permeable skin)
+1. Chytrid fungus disease
+1. Climate change (36% of threatened species)
+1. Pollution and pesticides
+1. Overexploitation (food, pet trade, traditional medicine)
+1. UV radiation (thin, permeable skin)
 
 **Notable Endangered Species:**
 
@@ -455,10 +455,10 @@ The largest class of vertebrates with approximately 30,000+ known species:
 **Major Threats (% affected):**
 
 1. Pollution (57%)
-2. Dams and water extraction (45%)
-3. Invasive species (33%)
-4. Overfishing (25%)
-5. Climate change (17%)
+1. Dams and water extraction (45%)
+1. Invasive species (33%)
+1. Overfishing (25%)
+1. Climate change (17%)
 
 **Notable Endangered Species:**
 
@@ -517,10 +517,10 @@ Approximately 1,247 species assessed (2024):
 **Major Threats:**
 
 1. Overfishing (targeted and bycatch) - primary threat
-2. Illegal, Unreported, and Unregulated (IUU) fishing
-3. Habitat degradation
-4. Slow reproductive rates limit recovery
-5. Demand for fins (shark fin soup) and gill plates (manta rays)
+1. Illegal, Unreported, and Unregulated (IUU) fishing
+1. Habitat degradation
+1. Slow reproductive rates limit recovery
+1. Demand for fins (shark fin soup) and gill plates (manta rays)
 
 **Notable Endangered Species:**
 
@@ -585,11 +585,11 @@ The most species-rich animal class with 1,000,000+ described species (estimated 
 **Major Threats:**
 
 1. Habitat loss (agricultural intensification)
-2. Pesticides (especially neonicotinoids)
-3. Climate change
-4. Light pollution
-5. Invasive species
-6. Disease (varroa mites in bees)
+1. Pesticides (especially neonicotinoids)
+1. Climate change
+1. Light pollution
+1. Invasive species
+1. Disease (varroa mites in bees)
 
 **Notable Endangered Species:**
 
@@ -700,11 +700,11 @@ Approximately 70,000+ known species:
 **Major Threats:**
 
 1. Ocean acidification (affects shell formation)
-2. Overfishing and bycatch
-3. Habitat destruction
-4. Pollution (microplastics)
-5. Invasive species
-6. Climate change (temperature sensitivity)
+1. Overfishing and bycatch
+1. Habitat destruction
+1. Pollution (microplastics)
+1. Invasive species
+1. Climate change (temperature sensitivity)
 
 **Notable Endangered Species:**
 
@@ -767,11 +767,11 @@ Approximately 85,000+ known species in seven major classes:
 **Major Threats:**
 
 1. Habitat destruction (especially freshwater)
-2. Pollution and water quality degradation
-3. Ocean acidification (shell dissolution)
-4. Overharvesting
-5. Invasive species
-6. Climate change
+1. Pollution and water quality degradation
+1. Ocean acidification (shell dissolution)
+1. Overharvesting
+1. Invasive species
+1. Climate change
 
 **Notable Endangered Species:**
 
@@ -824,10 +824,10 @@ Approximately 22,000 known species in three main classes:
 **Major Threats:**
 
 1. Soil degradation and compaction
-2. Agricultural chemical use
-3. Habitat destruction
-4. Pollution
-5. Climate change (soil moisture changes)
+1. Agricultural chemical use
+1. Habitat destruction
+1. Pollution
+1. Climate change (soil moisture changes)
 
 **Notable Endangered Species:**
 
@@ -983,11 +983,11 @@ Approximately 11,000 known species in four major classes:
 **Major Threats:**
 
 1. Climate change (ocean warming, bleaching)
-2. Ocean acidification (dissolves calcium carbonate skeletons)
-3. Pollution (agricultural runoff, plastics)
-4. Overfishing (disrupts reef ecology)
-5. Coastal development
-6. Disease outbreaks
+1. Ocean acidification (dissolves calcium carbonate skeletons)
+1. Pollution (agricultural runoff, plastics)
+1. Overfishing (disrupts reef ecology)
+1. Coastal development
+1. Disease outbreaks
 
 **Notable Endangered Species:**
 
@@ -1040,11 +1040,11 @@ Approximately 9,000+ known species in four classes:
 **Major Threats:**
 
 1. Commercial harvesting (bath sponges)
-2. Climate change (temperature sensitivity)
-3. Ocean acidification (affects some species)
-4. Bottom trawling (deep-sea communities)
-5. Pollution
-6. Disease outbreaks
+1. Climate change (temperature sensitivity)
+1. Ocean acidification (affects some species)
+1. Bottom trawling (deep-sea communities)
+1. Pollution
+1. Disease outbreaks
 
 **Notable Concerns:**
 
@@ -1082,18 +1082,18 @@ Approximately 9,000+ known species in four classes:
    - Sharks & rays (37% threatened) - overfishing
    - Mammals (27% threatened) - habitat loss and hunting
 
-2. **Invertebrate Crisis:**
+1. **Invertebrate Crisis:**
    - Vastly understudied (97% of animal species)
    - Insects declining >45% since 1980s
    - Mollusks have highest documented extinction rate
    - Coral reefs in critical danger (44% threatened)
 
-3. **Freshwater Ecosystems:**
+1. **Freshwater Ecosystems:**
    - Biodiversity declining 2x faster than terrestrial or marine
    - 81% decline in migratory fish populations
    - 94% decline in large freshwater species
 
-4. **Key Extinction Drivers:**
+1. **Key Extinction Drivers:**
    - Habitat loss and degradation
    - Overexploitation
    - Climate change
@@ -1108,13 +1108,13 @@ Approximately 9,000+ known species in four classes:
 Despite the dire statistics, conservation efforts have achieved notable successes:
 
 1. **Sea Turtles**: Most populations stabilizing or increasing; green turtle nests quadrupled at key sites
-2. **Birds**: Conservation prevented 21-32 bird extinctions (1993-2020)
-3. **Mammals**: 7-16 mammal extinctions prevented through intervention
-4. **Large Mammals**: Humpback whales recovering; southern white rhino population rebounded
-5. **Island Species**: Kakapo population increased from 51 (1995) to ~250 (2024)
-6. **Captive Breeding**: California condor, Arabian oryx, black-footed ferret brought back from brink
-7. **North Atlantic Right Whale**: Slight increase to ~384 individuals (2024)
-8. **Green Sea Turtle**: Multiple regional populations recovering under protection
+1. **Birds**: Conservation prevented 21-32 bird extinctions (1993-2020)
+1. **Mammals**: 7-16 mammal extinctions prevented through intervention
+1. **Large Mammals**: Humpback whales recovering; southern white rhino population rebounded
+1. **Island Species**: Kakapo population increased from 51 (1995) to ~250 (2024)
+1. **Captive Breeding**: California condor, Arabian oryx, black-footed ferret brought back from brink
+1. **North Atlantic Right Whale**: Slight increase to ~384 individuals (2024)
+1. **Green Sea Turtle**: Multiple regional populations recovering under protection
 
 **These successes demonstrate that targeted conservation action works when resources and political will are committed.**
 
@@ -1148,4 +1148,4 @@ This document synthesizes data from multiple authoritative sources. For specific
 *Document generated: Thursday, December 11, 2025*
 *Data current as of: IUCN Red List Version 2025-2*
 
-> **︻デ═—··· 🎯 = Aim Twice, Shoot Once!**
+> **︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!**

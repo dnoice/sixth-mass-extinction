@@ -1,43 +1,52 @@
 <!--
-================================================================================
-Title:              Data Sources Attributes Matrix
-File Name:          DATA_SOURCES_ATTRIBUTES_MATRIX.md
-Relative Path:      docs/data-sources-matrix/DATA_SOURCES_ATTRIBUTES_MATRIX.md
-Artifact Type:      Documentation/Data Governance
-Version:            1.0
-Date:               2025-12-12
-Update:             Initial Creation
-Author:             Dennis 'dnoice' Smaltz
-A.I. Acknowledgement: Claude Opus 4
-Signature:          ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
-================================================================================
+✒ Metadata
+    - Title: Data Sources Attributes Matrix (SME Edition - v1.0)
+    - File Name: DATA_SOURCES_ATTRIBUTES_MATRIX.md
+    - Relative Path: docs/data-sources-matrix/DATA_SOURCES_ATTRIBUTES_MATRIX.md
+    - Artifact Type: docs
+    - Version: 1.0.0
+    - Date: 2025-12-12
+    - Update: Thursday, December 12, 2025
+    - Author: Dennis 'dnoice' Smaltz
+    - A.I. Acknowledgement: Anthropic - Claude Opus 4
+    - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 
-DESCRIPTION:
-Master matrix tracking all data sources used across the Sixth Mass Extinction
-(SME) article series. This document provides comprehensive metadata for every
-data source including provenance, quality attributes, access methods, update
-frequencies, and usage tracking across sections.
+✒ Description:
+    Master matrix tracking all data sources used across the Sixth Mass Extinction
+    (SME) article series. This document provides comprehensive metadata for every
+    data source including provenance, quality attributes, access methods, update
+    frequencies, and usage tracking across sections.
 
-KEY FEATURES:
-1. Complete source catalog with unique identifiers
-2. Quality assessment scoring for each source
-3. Access method documentation (API, download, request)
-4. Update frequency and currency tracking
-5. Section usage mapping (which sections use which sources)
-6. Citation format templates
-7. Data license and usage rights
-8. Known limitations and caveats
+✒ Key Features:
+    - Feature 1: Complete source catalog with unique identifiers (DS-XX-###)
+    - Feature 2: Quality assessment scoring for each source (1-5 scale)
+    - Feature 3: Access method documentation (API, download, request)
+    - Feature 4: Update frequency and currency tracking
+    - Feature 5: Section usage mapping (which sections use which sources)
+    - Feature 6: Citation format templates for proper attribution
+    - Feature 7: Data license and usage rights documentation
+    - Feature 8: Known limitations and caveats for each source
 
-USAGE:
-- Reference DS-XXX codes when citing sources in articles/notebooks
-- Check currency dates before using data
-- Follow access protocols for each source type
-- Update LAST_VERIFIED when re-checking sources
+✒ Usage Instructions:
+    Reference this matrix when working with data sources in the SME project.
 
-================================================================================
+    How to use:
+        1. Reference DS-XXX codes when citing sources in articles/notebooks
+        2. Check currency dates before using data
+        3. Follow access protocols for each source type
+        4. Update LAST_VERIFIED when re-checking sources
+        5. Consult quality scores when prioritizing sources
+
+✒ Other Important Information:
+    - Dependencies: None (documentation only)
+    - Compatible platforms: Universal (all text editors, IDEs)
+    - Scope: All SME article series data sources
+    - Update frequency: As new sources are added or verified
+---------
 -->
 
 # DATA SOURCES ATTRIBUTES MATRIX
+
 ## Sixth Mass Extinction Article Series
 
 ---
@@ -62,7 +71,7 @@ USAGE:
 Each data source receives a unique identifier:
 
 | Prefix | Category | Example |
-|--------|----------|---------|
+| ------ | -------- | ------- |
 | DS-PA | Primary Authoritative | DS-PA-001 (IUCN Red List) |
 | DS-PR | Peer-Reviewed Research | DS-PR-001 (Barnosky 2011) |
 | DS-GD | Government/Institutional Data | DS-GD-001 (NOAA) |
@@ -72,7 +81,7 @@ Each data source receives a unique identifier:
 ### Attribute Definitions
 
 | Attribute | Description |
-|-----------|-------------|
+| --------- | ----------- |
 | **SOURCE_ID** | Unique identifier (DS-XX-###) |
 | **NAME** | Official source name |
 | **PUBLISHER** | Publishing organization |
@@ -96,7 +105,7 @@ Each data source receives a unique identifier:
 ### Scoring Criteria (1-5 Scale)
 
 | Score | Authority | Methodology | Coverage | Currency | Reproducibility |
-|-------|-----------|-------------|----------|----------|-----------------|
+| ----- | --------- | ----------- | -------- | -------- | --------------- |
 | **5** | Gold standard (IUCN, IPCC) | Peer-reviewed, transparent | Global, comprehensive | Updated <1 year | Full data access |
 | **4** | Authoritative institution | Documented methodology | Near-global, most taxa | Updated 1-2 years | Partial data access |
 | **3** | Reputable organization | Some documentation | Regional or taxon-limited | Updated 2-3 years | Aggregated data only |
@@ -105,7 +114,7 @@ Each data source receives a unique identifier:
 
 ### Composite Quality Score
 
-```
+```text
 QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility) / 5
 ```
 
@@ -116,7 +125,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PA-001: IUCN Red List of Threatened Species
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PA-001 |
 | **NAME** | IUCN Red List of Threatened Species |
 | **PUBLISHER** | International Union for Conservation of Nature |
@@ -126,15 +135,16 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 | **UPDATE_FREQ** | 3× per year (typically) |
 | **LAST_VERIFIED** | 2025-12-12 |
 | **ACCESS** | API (token required), Web interface, Bulk download |
-| **URL** | https://www.iucnredlist.org |
-| **API_DOCS** | https://apiv3.iucnredlist.org/api/v3/docs |
+| **URL** | <https://www.iucnredlist.org> |
+| **API_DOCS** | <https://apiv3.iucnredlist.org/api/v3/docs> |
 | **LICENSE** | CC BY-NC-SA 4.0 (commercial use requires license) |
 | **QUALITY_SCORE** | 5.0 |
 | **SECTIONS_USED** | 1.1, 1.2, 1.3, 1.5, 2.x, 3.x, 4.x, 8.x, 9.x |
-| **CITATION** | IUCN (2025). The IUCN Red List of Threatened Species. Version 2025-2. https://www.iucnredlist.org |
+| **CITATION** | IUCN (2025). The IUCN Red List of Threatened Species. Version 2025-2. <https://www.iucnredlist.org> |
 | **NOTES** | Taxonomic bias toward vertebrates and plants; invertebrate/fungi coverage improving but incomplete. Assessment lag can mean recent declines not captured. |
 
 #### Key Statistics (v2025-2)
+
 - Total species assessed: 169,420
 - Threatened species: 47,187 (27.8%)
 - Critically Endangered: ~9,800
@@ -148,7 +158,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PA-002: IUCN Red List Guidelines
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PA-002 |
 | **NAME** | Guidelines for Using the IUCN Red List Categories and Criteria |
 | **PUBLISHER** | IUCN Standards and Petitions Committee |
@@ -156,7 +166,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 | **VERSION** | Version 16 (March 2024) |
 | **LAST_VERIFIED** | 2025-12-12 |
 | **ACCESS** | PDF Download (free) |
-| **URL** | https://www.iucnredlist.org/resources/redlistguidelines |
+| **URL** | <https://www.iucnredlist.org/resources/redlistguidelines> |
 | **LICENSE** | Open access |
 | **QUALITY_SCORE** | 5.0 |
 | **SECTIONS_USED** | 1.1, 1.2, 1.5, methods documentation |
@@ -168,7 +178,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PA-003: Living Planet Report / Living Planet Index
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PA-003 |
 | **NAME** | Living Planet Report & Living Planet Index |
 | **PUBLISHER** | World Wildlife Fund (WWF) & Zoological Society of London (ZSL) |
@@ -178,8 +188,8 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 | **UPDATE_FREQ** | Biennial (every 2 years) |
 | **LAST_VERIFIED** | 2025-12-12 |
 | **ACCESS** | Report: Free download; Database: Request access |
-| **URL** | https://livingplanet.panda.org |
-| **DATABASE_URL** | https://livingplanetindex.org/data_portal |
+| **URL** | <https://livingplanet.panda.org> |
+| **DATABASE_URL** | <https://livingplanetindex.org/data_portal> |
 | **LICENSE** | Report: Open; Database: Academic use on request |
 | **QUALITY_SCORE** | 4.8 |
 | **SECTIONS_USED** | 1.3, 1.4, 2.x, 3.x, 6.x |
@@ -187,6 +197,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 | **NOTES** | Measures population abundance, not extinction. Geographic and taxonomic biases (more European/N. American data). 73% average decline headline figure. |
 
 #### Key Metrics
+
 - Global LPI decline (1970-2020): 73% average
 - Freshwater LPI decline: 85%
 - Latin America & Caribbean: 95% decline
@@ -198,7 +209,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PA-004: IPBES Global Assessment
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PA-004 |
 | **NAME** | IPBES Global Assessment Report on Biodiversity and Ecosystem Services |
 | **PUBLISHER** | Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services |
@@ -208,7 +219,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 | **UPDATE_FREQ** | Major assessment every ~5-7 years |
 | **LAST_VERIFIED** | 2025-12-12 |
 | **ACCESS** | Free download |
-| **URL** | https://ipbes.net/global-assessment |
+| **URL** | <https://ipbes.net/global-assessment> |
 | **LICENSE** | Open access |
 | **QUALITY_SCORE** | 5.0 |
 | **SECTIONS_USED** | 1.x, 2.x, 5.x, 6.x, 7.x, 9.x, 10.x |
@@ -216,6 +227,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 | **NOTES** | Landmark synthesis; "1 million species threatened" headline. Some projections now outdated. |
 
 #### Key Findings
+
 - ~1 million species threatened with extinction
 - Nature declining at unprecedented rates
 - 5 direct drivers: land/sea use change, exploitation, climate, pollution, invasive species
@@ -227,7 +239,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PA-005: IPCC Assessment Reports
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PA-005 |
 | **NAME** | IPCC Assessment Reports (AR6, special reports) |
 | **PUBLISHER** | Intergovernmental Panel on Climate Change |
@@ -237,7 +249,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 | **UPDATE_FREQ** | Major assessment every ~7 years |
 | **LAST_VERIFIED** | 2025-12-12 |
 | **ACCESS** | Free download |
-| **URL** | https://www.ipcc.ch/reports/ |
+| **URL** | <https://www.ipcc.ch/reports/> |
 | **LICENSE** | Open access |
 | **QUALITY_SCORE** | 5.0 |
 | **SECTIONS_USED** | 2.5, 4.x, 5.x, 6.x, 9.x |
@@ -249,7 +261,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PA-006: Global Biodiversity Information Facility (GBIF)
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PA-006 |
 | **NAME** | Global Biodiversity Information Facility |
 | **PUBLISHER** | GBIF Secretariat |
@@ -259,8 +271,8 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 | **UPDATE_FREQ** | Continuous |
 | **LAST_VERIFIED** | 2025-12-12 |
 | **ACCESS** | API, Web interface, Bulk download |
-| **URL** | https://www.gbif.org |
-| **API_DOCS** | https://www.gbif.org/developer/summary |
+| **URL** | <https://www.gbif.org> |
+| **API_DOCS** | <https://www.gbif.org/developer/summary> |
 | **LICENSE** | Varies by dataset (CC0, CC-BY, CC-BY-NC) |
 | **QUALITY_SCORE** | 4.5 |
 | **SECTIONS_USED** | 3.x, 4.x, species distribution modeling |
@@ -272,7 +284,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PA-007: Global Forest Watch
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PA-007 |
 | **NAME** | Global Forest Watch |
 | **PUBLISHER** | World Resources Institute |
@@ -282,8 +294,8 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 | **UPDATE_FREQ** | Annual |
 | **LAST_VERIFIED** | 2025-12-12 |
 | **ACCESS** | API, Web interface, Download |
-| **URL** | https://www.globalforestwatch.org |
-| **DATA_URL** | https://data.globalforestwatch.org |
+| **URL** | <https://www.globalforestwatch.org> |
+| **DATA_URL** | <https://data.globalforestwatch.org> |
 | **LICENSE** | CC-BY 4.0 |
 | **QUALITY_SCORE** | 4.8 |
 | **SECTIONS_USED** | 2.1, 4.1, 5.1, 5.2 |
@@ -291,6 +303,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 | **NOTES** | Based on Hansen et al. Landsat analysis; tree cover ≠ forest (plantations included) |
 
 #### Key Datasets
+
 - Tree Cover Loss (annual, 30m resolution)
 - Primary Forest Loss
 - Fire Alerts (VIIRS, near real-time)
@@ -301,7 +314,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PA-008: NOAA Coral Reef Watch
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PA-008 |
 | **NAME** | NOAA Coral Reef Watch |
 | **PUBLISHER** | National Oceanic and Atmospheric Administration |
@@ -311,7 +324,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 | **UPDATE_FREQ** | Daily (satellite); periodic reports |
 | **LAST_VERIFIED** | 2025-12-12 |
 | **ACCESS** | Free download, API |
-| **URL** | https://coralreefwatch.noaa.gov |
+| **URL** | <https://coralreefwatch.noaa.gov> |
 | **LICENSE** | Public domain (U.S. government) |
 | **QUALITY_SCORE** | 5.0 |
 | **SECTIONS_USED** | 3.5, 4.x, 9.x |
@@ -323,7 +336,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PA-009: FAO Fisheries and Aquaculture Data
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PA-009 |
 | **NAME** | FAO Fisheries and Aquaculture Statistics |
 | **PUBLISHER** | Food and Agriculture Organization of the United Nations |
@@ -333,7 +346,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 | **UPDATE_FREQ** | Annual |
 | **LAST_VERIFIED** | 2025-12-12 |
 | **ACCESS** | Free download, API |
-| **URL** | https://www.fao.org/fishery/statistics |
+| **URL** | <https://www.fao.org/fishery/statistics> |
 | **LICENSE** | Open access |
 | **QUALITY_SCORE** | 4.5 |
 | **SECTIONS_USED** | 2.4, 3.3, 5.3 |
@@ -345,7 +358,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PA-010: CITES Trade Database
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PA-010 |
 | **NAME** | CITES Trade Database |
 | **PUBLISHER** | UNEP-WCMC on behalf of CITES Secretariat |
@@ -355,7 +368,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 | **UPDATE_FREQ** | Annual |
 | **LAST_VERIFIED** | 2025-12-12 |
 | **ACCESS** | Free (web query), Bulk download (request) |
-| **URL** | https://trade.cites.org |
+| **URL** | <https://trade.cites.org> |
 | **LICENSE** | Open access (citation required) |
 | **QUALITY_SCORE** | 4.3 |
 | **SECTIONS_USED** | 2.4, 5.4 |
@@ -369,7 +382,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PR-001: Barnosky et al. (2011) - Mass Extinction Threshold
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PR-001 |
 | **NAME** | Has the Earth's sixth mass extinction already arrived? |
 | **AUTHORS** | Barnosky, A.D., et al. |
@@ -387,7 +400,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PR-002: Ceballos et al. (2015) - Accelerated Modern Extinction
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PR-002 |
 | **NAME** | Accelerated modern human-induced species losses |
 | **AUTHORS** | Ceballos, G., Ehrlich, P.R., et al. |
@@ -405,7 +418,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PR-003: Ceballos et al. (2017) - Biological Annihilation
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PR-003 |
 | **NAME** | Biological annihilation via the ongoing sixth mass extinction |
 | **AUTHORS** | Ceballos, G., Ehrlich, P.R., Dirzo, R. |
@@ -423,7 +436,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PR-004: Dirzo et al. (2014) - Defaunation in the Anthropocene
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PR-004 |
 | **NAME** | Defaunation in the Anthropocene |
 | **AUTHORS** | Dirzo, R., et al. |
@@ -441,7 +454,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PR-005: Bar-On et al. (2018) - Biomass Distribution
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PR-005 |
 | **NAME** | The biomass distribution on Earth |
 | **AUTHORS** | Bar-On, Y.M., Phillips, R., Milo, R. |
@@ -459,7 +472,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PR-006: Hallmann et al. (2017) - German Insect Biomass Decline
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PR-006 |
 | **NAME** | More than 75 percent decline over 27 years in total flying insect biomass |
 | **AUTHORS** | Hallmann, C.A., et al. |
@@ -477,7 +490,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PR-007: Sánchez-Bayo & Wyckhuys (2019) - Worldwide Insect Decline
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PR-007 |
 | **NAME** | Worldwide decline of the entomofauna: A review of its drivers |
 | **AUTHORS** | Sánchez-Bayo, F., Wyckhuys, K.A.G. |
@@ -495,7 +508,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PR-008: Global Tree Assessment (2024)
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PR-008 |
 | **NAME** | State of the World's Trees Report / Global Tree Assessment |
 | **AUTHORS** | Botanic Gardens Conservation International (BGCI), IUCN |
@@ -503,7 +516,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 | **TYPE** | Assessment Report |
 | **QUALITY_SCORE** | 5.0 |
 | **SECTIONS_USED** | 3.4 |
-| **URL** | https://www.bgci.org/resources/bgci-tools-and-resources/state-of-the-worlds-trees/ |
+| **URL** | <https://www.bgci.org/resources/bgci-tools-and-resources/state-of-the-worlds-trees/> |
 | **CITATION** | BGCI (2024). State of the World's Trees. |
 | **NOTES** | 38% of 47,282 tree species threatened—more than all threatened vertebrates |
 
@@ -512,7 +525,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PR-009: Hansen et al. (2013) - Global Forest Change
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PR-009 |
 | **NAME** | High-Resolution Global Maps of 21st-Century Forest Cover Change |
 | **AUTHORS** | Hansen, M.C., et al. |
@@ -522,7 +535,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 | **TYPE** | Peer-reviewed research + Dataset |
 | **QUALITY_SCORE** | 5.0 |
 | **SECTIONS_USED** | 2.1, 4.1 |
-| **DATA_URL** | https://glad.umd.edu/dataset/global-forest-change |
+| **DATA_URL** | <https://glad.umd.edu/dataset/global-forest-change> |
 | **CITATION** | Hansen, M.C., et al. (2013). High-Resolution Global Maps of 21st-Century Forest Cover Change. Science, 342(6160), 850-853. |
 | **NOTES** | Foundation for Global Forest Watch; Landsat-based 30m resolution |
 
@@ -531,7 +544,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-PR-010: Costanza et al. (2014) - Ecosystem Services Valuation
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-PR-010 |
 | **NAME** | Changes in the global value of ecosystem services |
 | **AUTHORS** | Costanza, R., et al. |
@@ -551,7 +564,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-DD-001: Unified Extinction Rate Comparison
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-DD-001 |
 | **NAME** | Unified Extinction Rate Comparison Dataset |
 | **CREATED_BY** | SME Project |
@@ -567,7 +580,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-DD-002: Integrated Defaunation Index
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-DD-002 |
 | **NAME** | Global Defaunation Index |
 | **CREATED_BY** | SME Project |
@@ -583,7 +596,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### DS-DD-003: Driver Attribution Matrix
 
 | Attribute | Value |
-|-----------|-------|
+| --------- | ----- |
 | **SOURCE_ID** | DS-DD-003 |
 | **NAME** | Extinction Driver Attribution Matrix |
 | **CREATED_BY** | SME Project |
@@ -601,7 +614,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### Matrix: Which Sources for Which Sections
 
 | Section | Primary Sources | Secondary Sources | Derived Data |
-|---------|----------------|-------------------|--------------|
+| ------- | --------------- | ----------------- | ------------ |
 | **1.1** | DS-PA-001, DS-PA-002 | DS-PR-001, DS-PR-002 | DS-DD-001 |
 | **1.2** | DS-PA-001, DS-PA-002 | - | - |
 | **1.3** | DS-PA-003 | DS-PR-003 | - |
@@ -635,7 +648,7 @@ QUALITY_SCORE = (Authority + Methodology + Coverage + Currency + Reproducibility
 ### Verification Schedule
 
 | Source ID | Source Name | Last Verified | Next Check | Status |
-|-----------|-------------|---------------|------------|--------|
+| --------- | ----------- | ------------- | ---------- | ------ |
 | DS-PA-001 | IUCN Red List | 2025-12-12 | 2026-01-15 | Current |
 | DS-PA-002 | IUCN Guidelines | 2025-12-12 | 2026-06-01 | Current |
 | DS-PA-003 | Living Planet Index | 2025-12-12 | 2026-10-01 | Current |
@@ -678,7 +691,7 @@ gfw:
 ### Data Download Locations
 
 | Source | Download Method | Storage Location |
-|--------|-----------------|------------------|
+| ------ | --------------- | ---------------- |
 | IUCN bulk | Request via website | `/data/external/iucn/` |
 | LPI database | Request form | `/data/external/lpi/` |
 | GBIF | DOI-citable downloads | `/data/external/gbif/` |
@@ -690,9 +703,9 @@ gfw:
 ## VERSION HISTORY
 
 | Version | Date | Changes | Author |
-|---------|------|---------|--------|
+| ------- | ---- | ------- | ------ |
 | 1.0 | 2025-12-12 | Initial creation with 10 primary, 10 research sources | Dennis 'dnoice' Smaltz |
 
 ---
 
-*︻デ═—··· 🎯 = Aim Twice, Shoot Once!*
+> **︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!**

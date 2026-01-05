@@ -9,7 +9,7 @@
     - Update: Saturday, January 04, 2025
     - Author: Dennis 'dnoice' Smaltz
     - A.I. Acknowledgement: Anthropic - Claude Opus 4.5
-    - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+    - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
     - Research Verification: Methodology confirmed against IUCN Guidelines v16 (March 2024) and foundational literature
 
 ✒ Description:
@@ -77,50 +77,50 @@
 ## Table of Contents
 
 1. [Executive Summary](#1-executive-summary)
-2. [Extinction Rate Calculations](#2-extinction-rate-calculations)
+1. [Extinction Rate Calculations](#2-extinction-rate-calculations)
    - [2.1 Defining Extinction Rate](#21-defining-extinction-rate)
    - [2.2 Background Extinction Rate](#22-background-extinction-rate)
    - [2.3 Current Rate Estimation](#23-current-rate-estimation)
    - [2.4 Rate Comparison Methods](#24-rate-comparison-methods)
-3. [Species-Area Relationships](#3-species-area-relationships)
+1. [Species-Area Relationships](#3-species-area-relationships)
    - [3.1 Classic Power Law Model](#31-classic-power-law-model)
    - [3.2 Parameter Estimation](#32-parameter-estimation)
    - [3.3 Extinction Debt](#33-extinction-debt)
    - [3.4 Applications and Limitations](#34-applications-and-limitations)
-4. [Island Biogeography Theory](#4-island-biogeography-theory)
+1. [Island Biogeography Theory](#4-island-biogeography-theory)
    - [4.1 MacArthur-Wilson Model](#41-macarthur-wilson-model)
    - [4.2 Equilibrium Theory](#42-equilibrium-theory)
    - [4.3 Applications to Habitat Fragments](#43-applications-to-habitat-fragments)
-5. [Population Viability Analysis](#5-population-viability-analysis)
+1. [Population Viability Analysis](#5-population-viability-analysis)
    - [5.1 Minimum Viable Population (MVP)](#51-minimum-viable-population-mvp)
    - [5.2 Population Growth Models](#52-population-growth-models)
    - [5.3 Stochastic Models](#53-stochastic-models)
    - [5.4 PVA Software and Methods](#54-pva-software-and-methods)
-6. [IUCN Red List Criteria](#6-iucn-red-list-criteria)
+1. [IUCN Red List Criteria](#6-iucn-red-list-criteria)
    - [6.1 Quantitative Thresholds](#61-quantitative-thresholds)
    - [6.2 Criterion A: Population Reduction](#62-criterion-a-population-reduction)
    - [6.3 Criterion B: Geographic Range](#63-criterion-b-geographic-range)
    - [6.4 Criterion C: Small Population](#64-criterion-c-small-population)
    - [6.5 Criterion D: Very Small Population](#65-criterion-d-very-small-population)
    - [6.6 Criterion E: Quantitative Analysis](#66-criterion-e-quantitative-analysis)
-7. [Red List Index](#7-red-list-index)
+1. [Red List Index](#7-red-list-index)
    - [7.1 Index Calculation](#71-index-calculation)
    - [7.2 Interpretation](#72-interpretation)
    - [7.3 Disaggregated Indices](#73-disaggregated-indices)
-8. [Species Distribution Modeling](#8-species-distribution-modeling)
+1. [Species Distribution Modeling](#8-species-distribution-modeling)
    - [8.1 Ecological Niche Models](#81-ecological-niche-models)
    - [8.2 Climate Envelope Models](#82-climate-envelope-models)
    - [8.3 Model Validation](#83-model-validation)
-9. [Projection Methods](#9-projection-methods)
+1. [Projection Methods](#9-projection-methods)
    - [9.1 Scenario-Based Projections](#91-scenario-based-projections)
    - [9.2 Time-to-Extinction Models](#92-time-to-extinction-models)
    - [9.3 Uncertainty Quantification](#93-uncertainty-quantification)
-10. [Statistical Methods](#10-statistical-methods)
+1. [Statistical Methods](#10-statistical-methods)
     - [10.1 Biodiversity Metrics](#101-biodiversity-metrics)
     - [10.2 Trend Detection](#102-trend-detection)
     - [10.3 Sampling and Extrapolation](#103-sampling-and-extrapolation)
-11. [Key Formulas Reference](#11-key-formulas-reference)
-12. [Data Sources & References](#12-data-sources--references)
+1. [Key Formulas Reference](#11-key-formulas-reference)
+1. [Data Sources & References](#12-data-sources--references)
 
 ---
 
@@ -376,8 +376,8 @@ p << 0.001 (highly significant difference)
 **Bootstrap Method:**
 
 1. Resample extinction data
-2. Recalculate rate each iteration
-3. Determine 95% CI from distribution
+1. Recalculate rate each iteration
+1. Determine 95% CI from distribution
 
 **Typical CI:**
 
@@ -537,9 +537,9 @@ So 44% of species eventually lost, but many persist initially.
 #### Applications
 
 1. **Predicting extinction from habitat loss**
-2. **Reserve design** (SLOSS debate)
-3. **Estimating regional biodiversity**
-4. **Climate change projections**
+1. **Reserve design** (SLOSS debate)
+1. **Estimating regional biodiversity**
+1. **Climate change projections**
 
 #### Limitations
 
@@ -577,6 +577,7 @@ Incorporates matrix quality between habitat patches
 #### Core Concept
 
 Species richness on islands determined by balance between:
+
 - **Immigration (I):** colonization of new species
 - **Extinction (E):** local extinction on island
 
@@ -629,6 +630,7 @@ S* = P × I_max / (I_max + E_max)
 #### Island Size Effect
 
 **Larger islands:**
+
 - Lower extinction rates (larger populations)
 - Higher equilibrium S*
 
@@ -647,6 +649,7 @@ extinction decreases with area
 #### Distance Effect
 
 **More isolated islands:**
+
 - Lower immigration rates
 - Lower equilibrium S*
 
@@ -669,6 +672,7 @@ immigration decreases with distance
 **Key insight:** Habitat fragments in a developed matrix behave like islands.
 
 **Matrix effects:**
+
 - Hostile matrix = greater isolation
 - Permeable matrix = more connectivity
 
@@ -707,6 +711,7 @@ If e > c, metapopulation goes extinct.
 **MVP:** Smallest population with acceptable probability of persistence over a defined time horizon.
 
 **Standard Criteria:**
+
 - 99% probability of persistence for 100 years
 - 95% probability of persistence for 40 generations
 - Various other definitions used
@@ -888,6 +893,7 @@ With probability p_cat per year:
 #### Combined Model
 
 **VORTEX-style simulation incorporates:**
+
 - Demographic stochasticity
 - Environmental stochasticity
 - Catastrophes
@@ -912,20 +918,22 @@ With probability p_cat per year:
 **Key Metrics:**
 
 1. **Probability of extinction** P(E) over time T
-2. **Mean time to extinction** (T_E)
-3. **Population trajectory** with confidence intervals
-4. **Genetic diversity** retention (H, A)
-5. **Quasi-extinction risk** P(N < threshold)
+1. **Mean time to extinction** (T_E)
+1. **Population trajectory** with confidence intervals
+1. **Genetic diversity** retention (H, A)
+1. **Quasi-extinction risk** P(N < threshold)
 
 #### PVA Uncertainty
 
 **Sources:**
+
 - Parameter uncertainty
 - Model structure uncertainty
 - Stochastic variation
 - Environmental unpredictability
 
 **Addressing Uncertainty:**
+
 - Sensitivity analysis
 - Scenario analysis
 - Ensemble modeling
@@ -973,6 +981,7 @@ With probability p_cat per year:
 | ≥30% | VU (A2-4) |
 
 **Sub-criteria distinguish:**
+
 - A1: Reduction ceased, causes understood and reversed
 - A2: Reduction ongoing or cause not understood
 - A3: Projected future reduction
@@ -1005,6 +1014,7 @@ With probability p_cat per year:
 **Definition:** Minimum convex polygon containing all occurrences
 
 **Calculation:**
+
 - Map all known localities
 - Draw minimum convex hull
 - Calculate area (km²)
@@ -1038,6 +1048,7 @@ With probability p_cat per year:
 #### Additional Requirements (B1/B2)
 
 Must also meet at least 2 of:
+
 - **(a)** Severely fragmented OR few locations
 - **(b)** Continuing decline
 - **(c)** Extreme fluctuations
@@ -1116,6 +1127,7 @@ N = total species assessed (excluding DD)
 #### Example Calculation
 
 If at time t:
+
 - 100 species assessed
 - 40 LC, 20 NT, 15 VU, 10 EN, 10 CR, 5 EX
 
@@ -1138,6 +1150,7 @@ RLI = 0.0: All species Extinct
 ```
 
 **Trend:**
+
 - Decreasing RLI: Conservation status worsening
 - Stable RLI: Status unchanged
 - Increasing RLI: Conservation improvements
@@ -1147,6 +1160,7 @@ RLI = 0.0: All species Extinct
 #### By Taxonomic Group
 
 Calculate RLI separately for:
+
 - Mammals
 - Birds
 - Amphibians
@@ -1200,11 +1214,13 @@ P(x) = Probability of presence at location x
 #### BIOCLIM
 
 **Method:**
+
 1. Extract climate values at occurrence points
-2. Define envelope as range or percentiles
-3. Project to new climate scenarios
+1. Define envelope as range or percentiles
+1. Project to new climate scenarios
 
 **Variables:**
+
 - Temperature (annual mean, seasonality, extremes)
 - Precipitation (annual, seasonality, extremes)
 - 19 standard BIOCLIM variables
@@ -1212,6 +1228,7 @@ P(x) = Probability of presence at location x
 #### Ensemble Approaches
 
 **Combine multiple algorithms:**
+
 - MAXENT
 - GLM
 - GAM
@@ -1226,10 +1243,11 @@ P(x) = Probability of presence at location x
 #### Cross-Validation
 
 **k-fold:**
+
 1. Divide data into k groups
-2. Train on k-1, test on 1
-3. Repeat k times
-4. Average performance
+1. Train on k-1, test on 1
+1. Repeat k times
+1. Average performance
 
 #### Performance Metrics
 
@@ -1314,9 +1332,10 @@ T_75 = (0.75 × 10⁶) / 100 = 7,500 years [lower bound]
 **Thomas et al. 2004 Framework:**
 
 For each climate scenario:
+
 1. Project future climate
-2. Model species range shifts
-3. Calculate committed extinctions
+1. Model species range shifts
+1. Calculate committed extinctions
 
 **Results:**
 
@@ -1332,17 +1351,18 @@ For each climate scenario:
 #### Sources of Uncertainty
 
 1. **Parametric:** Uncertainty in model parameters
-2. **Structural:** Choice of model form
-3. **Scenario:** Future conditions unknown
-4. **Data:** Incomplete observations
+1. **Structural:** Choice of model form
+1. **Scenario:** Future conditions unknown
+1. **Data:** Incomplete observations
 
 #### Monte Carlo Methods
 
 **Propagating Uncertainty:**
+
 1. Define parameter distributions
-2. Sample parameters randomly
-3. Run model with each sample
-4. Analyze output distribution
+1. Sample parameters randomly
+1. Run model with each sample
+1. Analyze output distribution
 
 ```python
 # Pseudo-code
@@ -1601,23 +1621,24 @@ P(detection) = P(occupied) × P(detected | occupied)
 **Background Extinction Rate Debate:**
 
 The choice of background extinction rate significantly affects calculated rate multiples:
+
 - **Conservative estimate (2 E/MSY):** Yields ~100× current excess (Ceballos et al. 2015)
 - **Lower estimate (0.1 E/MSY):** Yields ~1,000× current excess (De Vos et al. 2015)
 - Both estimates support the conclusion of mass extinction-level rates
 
 **IUCN Guidelines Currency:**
 
-IUCN Red List Guidelines are regularly updated. Version 16 (March 2024) is current as of this document. Users should verify they are using the latest version at: www.iucnredlist.org/resources/redlistguidelines
+IUCN Red List Guidelines are regularly updated. Version 16 (March 2024) is current as of this document. Users should verify they are using the latest version at: <www.iucnredlist.org/resources/redlistguidelines>
 
 ### Gaps and Uncertainties
 
 **Known Methodological Limitations:**
 
 1. **Species-area relationship:** z-values vary significantly by taxon and region (0.15-0.35)
-2. **MVP estimates:** Range from 500-5,000+ depending on species and definition (50-year vs. 100-year persistence)
-3. **Background rate uncertainty:** Order-of-magnitude debate (0.1-2.0 E/MSY) affects rate multiple calculations
-4. **Projection models:** High sensitivity to input parameters and scenarios
-5. **Extinction lag:** Species-area models may underestimate extinction debt
+1. **MVP estimates:** Range from 500-5,000+ depending on species and definition (50-year vs. 100-year persistence)
+1. **Background rate uncertainty:** Order-of-magnitude debate (0.1-2.0 E/MSY) affects rate multiple calculations
+1. **Projection models:** High sensitivity to input parameters and scenarios
+1. **Extinction lag:** Species-area models may underestimate extinction debt
 
 ---
 
@@ -1644,4 +1665,4 @@ IUCN Red List Guidelines are regularly updated. Version 16 (March 2024) is curre
 
 ---
 
-> **︻デ═—··· 🎯 = Aim Twice, Shoot Once!**
+> **︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!**

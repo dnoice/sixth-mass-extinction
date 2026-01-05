@@ -9,7 +9,7 @@
     - Update: Monday, November 24, 2025
     - Author: Dennis 'dnoice' Smaltz
     - A.I. Acknowledgement: Anthropic - Claude Opus 4.5
-    - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+    - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 
 ✒ Description:
     The definitive docstring standards guide for ALL artifacts across ALL projects—
@@ -75,9 +75,9 @@
 ## Table of Contents
 
 1. [Core Template Structure](#1-core-template-structure)
-2. [Metadata Field Specifications](#2-metadata-field-specifications)
-3. [Section Guidelines](#3-section-guidelines)
-4. [Language-Specific Examples](#4-language-specific-examples)
+1. [Metadata Field Specifications](#2-metadata-field-specifications)
+1. [Section Guidelines](#3-section-guidelines)
+1. [Language-Specific Examples](#4-language-specific-examples)
    - [Python](#41-python-py)
    - [JavaScript](#42-javascript-js)
    - [TypeScript](#43-typescript-ts)
@@ -90,8 +90,8 @@
    - [SQL](#410-sql-sql)
    - [Markdown](#411-markdown-md)
    - [INI/Config](#412-iniconfig-inicfg)
-5. [Conditional Sections Reference](#5-conditional-sections-reference)
-6. [Quick Reference Card](#6-quick-reference-card)
+1. [Conditional Sections Reference](#5-conditional-sections-reference)
+1. [Quick Reference Card](#6-quick-reference-card)
 
 ---
 
@@ -112,7 +112,7 @@ never alter the section order or naming.
     - Update: {Day, Month DD, YYYY}
     - Author: Dennis 'dnoice' Smaltz
     - A.I. Acknowledgement: {AI-Platform} - {AI-Model (long form)}
-    - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+    - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 
 ✒ Description:
     {2-3 sentences. What it does. When to use it. What problem it solves.}
@@ -156,7 +156,7 @@ never alter the section order or naming.
 | **Update** | Full written date `{Day, Month DD, YYYY}` | `Monday, November 24, 2025` | ✅ Yes |
 | **Author** | Name with handle | `Dennis 'dnoice' Smaltz` | ✅ Yes |
 | **A.I. Acknowledgement** | `{AI-Platform} - {AI-Model (long form)}` | `Anthropic - Claude Opus 4.5` | ✅ Yes |
-| **Signature** | Exactly as shown | `︻デ═—··· 🎯 = Aim Twice, Shoot Once!` | ✅ Yes |
+| **Signature** | Exactly as shown | `︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!` | ✅ Yes |
 
 ### Version Numbering Convention (SemVer)
 
@@ -208,7 +208,7 @@ Python uses triple-quoted docstrings. Include shebang and encoding for scripts.
     - Update: {Day, Month DD, YYYY}
     - Author: Dennis 'dnoice' Smaltz
     - A.I. Acknowledgement: {AI-Platform} - {AI-Model (long form)}
-    - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+    - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 
 ✒ Description:
     Automatically organizes files in a directory by type, date, or custom rules.
@@ -303,7 +303,7 @@ JavaScript uses block comments `/* */` for the header.
  *     - Update: {Day, Month DD, YYYY}
  *     - Author: Dennis 'dnoice' Smaltz
  *     - A.I. Acknowledgement: {AI-Platform} - {AI-Model (long form)}
- *     - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+ *     - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
  *
  * ✒ Description:
  *     Lightweight DOM manipulation utilities for vanilla JavaScript projects.
@@ -380,7 +380,7 @@ TypeScript follows JavaScript conventions with type annotation notes.
  *     - Update: {Day, Month DD, YYYY}
  *     - Author: Dennis 'dnoice' Smaltz
  *     - A.I. Acknowledgement: {AI-Platform} - {AI-Model (long form)}
- *     - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+ *     - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
  *
  * ✒ Description:
  *     Type-safe HTTP client wrapper for REST API communication.
@@ -464,7 +464,7 @@ HTML uses `<!-- -->` comment blocks.
     - Update: {Day, Month DD, YYYY}
     - Author: Dennis 'dnoice' Smaltz
     - A.I. Acknowledgement: {AI-Platform} - {AI-Model (long form)}
-    - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+    - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 
 ✒ Description:
     Main dashboard page template with responsive grid layout.
@@ -533,7 +533,7 @@ CSS uses `/* */` block comments.
  *     - Update: {Day, Month DD, YYYY}
  *     - Author: Dennis 'dnoice' Smaltz
  *     - A.I. Acknowledgement: {AI-Platform} - {AI-Model (long form)}
- *     - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+ *     - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
  *
  * ✒ Description:
  *     CSS custom properties (variables) defining the digiSpace design system.
@@ -625,7 +625,7 @@ Bash uses `#` line comments. The header appears after the shebang.
 #     - Update: {Day, Month DD, YYYY}
 #     - Author: Dennis 'dnoice' Smaltz
 #     - A.I. Acknowledgement: {AI-Platform} - {AI-Model (long form)}
-#     - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+#     - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 #
 # ✒ Description:
 #     Bootstraps development environment for PySnip on fresh Linux installs.
@@ -712,7 +712,7 @@ YAML uses `#` line comments.
 #     - Update: {Day, Month DD, YYYY}
 #     - Author: Dennis 'dnoice' Smaltz
 #     - A.I. Acknowledgement: {AI-Platform} - {AI-Model (long form)}
-#     - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+#     - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 #
 # ✒ Description:
 #     Master configuration file for PySnip tool suite.
@@ -781,7 +781,7 @@ TOML uses `#` line comments.
 #     - Update: {Day, Month DD, YYYY}
 #     - Author: Dennis 'dnoice' Smaltz
 #     - A.I. Acknowledgement: {AI-Platform} - {AI-Model (long form)}
-#     - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+#     - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 #
 # ✒ Description:
 #     Python project configuration following PEP 517/518/621 standards.
@@ -858,7 +858,7 @@ the header in a separate file. For JSONC-supporting tools:
  *     - Update: {Day, Month DD, YYYY}
  *     - Author: Dennis 'dnoice' Smaltz
  *     - A.I. Acknowledgement: {AI-Platform} - {AI-Model (long form)}
- *     - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+ *     - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
  *
  * ✒ Description:
  *     VS Code workspace configuration for digiSpace projects.
@@ -910,7 +910,7 @@ SQL uses `--` for line comments or `/* */` for blocks.
 --     - Update: {Day, Month DD, YYYY}
 --     - Author: Dennis 'dnoice' Smaltz
 --     - A.I. Acknowledgement: {AI-Platform} - {AI-Model (long form)}
---     - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+--     - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 --
 -- ✒ Description:
 --     Creates the core user management tables for authentication.
@@ -989,7 +989,7 @@ Markdown uses HTML comment blocks for hidden headers or visible text sections.
     - Update: {Day, Month DD, YYYY}
     - Author: Dennis 'dnoice' Smaltz
     - A.I. Acknowledgement: {AI-Platform} - {AI-Model (long form)}
-    - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+    - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 
 ✒ Description:
     Complete REST API reference for digiSpace backend services.
@@ -1041,7 +1041,7 @@ INI files use `;` or `#` for comments.
 ;     - Update: {Day, Month DD, YYYY}
 ;     - Author: Dennis 'dnoice' Smaltz
 ;     - A.I. Acknowledgement: {AI-Platform} - {AI-Model (long form)}
-;     - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+;     - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 ;
 ; ✒ Description:
 ;     Legacy configuration file for applications using configparser.
@@ -1115,7 +1115,7 @@ name = pysnip_db
 ### Signature Line (Copy-Paste Ready)
 
 ```text
-︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 ```
 
 ### Minimum Viable Header
@@ -1128,7 +1128,7 @@ For quick drafts or trivial files (still include, just abbreviated):
     - File Name: {file_name}.{ext}
     - Version: {X.Y.Z}
     - Author: Dennis 'dnoice' Smaltz
-    - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+    - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 
 ✒ Description:
     {One sentence description}
@@ -1144,7 +1144,7 @@ Every artifact leaving your keyboard—past, present, and future—carries this
 standard. When you open a file six months from now, you'll know exactly what
 it does, who made it, and why it exists.
 
-︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 
 ---
 

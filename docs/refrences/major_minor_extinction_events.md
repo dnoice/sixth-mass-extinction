@@ -9,7 +9,7 @@
     - Update: Thursday, December 11, 2025
     - Author: Dennis 'dnoice' Smaltz
     - A.I. Acknowledgement: Anthropic - Claude Opus 4.5
-    - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+    - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 
 ✒ Description:
     Comprehensive reference document covering all major and minor extinction events in
@@ -76,25 +76,25 @@
 ## Table of Contents
 
 1. [Executive Summary](#1-executive-summary)
-2. [The Big Five Mass Extinctions](#2-the-big-five-mass-extinctions)
+1. [The Big Five Mass Extinctions](#2-the-big-five-mass-extinctions)
    - [2.1 End-Ordovician Extinction (~443 Ma)](#21-end-ordovician-extinction-443-ma)
    - [2.2 Late Devonian Extinction (~372–359 Ma)](#22-late-devonian-extinction-372359-ma)
    - [2.3 End-Permian Extinction (~252 Ma)](#23-end-permian-extinction-252-ma)
    - [2.4 End-Triassic Extinction (~201 Ma)](#24-end-triassic-extinction-201-ma)
    - [2.5 End-Cretaceous Extinction (~66 Ma)](#25-end-cretaceous-extinction-66-ma)
-3. [The Sixth Mass Extinction (Anthropocene)](#3-the-sixth-mass-extinction-anthropocene)
+1. [The Sixth Mass Extinction (Anthropocene)](#3-the-sixth-mass-extinction-anthropocene)
    - [3.1 Definition and Evidence](#31-definition-and-evidence)
    - [3.2 Current Extinction Rates](#32-current-extinction-rates)
    - [3.3 Primary Drivers](#33-primary-drivers)
    - [3.4 Projections and Trajectories](#34-projections-and-trajectories)
-4. [Minor Extinction Events](#4-minor-extinction-events)
+1. [Minor Extinction Events](#4-minor-extinction-events)
    - [4.1 Capitanian Extinction (~260 Ma)](#41-capitanian-extinction-260-ma)
    - [4.2 Other Notable Events](#42-other-notable-events)
-5. [Background Extinction Rates](#5-background-extinction-rates)
-6. [Extinction Mechanisms](#6-extinction-mechanisms)
-7. [Recovery Patterns](#7-recovery-patterns)
-8. [Summary Comparison Tables](#8-summary-comparison-tables)
-9. [Data Sources & References](#9-data-sources--references)
+1. [Background Extinction Rates](#5-background-extinction-rates)
+1. [Extinction Mechanisms](#6-extinction-mechanisms)
+1. [Recovery Patterns](#7-recovery-patterns)
+1. [Summary Comparison Tables](#8-summary-comparison-tables)
+1. [Data Sources & References](#9-data-sources--references)
 
 ---
 
@@ -159,13 +159,13 @@ The End-Ordovician mass extinction was the first of the "Big Five" and occurred 
    - Global temperature drop from greenhouse to icehouse
    - Sea-level fall of 50–100 meters
 
-2. **Warming and Anoxia (LOMEI-2: Second Pulse)**
+1. **Warming and Anoxia (LOMEI-2: Second Pulse)**
    - Glacial recession and warming
    - Widespread oceanic anoxia (oxygen depletion)
    - Euxinia (toxic sulfide production)
    - Habitat destruction on continental shelves
 
-3. **Proposed Additional Triggers**
+1. **Proposed Additional Triggers**
    - True polar wander (~50° rotation over 10 Myr)
    - Volcanic activity (emerging evidence)
    - Silicate weathering feedback loops
@@ -211,17 +211,17 @@ The Late Devonian extinction was not a single event but a series of extinction p
    - Black shale deposition globally
    - Euxinia in marine basins
 
-2. **Climate Instability**
+1. **Climate Instability**
    - Multiple warming and cooling cycles
    - Possible glaciation in late Devonian
    - Sea-level fluctuations
 
-3. **Eutrophication**
+1. **Eutrophication**
    - Explosive evolution of land plants
    - Increased nutrient runoff to oceans
    - Enhanced weathering of continental rocks
 
-4. **Possible Asteroid Impact**
+1. **Possible Asteroid Impact**
    - Siljan crater (Sweden): ~65 km diameter, ~377 Ma
    - Multiple smaller impacts within timeframe
    - Evidence remains debated
@@ -285,29 +285,29 @@ The primary cause was massive volcanic eruptions that created the **Siberian Tra
    - Tropical sea surface temperatures: up to 40°C
    - CO₂ levels: rose from ~500–4,000 ppm to ~8,000 ppm
 
-2. **Ocean Anoxia**
+1. **Ocean Anoxia**
    - 80% of ocean oxygen lost
    - Half of seafloor became completely anoxic
    - Warm water reduced oxygen solubility
 
-3. **Ocean Acidification**
+1. **Ocean Acidification**
    - Rapid CO₂ absorption by oceans
    - Carbonate platform collapse
    - Calcifying organisms devastated
 
-4. **Methane Release**
+1. **Methane Release**
    - Clathrate destabilization from warming
    - Positive feedback accelerating warming
 
-5. **Toxic Mercury Poisoning**
+1. **Toxic Mercury Poisoning**
    - Global mercury anomalies in boundary sediments
    - Mutagenesis documented in fossil spores
 
-6. **Wildfires**
+1. **Wildfires**
    - Spike in charcoal deposition
    - Forest collapse contributed to carbon release
 
-7. **Ozone Depletion**
+1. **Ozone Depletion**
    - UV radiation increase documented in mutations
 
 #### Major Casualties: End-Permian
@@ -375,13 +375,13 @@ New research (Kent et al. 2024) revealed the initial eruptions were concentrated
    - Magnitude: hundreds of times greater than 1783 Laki eruption
    - Rapid temperature drops froze cold-blooded animals
 
-2. **CO₂-Driven Warming (Long-term)**
+1. **CO₂-Driven Warming (Long-term)**
    - 100,000 gigatons CO₂ released
    - Temperature increases of 10–15°C
    - Ocean acidification
    - Mercury poisoning (documented in sediments)
 
-3. **Carbon Cycle Disruption**
+1. **Carbon Cycle Disruption**
    - Major negative δ¹³C excursion (-2.8‰)
    - Methane release from hydrates
 
@@ -446,11 +446,11 @@ The End-Cretaceous extinction is the most famous mass extinction, responsible fo
    - Global wildfires from re-entering ejecta
    - Surface temperatures spiked for hours
 
-2. **Mega-Tsunamis**
+1. **Mega-Tsunamis**
    - Waves up to 300 m high
    - Reached deep into continental interiors
 
-3. **Earthquakes**
+1. **Earthquakes**
    - Magnitude 11+ (far exceeding any modern earthquake)
    - Global seismic activity
 
@@ -461,7 +461,7 @@ The End-Cretaceous extinction is the most famous mass extinction, responsible fo
    - Global temperatures dropped 10°C+
    - Photosynthesis ceased for months
 
-2. **Acid Rain**
+1. **Acid Rain**
    - Sulfur from vaporized gypsum
    - Ocean surface acidification
 
@@ -557,11 +557,11 @@ Unlike the previous five mass extinctions caused by natural phenomena (volcanism
 Unlike past mass extinctions:
 
 1. **Cause:** Single species (humans), not geological/astronomical events
-2. **Speed:** Occurring over centuries, not millennia
-3. **Selectivity:** Large-bodied species preferentially affected
-4. **Geographic scope:** Global and accelerating
-5. **Mechanism diversity:** Multiple simultaneous drivers
-6. **Potential for intervention:** Uniquely, this extinction could be slowed or reversed
+1. **Speed:** Occurring over centuries, not millennia
+1. **Selectivity:** Large-bodied species preferentially affected
+1. **Geographic scope:** Global and accelerating
+1. **Mechanism diversity:** Multiple simultaneous drivers
+1. **Potential for intervention:** Uniquely, this extinction could be slowed or reversed
 
 ### 3.2 Current Extinction Rates
 
@@ -669,11 +669,11 @@ The Emeishan Large Igneous Province in southwestern China:
 **Environmental Effects:**
 
 1. Initial volcanic winter (sulfate aerosols)
-2. Long-term warming (CO₂ greenhouse)
-3. Ocean anoxia (OAE-C1 and OAE-C2 events)
-4. Ocean acidification
-5. Mercury toxicity
-6. Ozone depletion
+1. Long-term warming (CO₂ greenhouse)
+1. Ocean anoxia (OAE-C1 and OAE-C2 events)
+1. Ocean acidification
+1. Mercury toxicity
+1. Ozone depletion
 
 #### Dual Extinction Pulses
 
@@ -797,12 +797,12 @@ Background extinction rates vary:
 Species most vulnerable to extinction:
 
 1. Large body size
-2. Small geographic range (endemics)
-3. Ecological specialization
-4. Low population density
-5. Long generation time
-6. Calcium carbonate shells/skeletons (during acidification)
-7. Temperature-sensitive metabolism
+1. Small geographic range (endemics)
+1. Ecological specialization
+1. Low population density
+1. Long generation time
+1. Calcium carbonate shells/skeletons (during acidification)
+1. Temperature-sensitive metabolism
 
 ---
 
@@ -821,9 +821,9 @@ Species most vulnerable to extinction:
 ### Recovery Patterns
 
 1. **Disaster taxa:** Opportunistic species dominate immediately post-extinction
-2. **Progenitor taxa:** Small populations of survivors seed new radiations
-3. **Adaptive radiation:** Vacant niches filled by diversifying lineages
-4. **Ecosystem restructuring:** New dominant groups replace previous dominants
+1. **Progenitor taxa:** Small populations of survivors seed new radiations
+1. **Adaptive radiation:** Vacant niches filled by diversifying lineages
+1. **Ecosystem restructuring:** New dominant groups replace previous dominants
 
 ### Post-Extinction Evolutionary Consequences
 
@@ -938,4 +938,4 @@ Species most vulnerable to extinction:
 
 ---
 
-> **︻デ═—··· 🎯 = Aim Twice, Shoot Once!**
+> **︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!**

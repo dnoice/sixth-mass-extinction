@@ -1,0 +1,153 @@
+{
+    // ========================================================================
+    // Sixth Mass Extinction Project - VS Code Settings
+    // Markdown Lint Configuration per MARKDOWN_STANDARDS.md
+    // ========================================================================
+
+    // ------------------------------------------------------------------------
+    // Markdownlint Configuration
+    // ------------------------------------------------------------------------
+    "markdownlint.config": {
+        // Start with all rules enabled
+        "default": true,
+
+        // MD003: Heading style - use ATX style (# Heading)
+        "MD003": {
+            "style": "atx"
+        },
+
+        // MD004: Unordered list style - use dashes only
+        "MD004": {
+            "style": "dash"
+        },
+
+        // MD007: Unordered list indentation - 2 spaces
+        "MD007": {
+            "indent": 2
+        },
+
+        // MD013: Line length - DISABLED (conflicts with prose writing)
+        "MD013": false,
+
+        // MD024: Multiple headings with same content - allow siblings
+        "MD024": {
+            "siblings_only": true
+        },
+
+        // MD029: Ordered list item prefix - use 1. for all (auto-numbered)
+        "MD029": {
+            "style": "one"
+        },
+
+        // MD033: Inline HTML - DISABLED (allow HTML comments for docstrings)
+        "MD033": false,
+
+        // MD034: Bare URL used - enabled (wrap URLs in <> or [text](url))
+        "MD034": true,
+
+        // MD040: Fenced code blocks should have a language specified
+        "MD040": true,
+
+        // MD041: First line should be top-level heading - relaxed for docstrings
+        "MD041": false,
+
+        // MD048: Code fence style - use backticks (not tildes)
+        "MD048": {
+            "style": "backtick"
+        },
+
+        // MD049: Emphasis style - use asterisks for italic
+        "MD049": {
+            "style": "asterisk"
+        },
+
+        // MD050: Strong style - use asterisks for bold
+        "MD050": {
+            "style": "asterisk"
+        },
+
+        // MD055: Table pipe style - consistent leading/trailing
+        "MD055": {
+            "style": "leading_and_trailing"
+        },
+
+        // MD058: Tables should be surrounded by blank lines
+        "MD058": true
+    },
+
+    // ------------------------------------------------------------------------
+    // Markdownlint Run Behavior
+    // ------------------------------------------------------------------------
+
+    // Run linting on type (validates on open and as you edit)
+    "markdownlint.run": "onType",
+
+    // Focus problems panel on lint errors
+    "markdownlint.focusMode": true,
+
+    // ------------------------------------------------------------------------
+    // Editor Settings for Markdown
+    // ------------------------------------------------------------------------
+    "[markdown]": {
+        // Word wrap for readability
+        "editor.wordWrap": "on",
+
+        // Disable suggestions in markdown
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        },
+
+        // Indentation
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true,
+
+        // Auto-trim whitespace
+        "editor.trimAutoWhitespace": true,
+
+        // FORMAT ON SAVE - auto-fix issues when saving
+        "editor.formatOnSave": true,
+
+        // FORMAT ON PASTE - auto-fix issues when pasting
+        "editor.formatOnPaste": true,
+
+        // CODE ACTIONS ON SAVE - run markdownlint fixes on save
+        "editor.codeActionsOnSave": {
+            "source.fixAll.markdownlint": "explicit"
+        },
+
+        // Default formatter for markdown
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
+
+        // File handling
+        "files.trimTrailingWhitespace": true,
+        "files.insertFinalNewline": true,
+        "files.trimFinalNewlines": true
+    },
+
+    // ------------------------------------------------------------------------
+    // File Associations
+    // ------------------------------------------------------------------------
+    "files.associations": {
+        "*.md": "markdown"
+    },
+
+    // ------------------------------------------------------------------------
+    // Auto Save Configuration
+    // ------------------------------------------------------------------------
+
+    // Auto-save after delay (triggers lint on save)
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+
+    // ------------------------------------------------------------------------
+    // Problems Panel Configuration
+    // ------------------------------------------------------------------------
+
+    // Show problems inline in editor
+    "problems.decorations.enabled": true,
+
+    // Auto-reveal problems when they occur
+    "problems.autoReveal": true
+}

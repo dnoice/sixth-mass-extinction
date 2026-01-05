@@ -9,7 +9,7 @@
     - Update: Friday, December 12, 2025
     - Author: Dennis 'dnoice' Smaltz
     - A.I. Acknowledgement: Anthropic - Claude Opus 4
-    - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+    - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
     - Research Verification: Comprehensive update with 2023-2024 authoritative sources
 
 ✒ Description:
@@ -78,11 +78,11 @@
 ## Table of Contents
 
 1. [Executive Summary](#1-executive-summary)
-2. [Ecosystem Services Valuation](#2-ecosystem-services-valuation)
+1. [Ecosystem Services Valuation](#2-ecosystem-services-valuation)
    - [2.1 Total Economic Value Framework](#21-total-economic-value-framework)
    - [2.2 Global Ecosystem Services Value](#22-global-ecosystem-services-value)
    - [2.3 Valuation Methodologies](#23-valuation-methodologies)
-3. [Sector-Specific Economic Impacts](#3-sector-specific-economic-impacts)
+1. [Sector-Specific Economic Impacts](#3-sector-specific-economic-impacts)
    - [3.1 Agriculture and Food Systems](#31-agriculture-and-food-systems)
    - [3.2 Forestry and Timber](#32-forestry-and-timber)
    - [3.3 Fisheries and Marine Resources](#33-fisheries-and-marine-resources)
@@ -90,28 +90,28 @@
    - [3.5 Pharmaceuticals and Biotechnology](#35-pharmaceuticals-and-biotechnology)
    - [3.6 Water Services](#36-water-services)
    - [3.7 Insurance and Disaster Risk](#37-insurance-and-disaster-risk)
-4. [Nature-GDP Dependencies](#4-nature-gdp-dependencies)
+1. [Nature-GDP Dependencies](#4-nature-gdp-dependencies)
    - [4.1 Global Analysis](#41-global-analysis)
    - [4.2 Industry Exposure](#42-industry-exposure)
    - [4.3 Supply Chain Vulnerabilities](#43-supply-chain-vulnerabilities)
-5. [Regional Economic Vulnerabilities](#5-regional-economic-vulnerabilities)
+1. [Regional Economic Vulnerabilities](#5-regional-economic-vulnerabilities)
    - [5.1 Developing Nations](#51-developing-nations)
    - [5.2 Small Island Developing States](#52-small-island-developing-states)
    - [5.3 Agricultural Economies](#53-agricultural-economies)
-6. [Financial Risk Frameworks](#6-financial-risk-frameworks)
+1. [Financial Risk Frameworks](#6-financial-risk-frameworks)
    - [6.1 TNFD and Nature-Related Risk](#61-tnfd-and-nature-related-risk)
    - [6.2 Central Bank Assessments](#62-central-bank-assessments)
    - [6.3 Investment and Portfolio Risk](#63-investment-and-portfolio-risk)
-7. [Cost-Benefit Analysis](#7-cost-benefit-analysis)
+1. [Cost-Benefit Analysis](#7-cost-benefit-analysis)
    - [7.1 Conservation ROI](#71-conservation-roi)
    - [7.2 Cost of Inaction](#72-cost-of-inaction)
    - [7.3 Economic Case for Action](#73-economic-case-for-action)
-8. [Policy Economics](#8-policy-economics)
+1. [Policy Economics](#8-policy-economics)
    - [8.1 Market-Based Instruments](#81-market-based-instruments)
    - [8.2 Subsidies and Perverse Incentives](#82-subsidies-and-perverse-incentives)
    - [8.3 Payment for Ecosystem Services](#83-payment-for-ecosystem-services)
-9. [Future Economic Projections](#9-future-economic-projections)
-10. [Data Sources & References](#10-data-sources--references)
+1. [Future Economic Projections](#9-future-economic-projections)
+1. [Data Sources & References](#10-data-sources--references)
 
 ---
 
@@ -140,12 +140,12 @@
 ### Key Economic Findings
 
 1. **Ecosystem services exceed global GDP**: Nature provides services worth 1.5× global GDP annually (~$125T vs ~$100T GDP)
-2. **Half the economy is nature-dependent**: $44+ trillion in economic activity at direct risk (WEF 2020, still authoritative)
-3. **Biodiversity loss is a systemic risk**: Comparable to climate change in financial impact potential; WEF 2024 Global Risks Report ranks ecosystem collapse in top 3 risks
-4. **Costs of inaction exceed costs of action**: Conservation investments yield 4:1 to 100:1 returns; land restoration yields $8 return per $1 invested (UNCCD)
-5. **Harmful subsidies vastly exceed conservation spending**: $7 trillion/year in fossil fuel subsidies alone (IMF 2022) + $1.7 trillion in environmentally harmful subsidies (UNEP 2023) vs. $200 billion for nature-based solutions
-6. **Insurance sector faces compounding risk**: Natural catastrophe insured losses $140 billion in 2024; projected to reach $145 billion by 2025 (Swiss Re)
-7. **Natural capital declining**: Per capita natural capital fell 40% between 1992-2014 while produced capital doubled (Dasgupta Review 2021)
+1. **Half the economy is nature-dependent**: $44+ trillion in economic activity at direct risk (WEF 2020, still authoritative)
+1. **Biodiversity loss is a systemic risk**: Comparable to climate change in financial impact potential; WEF 2024 Global Risks Report ranks ecosystem collapse in top 3 risks
+1. **Costs of inaction exceed costs of action**: Conservation investments yield 4:1 to 100:1 returns; land restoration yields $8 return per $1 invested (UNCCD)
+1. **Harmful subsidies vastly exceed conservation spending**: $7 trillion/year in fossil fuel subsidies alone (IMF 2022) + $1.7 trillion in environmentally harmful subsidies (UNEP 2023) vs. $200 billion for nature-based solutions
+1. **Insurance sector faces compounding risk**: Natural catastrophe insured losses $140 billion in 2024; projected to reach $145 billion by 2025 (Swiss Re)
+1. **Natural capital declining**: Per capita natural capital fell 40% between 1992-2014 while produced capital doubled (Dasgupta Review 2021)
 
 ### Economic Risk Summary
 
@@ -252,11 +252,11 @@ Total Economic Value (TEV)
 #### Challenges in Valuation
 
 1. **Non-linearity:** Ecosystem collapse creates discontinuous value loss
-2. **Irreversibility:** Extinction cannot be assigned finite cost
-3. **Uncertainty:** Future service provision unknown
-4. **Substitutability:** Many services have no substitutes
-5. **Distribution:** Benefits and costs fall on different groups
-6. **Discounting:** How to value future generations' interests
+1. **Irreversibility:** Extinction cannot be assigned finite cost
+1. **Uncertainty:** Future service provision unknown
+1. **Substitutability:** Many services have no substitutes
+1. **Distribution:** Benefits and costs fall on different groups
+1. **Discounting:** How to value future generations' interests
 
 ---
 
@@ -374,6 +374,7 @@ Total Economic Value (TEV)
 > in global seafood supply dynamics.
 
 **Regional Employment Distribution (FAO SOFIA 2024):**
+
 - Asia: 85% of fisheries employment
 - Africa: 10%
 - Latin America/Caribbean: 4%
@@ -784,13 +785,13 @@ Total Economic Value (TEV)
    - Resource scarcity
    - Extreme events
 
-2. **Transition Risks:**
+1. **Transition Risks:**
    - Policy and regulatory changes
    - Technology shifts
    - Market preferences
    - Reputation
 
-3. **Systemic Risks:**
+1. **Systemic Risks:**
    - Ecosystem collapse
    - Tipping points
    - Cascading failures
@@ -811,6 +812,7 @@ Total Economic Value (TEV)
 > Australia, Japan, and others.
 
 **Key Regulatory Developments:**
+
 - EU: Nature disclosures integrated into CSRD reporting
 - UK: FCA considering mandatory TNFD alignment
 - Australia: Voluntary adoption recommended
@@ -946,6 +948,7 @@ Total Economic Value (TEV)
 > 30×30 biodiversity, land degradation neutrality).
 
 **Kunming-Montreal Global Biodiversity Framework Target:**
+
 - Goal D: $700 billion/year finance gap to be progressively closed by 2030
 - COP16 (Colombia, October 2024): Progress assessment on closing the gap
 
@@ -1133,6 +1136,7 @@ Total Economic Value (TEV)
 | Blue economy | $3+ trillion GVA | 3.7% annual growth projected (OECD) |
 
 **Investment Requirements for Nature-Positive:**
+
 - ~$2.7 trillion annually needed to scale transitions in key economic sectors
 - Widespread deployment of new technologies critical to capturing 80% of opportunities
 
@@ -1221,17 +1225,17 @@ Total Economic Value (TEV)
 **Known Data Gaps:**
 
 1. **Ecosystem service valuations:** Costanza et al. (2014) remains the most comprehensive but is now over a decade old; updated global assessment needed
-2. **Ocean economy:** Competing estimates between WWF ($2.5T/year), OECD ($2.6T GVA), and broader valuations
-3. **Coral reef services:** Wide range ($2.7T to $9.9T) reflects methodological differences
-4. **Nature-positive job estimates:** WEF (395M) vs. ILO/IUCN (32M additional) use different baselines and definitions
-5. **Pharmaceutical opportunity costs:** Highly speculative ($140-500B); impossible to value undiscovered compounds
+1. **Ocean economy:** Competing estimates between WWF ($2.5T/year), OECD ($2.6T GVA), and broader valuations
+1. **Coral reef services:** Wide range ($2.7T to $9.9T) reflects methodological differences
+1. **Nature-positive job estimates:** WEF (395M) vs. ILO/IUCN (32M additional) use different baselines and definitions
+1. **Pharmaceutical opportunity costs:** Highly speculative ($140-500B); impossible to value undiscovered compounds
 
 **Areas Requiring Updates:**
 
 1. Post-pandemic tourism recovery data (most figures use 2019 baseline)
-2. Comprehensive update to Costanza ecosystem services valuation
-3. Regional economic vulnerability assessments (many use pre-2020 data)
-4. Insurance industry data continues to evolve rapidly
+1. Comprehensive update to Costanza ecosystem services valuation
+1. Regional economic vulnerability assessments (many use pre-2020 data)
+1. Insurance industry data continues to evolve rapidly
 
 **Uncertainty Acknowledgements:**
 
@@ -1264,4 +1268,4 @@ Total Economic Value (TEV)
 
 ---
 
-> **︻デ═—··· 🎯 = Aim Twice, Shoot Once!**
+> **︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!**

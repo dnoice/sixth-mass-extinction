@@ -1,4 +1,4 @@
-<!--
+ <!--
 ✒ Metadata
     - Title: Source Matrix - Citation Cross-Reference Artifact (Sixth Mass Extinction Edition)
     - File Name: SOURCE_MATRIX.md
@@ -132,8 +132,8 @@ This document serves as a comprehensive cross-reference between source citations
 Where multiple sources exist for contested statistics, this matrix prioritizes:
 
 1. **Conservative, high-credibility baselines** from authoritative institutions (IPBES, FAO, IMF, IPCC)
-2. **Peer-reviewed topical papers** for mechanism analysis and magnitude validation
-3. **Most recent authoritative releases** for time-sensitive or frequently updated figures
+1. **Peer-reviewed topical papers** for mechanism analysis and magnitude validation
+1. **Most recent authoritative releases** for time-sensitive or frequently updated figures
 
 ### Time-Sensitive Data
 
@@ -158,6 +158,7 @@ Use the **Sections** column to navigate directly to relevant portions of MASTER_
 ### Recent Additions (December 1, 2025)
 
 **Section 1.1 Research Verification (S53-S60):**
+
 - S53: Ceballos & Ehrlich 2023 - Genus-level extinction (35x background, 73 genera) **CRITICAL UPDATE**
 - S54: Sayol et al. 2023 - Bird extinctions underestimated (55% undiscovered)
 - S55: Saban & Wiens 2025 - Comprehensive 912-species extinction analysis
@@ -170,6 +171,7 @@ Use the **Sections** column to navigate directly to relevant portions of MASTER_
 ### Previous Additions (November 30, 2025)
 
 **Phase 2 Corporate Attribution Data (S51-S52):**
+
 - S51: Trase.earth Brazil Beef v2.2.1 (2023) - JBS (1.86M ha), Minerva (832K ha), Marfrig (684K ha)
 - S52: Trase.earth Brazil Soy v2.6.1 (2022) - Bunge (#1, 1.30M ha), Cargill (614K ha, 11.5x Cerrado ratio), ADM (520K ha)
 - KEY FINDING: Cerrado soy deforestation = 10.2x Amazon (moratorium displacement confirmed)
@@ -178,6 +180,7 @@ Use the **Sections** column to navigate directly to relevant portions of MASTER_
 ### Previous Additions (November 2025)
 
 **Section 1.1 Core Sources (S48-S50):**
+
 - S48: Barnosky 2011 - Foundational mass extinction threshold paper
 - S49: Pimm 2014 - Background rate baseline (0.1 E/MSY)
 - S50: De Vos 2015 - Background rate methodology validation
@@ -185,20 +188,24 @@ Use the **Sections** column to navigate directly to relevant portions of MASTER_
 ### Previous Additions (January 2025)
 
 **Emissions Inequality (S36-S42):**
+
 - S36-S39: Oxfam/SEI inequality series (2020-2025) - Most current emissions by income data
 - S40: Global Carbon Project 2024 - Updated per capita emissions by country
 - S41: Carbon Brief 2024 - Historical responsibility analysis
 - S42: Nature 2024 - Private aviation emissions study
 
 **Environmental Justice (S43-S44):**
+
 - S43: ACS 2023 - PFAS sociodemographic disparities
 - S44: Johns Hopkins 2025 - Cancer Alley updated cancer risk data
 
 **Climate Migration (S45-S46):**
+
 - S45: World Bank Groundswell 2021 - 216M projection baseline
 - S46: IDMC 2025 - Most current annual displacement data
 
 **Agricultural Subsidies (S47):**
+
 - S47: OECD 2024 - Updated agricultural subsidy data ($842B)
 
 > ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
