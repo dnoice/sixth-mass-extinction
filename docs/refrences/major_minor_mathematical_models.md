@@ -1,14 +1,14 @@
 <!--
 ✒ Metadata
-    - Title: Major & Minor Mathematical Models Reference (SME Edition - v2.0)
+    - Title: Major & Minor Mathematical Models Reference (SME Edition - v2.1)
     - File Name: major_minor_mathematical_models.md
-    - Relative Path: docs/refrences/major_minor_mathematical_models.md
+    - Relative Path: docs/references/major_minor_mathematical_models.md
     - Artifact Type: docs
-    - Version: 2.0.0
-    - Date: 2025-12-12
-    - Update: Friday, December 12, 2025
+    - Version: 2.1.0
+    - Date: 2025-01-04
+    - Update: Saturday, January 04, 2025
     - Author: Dennis 'dnoice' Smaltz
-    - A.I. Acknowledgement: Anthropic - Claude Opus 4
+    - A.I. Acknowledgement: Anthropic - Claude Opus 4.5
     - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
     - Research Verification: Methodology confirmed against IUCN Guidelines v16 (March 2024) and foundational literature
 
@@ -140,21 +140,34 @@
 ### Key Mathematical Relationships
 
 **Extinction Rate (E/MSY):**
-```
+
+```math
 E/MSY = (Extinctions / Total Species) × 1,000,000 / Time (years)
 ```
 
 **Species-Area Relationship:**
-```
+
+```math
 S = cA^z
 ```
-Where S = species, A = area, c = constant, z = 0.15–0.35
+
+**Where**
+
+```math
+S = species, A = area, c = constant, z = 0.15–0.35
+```
 
 **Population Growth (Exponential):**
-```
+
+```math
 N(t) = N₀ × e^(rt)
 ```
-Where N = population, r = growth rate, t = time
+
+**Where**
+
+```math
+N = population, r = growth rate, t = time
+```
 
 ---
 
@@ -165,37 +178,47 @@ Where N = population, r = growth rate, t = time
 #### Basic Metrics
 
 **Absolute Extinction Rate:**
-```
+
+```math
 E_abs = Number of extinctions / Time interval
 ```
 
 **Proportional Extinction Rate:**
-```
+
+```math
 E_prop = (Number of extinctions / Total species) × 100%
 ```
 
 **Per-Species Rate (instantaneous):**
-```
+
+```math
 μ = -ln(1 - E_prop) / t
 ```
 
 #### Standard Metric: E/MSY
 
 **Extinctions per Million Species-Years (E/MSY):**
-```
+
+```math
 E/MSY = (E / S) × 10⁶ / t
 ```
 
-Where:
-- E = number of extinctions
-- S = total species (at start or average)
-- t = time in years
-- 10⁶ = scaling to per-million
+**Where**
+
+```math
+E = number of extinctions
+S = total species (at start or average)
+t = time in years
+10⁶ = scaling to per-million
+```
 
 **Example Calculation:**
 
+```math
 If 100 extinctions occur among 10,000 species over 100 years:
 ```
+
+```math
 E/MSY = (100 / 10,000) × 10⁶ / 100
       = 0.01 × 10⁶ / 100
       = 100 E/MSY
@@ -208,7 +231,7 @@ E/MSY = (100 / 10,000) × 10⁶ / 100
 **Method 1: Marine Invertebrate Fossils (Sepkoski)**
 
 | Era | Duration (Myr) | Families | Extinction Rate |
-|-----|----------------|----------|-----------------|
+| ----- | ---------------- | ---------- | ----------------- |
 | Cambrian | 54 | Variable | 4.6 families/Myr |
 | Ordovician | 43 | Variable | 2.7 families/Myr |
 | Silurian | 24 | Variable | 1.7 families/Myr |
@@ -217,7 +240,8 @@ E/MSY = (100 / 10,000) × 10⁶ / 100
 **Species-to-Family Conversion:**
 
 Using ~100 species per family:
-```
+
+```math
 Background = 2–5 families/Myr × 100 species/family / 10⁶ species
            = 0.2–0.5 E/MSY (at family level extrapolated)
 ```
@@ -233,12 +257,14 @@ Background = 2–5 families/Myr × 100 species/family / 10⁶ species
 **Method 3: Modern Lineage Analysis**
 
 Using molecular clocks and species lifespan estimates:
-```
+
+```math
 Background ≈ 0.1–1.0 E/MSY
 ```
 
 **Consensus Background Rate:**
-```
+
+```math
 0.1–2.0 E/MSY (typically ~1 E/MSY cited)
 ```
 
@@ -262,22 +288,34 @@ Background ≈ 0.1–1.0 E/MSY
 
 **Habitat Loss Approach:**
 
-Using S = cA^z with z = 0.25:
+**Using**
 
+```math
+S = cA^z
 ```
+
+**with**
+
+```math
+z = 0.25:
+```
+
+```math
 Species lost = S_original × [1 - (A_remaining/A_original)^z]
 ```
 
 **Tropical Forest Example:**
 
 If 50% of tropical forest lost:
-```
+
+```math
 Relative species remaining = (0.5)^0.25 = 0.84
 Species lost ≈ 16%
 ```
 
 Applied to estimated species:
-```
+
+```math
 If tropical forests hold 5 million species:
 Species lost ≈ 800,000 (over deforestation period)
 ```
@@ -286,18 +324,22 @@ Species lost ≈ 800,000 (over deforestation period)
 
 **From IUCN Assessments:**
 
-```
+```math
 Extinction probability per year =
   Σ (species in category × probability) / total species
+```
 
-Where probability by category:
-  CR: 0.01–0.10 per year
-  EN: 0.001–0.01 per year
-  VU: 0.0001–0.001 per year
+**Where probability by category:**
+
+```math
+CR: 0.01–0.10 per year
+EN: 0.001–0.01 per year
+VU: 0.0001–0.001 per year
 ```
 
 **Estimated Current Rate:**
-```
+
+```math
 100–1,000 E/MSY (depending on taxonomic group and method)
 ```
 
@@ -306,7 +348,8 @@ Where probability by category:
 #### Rate Ratio
 
 **Current/Background Ratio:**
-```
+
+```math
 R = E_current / E_background
   = (100–1,000 E/MSY) / (0.1–2.0 E/MSY)
   = 100–1,000×
@@ -314,11 +357,19 @@ R = E_current / E_background
 
 #### Statistical Significance Testing
 
-**Null Hypothesis:** Current rate = background rate
+**Null Hypothesis:**
+
+```math
+H₀: Current rate = background rate
+```
 
 **Test:** Poisson or negative binomial regression comparing observed vs. expected extinctions
 
-**Result:** p << 0.001 (highly significant difference)
+**Result:**
+
+```math
+p << 0.001 (highly significant difference)
+```
 
 #### Confidence Intervals
 
@@ -329,7 +380,8 @@ R = E_current / E_background
 3. Determine 95% CI from distribution
 
 **Typical CI:**
-```
+
+```math
 Current rate: 100–1,000× background (95% CI)
 ```
 
@@ -342,18 +394,23 @@ Current rate: 100–1,000× background (95% CI)
 #### The Equation
 
 **Power Law (Arrhenius, 1921):**
-```
+
+```math
 S = cA^z
 ```
 
-Where:
-- S = number of species
-- A = area
-- c = constant (varies by taxon/region)
-- z = exponent (typically 0.15–0.35)
+**Where**
+
+```math
+S = number of species
+A = area
+c = constant (varies by taxon/region)
+z = exponent (typically 0.15–0.35)
+```
 
 **Log-Linear Form:**
-```
+
+```math
 log(S) = log(c) + z × log(A)
 ```
 
@@ -381,27 +438,35 @@ This linearizes the relationship for regression analysis.
 #### Regression Method
 
 **Ordinary Least Squares (log-log):**
-```
-log(S_i) = a + z × log(A_i) + ε_i
 
-Where:
-  a = log(c)
-  z = slope
-  ε = error term
+```math
+log(S_i) = a + z × log(A_i) + ε_i
+```
+
+**Where**
+
+```math
+a = log(c)
+z = slope
+ε = error term
 ```
 
 **Parameter Estimates:**
-```
+
+```math
 z = Σ[(log(A_i) - mean(log(A))) × (log(S_i) - mean(log(S)))] /
     Σ[(log(A_i) - mean(log(A)))²]
+```
 
+```math
 c = exp[mean(log(S)) - z × mean(log(A))]
 ```
 
 #### Maximum Likelihood
 
 **Assuming Poisson-distributed species counts:**
-```
+
+```math
 L(c, z | data) = Π P(S_i | cA_i^z)
 ```
 
@@ -410,7 +475,8 @@ Maximize log-likelihood for parameter estimates.
 #### Bayesian Approaches
 
 **Prior distributions:**
-```
+
+```math
 z ~ Normal(0.25, 0.1)  [informed prior]
 c ~ Lognormal(μ, σ)    [taxon-specific]
 ```
@@ -424,28 +490,36 @@ c ~ Lognormal(μ, σ)    [taxon-specific]
 Species loss from habitat reduction occurs with a time lag—the **extinction debt**.
 
 **Relaxation Model:**
-```
+
+```math
 S(t) = S_final + (S_initial - S_final) × e^(-t/τ)
 ```
 
-Where:
-- S_initial = species immediately after habitat loss
-- S_final = equilibrium species for new area
-- τ = relaxation time constant (often decades to centuries)
+**Where**
+
+```math
+S_initial = species immediately after habitat loss
+S_final = equilibrium species for new area
+τ = relaxation time constant (often decades to centuries)
+```
 
 #### Calculating Extinction Debt
 
 **Debt = Species present - Equilibrium species**
-```
+
+```math
 Debt = S_observed - cA_current^z
 ```
 
 **Example:**
 
 If a 1000 km² forest is reduced to 100 km²:
-- Original: S₁ = c × 1000^0.25
-- Equilibrium: S₂ = c × 100^0.25
-- Ratio: S₂/S₁ = (100/1000)^0.25 = 0.56
+
+```math
+Original: S₁ = c × 1000^0.25
+Equilibrium: S₂ = c × 100^0.25
+Ratio: S₂/S₁ = (100/1000)^0.25 = 0.56
+```
 
 So 44% of species eventually lost, but many persist initially.
 
@@ -480,10 +554,16 @@ So 44% of species eventually lost, but many persist initially.
 #### Improved Models
 
 **Endemic-Area Relationship:**
-```
+
+```math
 E = cA^z_E
 ```
-Where E = endemic species, z_E < z (endemics more sensitive)
+
+**Where**
+
+```math
+E = endemic species, z_E < z (endemics more sensitive)
+```
 
 **Countryside SAR:**
 Incorporates matrix quality between habitat patches
@@ -502,26 +582,33 @@ Species richness on islands determined by balance between:
 
 #### Immigration Rate
 
-```
+```math
 I = I_max × (1 - S/P)
 ```
 
-Where:
-- I_max = maximum immigration rate (when S = 0)
-- S = current species on island
-- P = mainland species pool
+**Where**
+
+```math
+I_max = maximum immigration rate (when S = 0)
+S = current species on island
+P = mainland species pool
+```
 
 Immigration decreases as more species present (fewer new colonizers possible)
 
 #### Extinction Rate
 
-```
+```math
 E = E_max × (S/P)
 ```
 
-Where:
-- E_max = maximum extinction rate (when S = P)
-- Extinction increases with more species (smaller populations each)
+**Where**
+
+```math
+E_max = maximum extinction rate (when S = P)
+```
+
+Extinction increases with more species (smaller populations each)
 
 ### 4.2 Equilibrium Theory
 
@@ -530,9 +617,12 @@ Where:
 At equilibrium: I = E
 
 **Solving:**
-```
-I_max × (1 - S*/P) = E_max × (S*/P)
 
+```math
+I_max × (1 - S*/P) = E_max × (S*/P)
+```
+
+```math
 S* = P × I_max / (I_max + E_max)
 ```
 
@@ -543,8 +633,15 @@ S* = P × I_max / (I_max + E_max)
 - Higher equilibrium S*
 
 **Mathematical form:**
+
+```math
+E_max ∝ A^(-α)
 ```
-E_max ∝ A^(-α)  [extinction decreases with area]
+
+**Where**
+
+```math
+extinction decreases with area
 ```
 
 #### Distance Effect
@@ -554,8 +651,15 @@ E_max ∝ A^(-α)  [extinction decreases with area]
 - Lower equilibrium S*
 
 **Mathematical form:**
+
+```math
+I_max ∝ D^(-β)
 ```
-I_max ∝ D^(-β)  [immigration decreases with distance]
+
+**Where**
+
+```math
+immigration decreases with distance
 ```
 
 ### 4.3 Applications to Habitat Fragments
@@ -571,17 +675,22 @@ I_max ∝ D^(-β)  [immigration decreases with distance]
 #### Metapopulation Extensions
 
 **Levins Metapopulation Model:**
-```
+
+```math
 dp/dt = cp(1 - p) - ep
 ```
 
-Where:
-- p = proportion of patches occupied
-- c = colonization rate
-- e = extinction rate
+**Where**
+
+```math
+p = proportion of patches occupied
+c = colonization rate
+e = extinction rate
+```
 
 **Equilibrium:**
-```
+
+```math
 p* = 1 - e/c
 ```
 
@@ -605,20 +714,27 @@ If e > c, metapopulation goes extinct.
 #### Classic Estimates
 
 **Franklin's Rule (1980):**
-```
+
+```math
 N_e = 50 (avoid inbreeding depression)
 N_e = 500 (maintain evolutionary potential)
 ```
 
-Where N_e = effective population size
+**Where**
+
+```math
+N_e = effective population size
+```
 
 **Effective-to-Census Ratio:**
-```
+
+```math
 N_e ≈ 0.10–0.25 × N
 ```
 
 So census population needs:
-```
+
+```math
 N = 200–500 for short-term (from N_e = 50)
 N = 2,000–5,000 for long-term (from N_e = 500)
 ```
@@ -626,7 +742,8 @@ N = 2,000–5,000 for long-term (from N_e = 500)
 #### Modern MVP Analysis
 
 **Meta-analysis (Traill et al. 2007):**
-```
+
+```math
 Median MVP ≈ 4,169 individuals
 Range: 1,000–10,000+ depending on species
 ```
@@ -647,43 +764,70 @@ Range: 1,000–10,000+ depending on species
 #### Exponential Growth
 
 **Basic Model:**
-```
+
+```math
 dN/dt = rN
-
-Solution: N(t) = N₀e^(rt)
 ```
 
-Where:
-- N = population size
-- r = intrinsic growth rate
-- r = b - d (births - deaths)
+**Solution:**
+
+```math
+N(t) = N₀e^(rt)
+```
+
+**Where**
+
+```math
+N = population size
+r = intrinsic growth rate
+r = b - d (births - deaths)
+```
 
 #### Logistic Growth
 
 **Density-Dependent Model:**
-```
+
+```math
 dN/dt = rN(1 - N/K)
-
-Solution: N(t) = K / [1 + ((K-N₀)/N₀)e^(-rt)]
 ```
 
-Where:
-- K = carrying capacity
-- Population approaches K asymptotically
+**Solution:**
+
+```math
+N(t) = K / [1 + ((K-N₀)/N₀)e^(-rt)]
+```
+
+**Where**
+
+```math
+K = carrying capacity
+```
+
+Population approaches K asymptotically.
 
 #### Discrete Time Models
 
 **Geometric Growth:**
-```
+
+```math
 N(t+1) = λN(t)
-
-Solution: N(t) = N₀λ^t
 ```
 
-Where λ = finite rate of increase = e^r
+**Solution:**
+
+```math
+N(t) = N₀λ^t
+```
+
+**Where**
+
+```math
+λ = finite rate of increase = e^r
+```
 
 **Ricker Model:**
-```
+
+```math
 N(t+1) = N(t) × exp[r(1 - N(t)/K)]
 ```
 
@@ -692,14 +836,16 @@ N(t+1) = N(t) × exp[r(1 - N(t)/K)]
 #### Demographic Stochasticity
 
 **Variance in vital rates from random individual events:**
-```
+
+```math
 Var(N(t+1) | N(t)) ∝ N(t)
 ```
 
 Most important when N is small.
 
 **Extinction Probability (Birth-Death Process):**
-```
+
+```math
 P(extinction) = (d/b)^N₀ if d < b
               = 1 if d ≥ b
 ```
@@ -707,26 +853,32 @@ P(extinction) = (d/b)^N₀ if d < b
 #### Environmental Stochasticity
 
 **Year-to-year variation in vital rates:**
-```
+
+```math
 r(t) ~ Normal(r̄, σ_e²)
 ```
 
 **Log-Population Dynamics:**
-```
+
+```math
 ln(N(t+1)) = ln(N(t)) + r̄ - σ_e²/2 + ε(t)
 ```
 
 This is a random walk with drift.
 
 **Mean Time to Extinction:**
+
+```math
+T_e ≈ (2 ln(N₀) + ln(N₀)/r̄) / σ_e²
 ```
-T_e ≈ (2 ln(N₀) + ln(N₀)/r̄) / σ_e² [approximation]
-```
+
+**Note:** This is an approximation.
 
 #### Catastrophes
 
 **Incorporated as occasional large negative events:**
-```
+
+```math
 With probability p_cat per year:
   N → N × (1 - severity)
 ```
@@ -829,15 +981,22 @@ With probability p_cat per year:
 #### Calculation
 
 **From census data:**
-```
+
+```math
 % decline = ((N_initial - N_current) / N_initial) × 100
 ```
 
 **From population models:**
-```
+
+```math
 % decline = (1 - λ^t) × 100
 ```
-Where λ < 1 indicates decline
+
+**Where**
+
+```math
+λ < 1 indicates decline
+```
 
 ### 6.3 Criterion B: Geographic Range
 
@@ -862,7 +1021,11 @@ Where λ < 1 indicates decline
 
 **Definition:** Area within EOO actually occupied (using standard grid)
 
-**Standard grid:** 2 km × 2 km = 4 km² cells
+**Standard grid:**
+
+```math
+2 km × 2 km = 4 km² cells
+```
 
 **Thresholds:**
 
@@ -925,15 +1088,19 @@ Criterion D requires no decline—just very small size or range
 #### Basic Formula
 
 **Red List Index (RLI):**
-```
+
+```math
 RLI(t) = 1 - Σ W_c × N_c(t) / (W_max × N)
 ```
 
-Where:
-- W_c = weight for category c
-- N_c(t) = number of species in category c at time t
-- W_max = maximum weight (typically 5 for EX)
-- N = total species assessed (excluding DD)
+**Where**
+
+```math
+W_c = weight for category c
+N_c(t) = number of species in category c at time t
+W_max = maximum weight (typically 5 for EX)
+N = total species assessed (excluding DD)
+```
 
 **Category Weights:**
 
@@ -952,7 +1119,7 @@ If at time t:
 - 100 species assessed
 - 40 LC, 20 NT, 15 VU, 10 EN, 10 CR, 5 EX
 
-```
+```math
 RLI = 1 - [(0×40 + 1×20 + 2×15 + 3×10 + 4×10 + 5×5) / (5×100)]
     = 1 - [(0 + 20 + 30 + 30 + 40 + 25) / 500]
     = 1 - (145/500)
@@ -963,9 +1130,12 @@ RLI = 1 - [(0×40 + 1×20 + 2×15 + 3×10 + 4×10 + 5×5) / (5×100)]
 ### 7.2 Interpretation
 
 **RLI Values:**
-- RLI = 1.0: All species Least Concern
-- RLI = 0.5: Average category is between VU and EN
-- RLI = 0.0: All species Extinct
+
+```math
+RLI = 1.0: All species Least Concern
+RLI = 0.5: Average category is between VU and EN
+RLI = 0.0: All species Extinct
+```
 
 **Trend:**
 - Decreasing RLI: Conservation status worsening
@@ -1006,14 +1176,24 @@ Weight contributions by primary threat driver.
 #### MAXENT Algorithm
 
 **Maximum Entropy Approach:**
-```
+
+```math
 Maximize entropy of distribution subject to constraints:
-  E[f_j(x)] = Σ f_j(x_i) / n  [match feature means]
+  E[f_j(x)] = Σ f_j(x_i) / n
 ```
 
-Where f_j are environmental feature functions.
+**Where**
 
-**Output:** Probability of presence P(x) at location x
+```math
+f_j are environmental feature functions
+[match feature means]
+```
+
+**Output:**
+
+```math
+P(x) = Probability of presence at location x
+```
 
 ### 8.2 Climate Envelope Models
 
@@ -1054,16 +1234,25 @@ Where f_j are environmental feature functions.
 #### Performance Metrics
 
 **AUC (Area Under ROC Curve):**
-- 0.5 = random
-- 0.7–0.8 = acceptable
-- 0.8–0.9 = good
-- >0.9 = excellent
+
+```math
+0.5 = random
+0.7–0.8 = acceptable
+0.8–0.9 = good
+>0.9 = excellent
+```
 
 **TSS (True Skill Statistic):**
-```
+
+```math
 TSS = Sensitivity + Specificity - 1
 ```
+
+**Where**
+
+```math
 Range: -1 to +1 (0 = random)
+```
 
 ---
 
@@ -1084,10 +1273,13 @@ Range: -1 to +1 (0 = random)
 | SSP5 | Fossil-fueled | Very high |
 
 **Combined with RCP (Representative Concentration Pathways):**
-- RCP2.6: <2°C warming
-- RCP4.5: ~2.5°C warming
-- RCP6.0: ~3°C warming
-- RCP8.5: ~4.5°C warming
+
+```math
+RCP2.6: <2°C warming
+RCP4.5: ~2.5°C warming
+RCP6.0: ~3°C warming
+RCP8.5: ~4.5°C warming
+```
 
 ### 9.2 Time-to-Extinction Models
 
@@ -1096,18 +1288,26 @@ Range: -1 to +1 (0 = random)
 **Method:**
 If current trends continue, time to 75% species loss:
 
-```
+```math
 T_75 = 0.75 / current_rate × million_years
 ```
 
 **Calculation:**
+
+```math
 Current rate ≈ 100 E/MSY
 ```
+
+```math
 T_75 = (0.75 × 10⁶) / 100 = 7,500 years [lower bound]
-      = (0.75 × 10⁶) / 1,000 = 750 years [upper bound]
+     = (0.75 × 10⁶) / 1,000 = 750 years [upper bound]
 ```
 
-**Refined estimate:** 240–540 years (Barnosky et al. 2011)
+**Refined estimate:**
+
+```math
+240–540 years (Barnosky et al. 2011)
+```
 
 #### Climate-Extinction Projections
 
@@ -1119,10 +1319,13 @@ For each climate scenario:
 3. Calculate committed extinctions
 
 **Results:**
-- 1.5°C: 6–8% species committed to extinction
-- 2.0°C: 16–18% species committed
-- 3.0°C: 26–37% species committed
-- 4.0°C+: 40–50%+ species committed
+
+```math
+1.5°C: 6–8% species committed to extinction
+2.0°C: 16–18% species committed
+3.0°C: 26–37% species committed
+4.0°C+: 40–50%+ species committed
+```
 
 ### 9.3 Uncertainty Quantification
 
@@ -1153,7 +1356,8 @@ CI_95 = percentile(result, [2.5, 97.5])
 #### Bayesian Approaches
 
 **Posterior prediction:**
-```
+
+```math
 P(future | data) = ∫ P(future | θ) × P(θ | data) dθ
 ```
 
@@ -1170,18 +1374,26 @@ Integrates over parameter uncertainty.
 **Species Richness (S):** Simple count
 
 **Shannon Index (H'):**
-```
+
+```math
 H' = -Σ p_i × ln(p_i)
 ```
-Where p_i = proportion of species i
+
+**Where**
+
+```math
+p_i = proportion of species i
+```
 
 **Simpson Index (D):**
-```
+
+```math
 D = 1 - Σ p_i²
 ```
 
 **Effective Number of Species:**
-```
+
+```math
 exp(H')  [Shannon]
 1/Σp_i²  [Simpson, Hill's N2]
 ```
@@ -1189,24 +1401,28 @@ exp(H')  [Shannon]
 #### Beta Diversity (Between-Sample)
 
 **Jaccard Similarity:**
-```
+
+```math
 J = |A ∩ B| / |A ∪ B|
 ```
 
 **Sørensen Similarity:**
-```
+
+```math
 S = 2|A ∩ B| / (|A| + |B|)
 ```
 
 **Bray-Curtis Dissimilarity:**
-```
+
+```math
 BC = Σ |x_ij - x_ik| / Σ (x_ij + x_ik)
 ```
 
 #### Gamma Diversity
 
 **Regional diversity:**
-```
+
+```math
 γ = α × β [multiplicative]
 γ = α + β [additive]
 ```
@@ -1216,20 +1432,31 @@ BC = Σ |x_ij - x_ik| / Σ (x_ij + x_ik)
 #### Population Trend Analysis
 
 **Linear Regression on Log-Counts:**
-```
+
+```math
 ln(N(t)) = a + bt + ε
 ```
-Where b = annual rate of change
+
+**Where**
+
+```math
+b = annual rate of change
+```
 
 **Testing for Decline:**
-- H₀: b = 0 (no trend)
-- H₁: b < 0 (decline)
-- Use t-test on slope
+
+```math
+H₀: b = 0 (no trend)
+H₁: b < 0 (decline)
+```
+
+Use t-test on slope.
 
 #### Living Planet Index Method
 
 **Geometric Mean of Relative Abundance:**
-```
+
+```math
 LPI(t) = exp[Σ ln(N_i(t)/N_i(1970)) / n]
 ```
 
@@ -1238,40 +1465,64 @@ Normalized so LPI(1970) = 1.0
 #### Generalized Additive Models
 
 **For Non-Linear Trends:**
-```
+
+```math
 E[Y] = f(time) + covariates
 ```
-Where f() is a smooth function
+
+**Where**
+
+```math
+f() is a smooth function
+```
 
 ### 10.3 Sampling and Extrapolation
 
 #### Rarefaction
 
 **Comparing Richness at Equal Effort:**
-```
+
+```math
 E[S_n] = S - Σ C(N-N_i, n) / C(N, n)
 ```
 
-Where C(a,b) = combinations
+**Where**
+
+```math
+C(a,b) = combinations
+```
 
 #### Extrapolation (Chao Estimators)
 
 **Chao1 (Abundance-Based):**
-```
+
+```math
 S_est = S_obs + f₁²/(2f₂)
 ```
-Where f₁ = singletons, f₂ = doubletons
+
+**Where**
+
+```math
+f₁ = singletons, f₂ = doubletons
+```
 
 **Chao2 (Incidence-Based):**
-```
+
+```math
 S_est = S_obs + Q₁²/(2Q₂)
 ```
-Where Q₁ = uniques, Q₂ = duplicates
+
+**Where**
+
+```math
+Q₁ = uniques, Q₂ = duplicates
+```
 
 #### Occupancy Modeling
 
 **Accounting for Imperfect Detection:**
-```
+
+```math
 P(detection) = P(occupied) × P(detected | occupied)
 ```
 
@@ -1301,7 +1552,7 @@ P(detection) = P(occupied) × P(detected | occupied)
 | % decline/year | λ (finite rate) | λ = 1 - (decline/100) |
 | λ | r (intrinsic rate) | r = ln(λ) |
 | r | doubling time | T_d = ln(2)/r |
-| r | halving time | T_h = ln(2)/|r| (for r<0) |
+| r | halving time | T_h = ln(2)/\|r\| (for r<0) |
 
 ---
 
@@ -1370,8 +1621,8 @@ IUCN Red List Guidelines are regularly updated. Version 16 (March 2024) is curre
 
 ---
 
-> **Document Status:** Version 2.0 - Comprehensive Research Verification Complete
-> **Last Updated:** Friday, December 12, 2025
+> **Document Status:** Version 2.1 - Math Code Block Formatting Standardized
+> **Last Updated:** Saturday, January 04, 2025
 > **Verification Date:** December 2025 (against IUCN Guidelines v16 and foundational literature)
 > **Next Review:** As new methods are developed; check for IUCN Guidelines updates
 > **Cross-References:** major_minor_extinction_events.md, major_minor_current_status.md
@@ -1384,10 +1635,11 @@ IUCN Red List Guidelines are regularly updated. Version 16 (March 2024) is curre
 |---------|------|---------|
 | 1.0 | 2025-12-12 | Initial comprehensive document |
 | 2.0 | 2025-12-12 | Research verification: Updated IUCN Guidelines reference to v16 (March 2024), added Ceballos et al. 2015 landmark study, added methodological notes on background rate debate, added Red List of Ecosystems v2.0, added uncertainty clauses |
+| 2.1 | 2025-01-04 | Standardized all math code blocks to use ```math syntax with separate **Where** blocks for variable definitions |
 
 ---
 
-> *Document compiled and verified: Friday, December 12, 2025*
+> *Document compiled and verified: Saturday, January 04, 2025*
 > *Methodology sources: IUCN, Science, Nature, Science Advances, Conservation Biology*
 
 ---
