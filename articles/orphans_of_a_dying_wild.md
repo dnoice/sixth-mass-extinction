@@ -2,7 +2,7 @@
 
 ## The Last Survivors of Broken Families and Vanishing Habitats
 
-![Orphans of a Dying Wild](../assets/images/orphans_of_a_dying_wild.png)
+![Orphans of a Dying Wild](../assets/images/orphans_of_a_dying_world.png)
 
 ---
 
