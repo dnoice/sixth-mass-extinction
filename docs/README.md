@@ -1,12 +1,12 @@
 <!--
 ✒ Metadata
-    - Title: Documentation Directory Index (SME Edition - v1.0)
+    - Title: Documentation Directory Index (SME Edition - v1.1)
     - File Name: README.md
     - Relative Path: docs/README.md
     - Artifact Type: docs
-    - Version: 1.0.0
+    - Version: 1.1.0
     - Date: 2026-01-04
-    - Update: Saturday, January 04, 2026
+    - Update: Monday, January 06, 2026
     - Author: Dennis 'dnoice' Smaltz
     - A.I. Acknowledgement: Anthropic - Claude Opus 4.5
     - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
@@ -21,10 +21,11 @@
     - Feature 2: Quick navigation links to all subdirectories
     - Feature 3: Key file descriptions and purposes
     - Feature 4: Project coordination resources
+    - Feature 5: Links to featured articles and research stacks
 
 ✒ Other Important Information:
     - Dependencies: None
-    - Related: MASTER_BLUEPRINT.md (root), SOURCE_MATRIX.md
+    - Related: README.md (root), MASTER_BLUEPRINT.md, SOURCE_MATRIX.md
 ---------
 -->
 
@@ -36,21 +37,46 @@
 
 ---
 
-## Directory Structure
+## Project Root Structure
+
+```tree
+sixth-mass-extinction/
+├── README.md                          Project landing page
+├── LICENSE                            MIT License
+├── requirements.txt                   Python dependencies
+│
+├── articles/                          Featured research articles (6 complete)
+│   ├── big_mammals_bigger_lies.md
+│   ├── dead_zones_rising.md
+│   ├── eggshell_armageddon.md
+│   ├── flight_extinguished.md
+│   ├── no_buzz_no_harvest.md
+│   └── orphans_of_a_dying_wild.md
+│
+├── assets/images/                     Visual artwork for articles
+├── docs/                              Documentation (this directory)
+└── research-stacks/                   Analysis & production hub (32 episodes)
+```
+
+---
+
+## Documentation Directory Structure
 
 ```tree
 docs/
 ├── README.md                          (this file)
-├── MASTER_BLUEPRINT.md                Core project framework
-├── SOURCE_MATRIX.md                   Citation management
+├── GLOSSARY.md                        Key terms and definitions
 ├── PROJECT_AUDIT_REPORT.md            Project health assessment
 │
 ├── project-blueprints/                Research planning
+│   ├── MASTER_BLUEPRINT.md            Core project framework
+│   ├── SOURCE_MATRIX.md               Citation management (51+ sources)
 │   └── research-blueprints/           42 research blueprints (100% complete)
 │       ├── RESEARCH_BLUEPRINTS_INDEX.md
-│       ├── 1.0/ through 10.0/         Section blueprints
+│       └── 1.0/ through 10.0/         Section blueprints
 │
-├── references/                        Reference documents
+├── references/                        Reference documents (9 guides)
+│   ├── README.md
 │   ├── major_animal_groups.md
 │   ├── major_minor_biomes.md
 │   ├── major_minor_current_status.md
@@ -67,7 +93,7 @@ docs/
 │
 └── standards/                         Project standards
     ├── MARKDOWN_STANDARDS.md
-    └── DOCSTRING_STANDARDS.md
+    └── docstring_standards.md
 ```
 
 ---
@@ -78,9 +104,21 @@ docs/
 
 | Document | Purpose |
 | -------- | ------- |
-| [MASTER_BLUEPRINT.md](./MASTER_BLUEPRINT.md) | Project framework with 10 parent sections |
-| [SOURCE_MATRIX.md](./SOURCE_MATRIX.md) | Citation repository and management |
+| [MASTER_BLUEPRINT.md](./project-blueprints/MASTER_BLUEPRINT.md) | Project framework with 10 parent sections |
+| [SOURCE_MATRIX.md](./project-blueprints/SOURCE_MATRIX.md) | Citation repository (51+ peer-reviewed sources) |
+| [GLOSSARY.md](./GLOSSARY.md) | Key terms and definitions |
 | [PROJECT_AUDIT_REPORT.md](./PROJECT_AUDIT_REPORT.md) | Project health and consistency audit |
+
+### Featured Articles
+
+| Article | Theme |
+| ------- | ----- |
+| [Big Mammals, Bigger Lies](../articles/big_mammals_bigger_lies.md) | Trophy hunting, deforestation, keystone species |
+| [Dead Zones Rising](../articles/dead_zones_rising.md) | Ocean hypoxia, acidification, marine collapse |
+| [Eggshell Armageddon](../articles/eggshell_armageddon.md) | Reptile reproductive crisis |
+| [Flight Extinguished](../articles/flight_extinguished.md) | Bird mortality from human infrastructure |
+| [No Buzz, No Harvest](../articles/no_buzz_no_harvest.md) | Pollinator collapse, agricultural crisis |
+| [Orphans of a Dying Wild](../articles/orphans_of_a_dying_wild.md) | Wildlife orphans, ecosystem fragmentation |
 
 ### Research Blueprints
 
@@ -114,9 +152,29 @@ docs/
 
 ## Project Status
 
-**Research Blueprints:** 42/42 complete (100%)
-**Reference Documents:** 9 comprehensive guides
-**Article Creation:** Phase 2 (pending)
+| Component | Status |
+| --------- | ------ |
+| Research Blueprints | 42/42 complete (100%) |
+| Reference Documents | 9 comprehensive guides |
+| Featured Articles | 6/6 complete (100%) |
+| Research Stacks | 10 sections initialized (32 episodes) |
+
+### Research Stacks
+
+The [research-stacks/](../research-stacks/) directory contains the analysis and production hub:
+
+| Section | Episodes | Focus |
+| ------- | -------- | ----- |
+| 1.0 | 4 | Establishing the Crisis |
+| 2.0 | 6 | Primary Drivers |
+| 3.0 | 3 | Ecological Collapse |
+| 4.0 | 4 | Economic Systems |
+| 5.0 | 2 | Environmental Justice |
+| 6.0 | 3 | What We're Losing |
+| 7.0 | 2 | Tipping Points |
+| 8.0 | 2 | Failed Solutions |
+| 9.0 | 2 | Timeline & Urgency |
+| 10.0 | 4 | Synthesis |
 
 ---
 
