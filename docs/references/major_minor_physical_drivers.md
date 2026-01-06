@@ -3,14 +3,14 @@
 
     - Title: Major & Minor Physical Drivers Reference (SME Edition - v2.0)
     - File Name: major_minor_physical_drivers.md
-    - Relative Path: docs/refrences/major_minor_physical_drivers.md
+    - Relative Path: docs/references/major_minor_physical_drivers.md
     - Artifact Type: docs
     - Version: 2.0.0
     - Date: 2025-12-12
     - Update: Friday, December 12, 2025
     - Author: Dennis 'dnoice' Smaltz
-    - A.I. Acknowledgement: Anthropic - Claude Opus 4
-    - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+    - A.I. Acknowledgement: Anthropic - Claude Opus 4.5
+    - Signature:  ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
     - Research Verification: Updated with 2024 temperature records (hottest year), IPCC AR6 confirmed, 1.5°C milestone
 
 ✒ Description:
@@ -1330,7 +1330,7 @@ Contribution to warming: <10%
 
 ---
 
-> **︻デ═—··· 🎯 = Aim Twice, Shoot Once!**
+> **︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!**
 
 **Current solar influence:** Negligible compared to greenhouse forcing
 
@@ -1495,7 +1495,7 @@ Contribution to warming: <10%
 
 ---
 
-> **︻デ═—··· 🎯 = Aim Twice, Shoot Once!**
+> **︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!**
 
 
 #### Current status (Version History)
@@ -1678,7 +1678,7 @@ Contribution to warming: <10%
 
 ---
 
-> **︻デ═—··· 🎯 = Aim Twice, Shoot Once!**
+> **︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!**
 
 **Current solar influence:** Negligible compared to greenhouse forcing
 
@@ -1843,4 +1843,4 @@ Contribution to warming: <10%
 
 ---
 
-> **︻デ═—··· 🎯 = Aim Twice, Shoot Once!**
+> **︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!**

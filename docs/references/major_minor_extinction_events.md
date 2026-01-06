@@ -2,7 +2,7 @@
 ✒ Metadata
     - Title: Major & Minor Extinction Events Reference (SME Edition - v1.0)
     - File Name: major_minor_extinction_events.md
-    - Relative Path: docs/reference/major_minor_extinction_events.md
+    - Relative Path: docs/references/major_minor_extinction_events.md
     - Artifact Type: docs
     - Version: 1.0.0
     - Date: 2025-12-11

@@ -2,14 +2,14 @@
 ✒ Metadata
     - Title: Major & Minor Plant Groups Reference (SME Edition - v1.0)
     - File Name: major_minor_plant_groups.md
-    - Relative Path: docs/reference/major_minor_plant_groups.md
+    - Relative Path: docs/references/major_minor_plant_groups.md
     - Artifact Type: docs
     - Version: 1.0.0
     - Date: 2025-12-11
     - Update: Thursday, December 11, 2025
     - Author: Dennis 'dnoice' Smaltz
     - A.I. Acknowledgement: Anthropic - Claude Opus 4.5
-    - Signature:  ︻デ═—··· 🎯 = Aim Twice, Shoot Once!
+    - Signature:  ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
 
 ✒ Description:
     Comprehensive reference document covering all major and minor plant taxonomic groups
@@ -1290,4 +1290,4 @@ While attention focuses on ivory and rhino horn, illegal plant trade represents 
 
 ---
 
-> **︻デ═—··· 🎯 = Aim Twice, Shoot Once!**
+> **︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!**

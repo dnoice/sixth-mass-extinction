@@ -1,8 +1,8 @@
 <!--
 ✒ Metadata
     - Title: Major & Minor Animal Groups Reference (SME Edition - v2.0)
-    - File Name: major_minor_animal_groups.md
-    - Relative Path: docs/reference/major_minor_animal_groups.md
+    - File Name: major_animal_groups.md
+    - Relative Path: docs/references/major_animal_groups.md
     - Artifact Type: docs
     - Version: 2.0.0
     - Date: 2025-12-11

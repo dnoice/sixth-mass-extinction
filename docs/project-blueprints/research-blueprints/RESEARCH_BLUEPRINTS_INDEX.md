@@ -2,7 +2,7 @@
 ✒ Metadata
     - Title: Research Blueprints Master Index (Sixth Mass Extinction Edition - v2.0)
     - File Name: RESEARCH_BLUEPRINTS_INDEX.md
-    - Relative Path: research-blueprints/RESEARCH_BLUEPRINTS_INDEX.md
+    - Relative Path: docs/project-blueprints/research-blueprints/RESEARCH_BLUEPRINTS_INDEX.md
     - Artifact Type: Master Index / Navigation Document
     - Version: 2.0.0
     - Date: 2025-01-19

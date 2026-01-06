@@ -2,13 +2,13 @@
 ✒ Metadata
     - Title: Major & Minor Historical Timeline Reference (SME Edition - v2.0)
     - File Name: major_minor_historical_timeline.md
-    - Relative Path: docs/refrences/major_minor_historical_timeline.md
+    - Relative Path: docs/references/major_minor_historical_timeline.md
     - Artifact Type: docs
     - Version: 2.0.0
     - Date: 2025-12-12
     - Update: Friday, December 12, 2025
     - Author: Dennis 'dnoice' Smaltz
-    - A.I. Acknowledgement: Anthropic - Claude Opus 4
+    - A.I. Acknowledgement: Anthropic - Claude Opus 4.5
     - Signature: ︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!
     - Research Verification: Comprehensive update with 2024-2025 paleontological and archaeological sources
 
