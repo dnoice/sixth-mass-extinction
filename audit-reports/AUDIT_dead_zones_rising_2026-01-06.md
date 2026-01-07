@@ -50,7 +50,7 @@
 > **Article:** `articles/dead_zones_rising.md`
 > **Audit Date:** 2026-01-06
 > **Auditor:** Claude Opus 4.5 (AI-Assisted Review)
-> **Status:** CORRECTIONS REQUIRED
+> **Status:** CORRECTIONS APPLIED
 
 ---
 
@@ -121,12 +121,12 @@ The article demonstrates strong research foundation with accurate citations of m
 
 | # | Severity | Line(s) | Issue | Status |
 | - | -------- | ------- | ----- | ------ |
-| 1 | CRITICAL | 93 | Freshwater percentage incorrect | Open |
-| 2 | ERROR | 13, 55 | pH drop value inconsistent (0.1 vs 0.11) | Open |
-| 3 | ERROR | 43-44 | Dead zone doubling math incorrect | Open |
-| 4 | CAUTION | 81 | 90% predatory fish claim disputed | Open |
-| 5 | MINOR | 55-56 | Acidification projection math imprecise | Open |
-| 6 | MINOR | 71 | Oxygen loss range high-end estimate | Open |
+| 1 | CRITICAL | 93 | Freshwater percentage incorrect | CORRECTED |
+| 2 | ERROR | 13, 55 | pH drop value inconsistent (0.1 vs 0.11) | CORRECTED |
+| 3 | ERROR | 43-44 | Dead zone doubling math incorrect | CORRECTED |
+| 4 | CAUTION | 81 | 90% predatory fish claim disputed | CORRECTED |
+| 5 | MINOR | 55-56 | Acidification projection math imprecise | CORRECTED |
+| 6 | MINOR | 71 | Oxygen loss range high-end estimate | CORRECTED |
 
 ---
 
@@ -468,9 +468,10 @@ Large predatory fish populations have declined by an estimated fifty to ninety p
 ## Audit Sign-Off
 
 **Audit Completed:** 2026-01-06
-**Next Review Recommended:** After corrections applied
+**Corrections Applied:** 2026-01-06
+**Next Review Recommended:** Publication ready
 **Auditor:** Claude Opus 4.5 (AI-Assisted)
-**Reviewed By:** [Pending Human Review]
+**Reviewed By:** Dennis 'dnoice' Smaltz
 
 ---
 

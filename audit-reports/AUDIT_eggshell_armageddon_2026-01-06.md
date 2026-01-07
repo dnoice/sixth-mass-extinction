@@ -50,20 +50,20 @@
 > **Article:** `articles/eggshell_armageddon.md`
 > **Audit Date:** 2026-01-06
 > **Auditor:** Claude Opus 4.5 (AI-Assisted Review)
-> **Status:** CORRECTIONS RECOMMENDED
+> **Status:** CORRECTIONS APPLIED
 
 ---
 
 ## Table of Contents
 
 1. [Executive Summary](#executive-summary)
-2. [Audit Methodology](#audit-methodology)
-3. [Issues Summary](#issues-summary)
-4. [Detailed Findings](#detailed-findings)
-5. [Verified Claims](#verified-claims)
-6. [Recommended Corrections](#recommended-corrections)
-7. [Source References](#source-references)
-8. [Appendix: Verification Log](#appendix-verification-log)
+1. [Audit Methodology](#audit-methodology)
+1. [Issues Summary](#issues-summary)
+1. [Detailed Findings](#detailed-findings)
+1. [Verified Claims](#verified-claims)
+1. [Recommended Corrections](#recommended-corrections)
+1. [Source References](#source-references)
+1. [Appendix: Verification Log](#appendix-verification-log)
 
 ---
 
@@ -84,9 +84,9 @@
 ### Priority Actions Required
 
 1. **HIGH:** Update Yangtze giant softshell turtle population count (Line 83)
-2. **HIGH:** Verify or revise "1.1 billion turtles" CITES trade figure (Line 89)
-3. **MEDIUM:** Update turtle/tortoise threatened percentage to current estimates (Line 27)
-4. **LOW:** Clarify "second most widely used herbicide" claim for atrazine (Line 63)
+1. **HIGH:** Verify or revise "1.1 billion turtles" CITES trade figure (Line 89)
+1. **MEDIUM:** Update turtle/tortoise threatened percentage to current estimates (Line 27)
+1. **LOW:** Clarify "second most widely used herbicide" claim for atrazine (Line 63)
 
 ### Recommendation
 
@@ -99,11 +99,11 @@ This article is **scientifically strong** with excellent documentation of temper
 ### Verification Approach
 
 1. **TSD Temperature Data:** Verified against peer-reviewed studies (Jensen et al., Mitchell et al.)
-2. **Reptile Statistics:** Cross-referenced with IUCN Red List 2022 Global Reptile Assessment
-3. **Chemical Data:** Verified against USGS (PFAS), UC Berkeley (atrazine), EPA records
-4. **Trade Data:** Cross-referenced with CITES database and Turtle Conservation Coalition
-5. **Wetland Statistics:** Verified against Ramsar Convention Global Wetland Outlook
-6. **Species Status:** Verified against current IUCN Red List entries
+1. **Reptile Statistics:** Cross-referenced with IUCN Red List 2022 Global Reptile Assessment
+1. **Chemical Data:** Verified against USGS (PFAS), UC Berkeley (atrazine), EPA records
+1. **Trade Data:** Cross-referenced with CITES database and Turtle Conservation Coalition
+1. **Wetland Statistics:** Verified against Ramsar Convention Global Wetland Outlook
+1. **Species Status:** Verified against current IUCN Red List entries
 
 ### Severity Classification
 
@@ -120,10 +120,10 @@ This article is **scientifically strong** with excellent documentation of temper
 
 | # | Severity | Line(s) | Issue | Status |
 | - | -------- | ------- | ----- | ------ |
-| 1 | ERROR | 83 | Yangtze softshell "one confirmed individual" is outdated | Open |
-| 2 | ERROR | 89 | "1.1 billion turtles" trade figure unverified | Open |
-| 3 | CAUTION | 27 | 61% turtle/tortoise threatened may be outdated | Open |
-| 4 | MINOR | 63 | Atrazine "second most widely used" needs context | Open |
+| 1 | ERROR | 83 | Yangtze softshell "one confirmed individual" is outdated | CORRECTED |
+| 2 | ERROR | 89 | "1.1 billion turtles" trade figure unverified | CORRECTED |
+| 3 | CAUTION | 27 | 61% turtle/tortoise threatened may be outdated | CORRECTED |
+| 4 | MINOR | 63 | Atrazine "second most widely used" needs context | CORRECTED |
 
 ---
 
@@ -172,6 +172,7 @@ The **1.1 billion figure could not be verified** in CITES databases or peer-revi
 | Louisiana state records | Multi-year | 81 million (single state) |
 
 **Analysis:**
+
 - The 1.1 billion figure would require ~37 million turtles exported annually for 30 years
 - This may include captive-bred animals (especially red-eared sliders) rather than wild-caught
 - No peer-reviewed source citing this specific figure was found
@@ -227,6 +228,7 @@ OR if using the higher figure:
 
 **Problem:**
 Atrazine's ranking varies by metric (volume, area treated, country):
+
 - Glyphosate is consistently #1 globally
 - Atrazine is often cited as #2 in the **United States**, not necessarily globally
 - 2,4-D and other herbicides may rank higher globally
@@ -307,11 +309,13 @@ The following major claims were verified as **accurate**:
 ### Priority 1: High (Line 83)
 
 **Replace:**
+
 ```markdown
 One confirmed individual remains—a single animal representing an entire species, waiting for a mate that almost certainly does not exist.
 ```
 
 **With:**
+
 ```markdown
 Only two or three individuals are now known to exist—and with the death of the last confirmed female in 2023, the species is functionally extinct, its remaining males waiting for mates that no longer exist.
 ```
@@ -319,11 +323,13 @@ Only two or three individuals are now known to exist—and with the death of the
 ### Priority 2: High (Line 89)
 
 **Option A - Remove specific figure:**
+
 ```markdown
 The global turtle trade has moved hundreds of millions of animals over recent decades, with the total—including both wild-caught and captive-bred specimens—representing one of the largest legal wildlife trades on Earth.
 ```
 
 **Option B - Add source citation:**
+
 ```markdown
 CITES data records over 1.1 billion turtles legally exported between 1990 and 2020. [Source citation needed]
 ```
@@ -331,11 +337,13 @@ CITES data records over 1.1 billion turtles legally exported between 1990 and 20
 ### Priority 3: Medium (Line 27)
 
 **Replace:**
+
 ```markdown
 Turtles and tortoises—360 species, 61 percent threatened
 ```
 
 **With:**
+
 ```markdown
 Turtles and tortoises—360 species, more than half threatened
 ```
@@ -343,11 +351,13 @@ Turtles and tortoises—360 species, more than half threatened
 ### Priority 4: Low (Line 63)
 
 **Replace:**
+
 ```markdown
 Atrazine—the second most widely used herbicide on Earth
 ```
 
 **With:**
+
 ```markdown
 Atrazine—one of the most widely used herbicides globally, and the second most common in the United States
 ```
@@ -359,23 +369,23 @@ Atrazine—one of the most widely used herbicides globally, and the second most 
 ### Primary Authoritative Sources Consulted
 
 1. **IUCN Red List 2022** - [Global Reptile Assessment](https://iucn.org/news/species/202204/comprehensive-study-worlds-reptiles-more-one-five-reptile-species-are-threatened-extinction)
-2. **NOAA Fisheries** - [Rising Temperatures Turning Sea Turtles Female](https://www.fisheries.noaa.gov/news/rising-temperatures-turning-major-sea-turtle-population-female)
-3. **USGS 2023** - [PFAS in U.S. Tap Water](https://www.usgs.gov/news/national-news-release/tap-water-study-detects-pfas-forever-chemicals-across-us)
-4. **UC Berkeley** - [Atrazine Research (Hayes)](https://news.berkeley.edu/2010/03/01/frogs/)
-5. **Ramsar Convention** - [Global Wetland Outlook](https://www.global-wetland-outlook.ramsar.org/)
-6. **Florida FWC** - [Gopher Tortoise Commensals](https://myfwc.com/wildlifehabitats/profiles/reptiles/gopher-tortoise/)
+1. **NOAA Fisheries** - [Rising Temperatures Turning Sea Turtles Female](https://www.fisheries.noaa.gov/news/rising-temperatures-turning-major-sea-turtle-population-female)
+1. **USGS 2023** - [PFAS in U.S. Tap Water](https://www.usgs.gov/news/national-news-release/tap-water-study-detects-pfas-forever-chemicals-across-us)
+1. **UC Berkeley** - [Atrazine Research (Hayes)](https://news.berkeley.edu/2010/03/01/frogs/)
+1. **Ramsar Convention** - [Global Wetland Outlook](https://www.global-wetland-outlook.ramsar.org/)
+1. **Florida FWC** - [Gopher Tortoise Commensals](https://myfwc.com/wildlifehabitats/profiles/reptiles/gopher-tortoise/)
 
 ### Peer-Reviewed Literature
 
-7. Jensen, M.P. et al. (2018). "Environmental Warming and Feminization of One of the Largest Sea Turtle Populations in the World." *Current Biology*.
-8. Hayes, T.B. et al. (2010). "Atrazine induces complete feminization and chemical castration in male African clawed frogs." *PNAS*. [DOI](https://www.pnas.org/doi/full/10.1073/pnas.0909519107)
-9. Mitchell, N.J. et al. (2006). "Support for a rare pattern of temperature-dependent sex determination in archaic reptiles." *Frontiers in Zoology*. [DOI](https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-3-9)
-10. Cox, N. et al. (2022). "A global reptile assessment highlights shared conservation needs of tetrapods." *Nature*.
+1. Jensen, M.P. et al. (2018). "Environmental Warming and Feminization of One of the Largest Sea Turtle Populations in the World." *Current Biology*.
+1. Hayes, T.B. et al. (2010). "Atrazine induces complete feminization and chemical castration in male African clawed frogs." *PNAS*. [DOI](https://www.pnas.org/doi/full/10.1073/pnas.0909519107)
+1. Mitchell, N.J. et al. (2006). "Support for a rare pattern of temperature-dependent sex determination in archaic reptiles." *Frontiers in Zoology*. [DOI](https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-3-9)
+1. Cox, N. et al. (2022). "A global reptile assessment highlights shared conservation needs of tetrapods." *Nature*.
 
 ### Conservation Reports
 
-11. **Turtle Conservation Coalition** - Turtles in Trouble reports
-12. **CITES Trade Database** - [cites.org](https://trade.cites.org/)
+1. **Turtle Conservation Coalition** - Turtles in Trouble reports
+1. **CITES Trade Database** - [cites.org](https://trade.cites.org/)
 
 ---
 
@@ -403,10 +413,11 @@ Atrazine—one of the most widely used herbicides globally, and the second most 
 ## Audit Sign-Off
 
 **Audit Completed:** 2026-01-06
+**Corrections Applied:** 2026-01-06
 **Overall Quality:** Strong - excellent scientific foundation with minor data issues
-**Next Review Recommended:** After corrections applied
+**Next Review Recommended:** Publication ready
 **Auditor:** Claude Opus 4.5 (AI-Assisted)
-**Reviewed By:** [Pending Human Review]
+**Reviewed By:** Dennis 'dnoice' Smaltz
 
 ---
 

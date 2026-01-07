@@ -44,10 +44,12 @@
 
 | Report | Article | Date | Status | Issues |
 | ------ | ------- | ---- | ------ | ------ |
-| `AUDIT_dead_zones_rising_2026-01-06.md` | Dead Zones Rising | 2026-01-06 | Corrections Required | 1 Critical, 2 Errors |
-| `AUDIT_big_mammals_bigger_lies_2026-01-06.md` | Big Mammals, Bigger Lies | 2026-01-06 | Minor Corrections | 0 Critical, 1 Error |
-| `AUDIT_eggshell_armageddon_2026-01-06.md` | Eggshell Armageddon | 2026-01-06 | Corrections Recommended | 0 Critical, 2 Errors |
-| `AUDIT_no_buzz_no_harvest_2026-01-06.md` | No Buzz, No Harvest | 2026-01-06 | Minor Corrections | 0 Critical, 0 Errors |
+| `AUDIT_dead_zones_rising_2026-01-06.md` | Dead Zones Rising | 2026-01-06 | ✓ CORRECTED | 1 Critical, 2 Errors |
+| `AUDIT_big_mammals_bigger_lies_2026-01-06.md` | Big Mammals, Bigger Lies | 2026-01-06 | ✓ CORRECTED | 0 Critical, 1 Error |
+| `AUDIT_eggshell_armageddon_2026-01-06.md` | Eggshell Armageddon | 2026-01-06 | ✓ CORRECTED | 0 Critical, 2 Errors |
+| `AUDIT_no_buzz_no_harvest_2026-01-06.md` | No Buzz, No Harvest | 2026-01-06 | ✓ CORRECTED | 0 Critical, 0 Errors |
+| `AUDIT_flight_extinguished_2026-01-06.md` | Flight Extinguished | 2026-01-06 | ✓ CORRECTED | 0 Critical, 5 Errors |
+| `AUDIT_orphans_of_a_dying_wild_2026-01-06.md` | Orphans of a Dying Wild | 2026-01-06 | ✓ CORRECTED | 0 Critical, 2 Errors |
 
 ---
 

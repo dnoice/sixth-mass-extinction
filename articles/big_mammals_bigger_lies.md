@@ -42,9 +42,9 @@ The industry that serves them has constructed an elaborate mythology to justify 
 
 Each claim collapses under scrutiny.
 
-Follow the money. A 2017 study examined trophy hunting revenue across eight African countries and found that only three percent reached local communities. Sixty percent or more vanishes into government agencies—often corrupt ones. Another quarter to forty percent goes to outfitters and operators. Less than five percent funds actual conservation. The claim that hunting "benefits rural Africans" is a marketing fiction crafted in boardrooms, not villages.
+Follow the money. A 2013 economic analysis examined trophy hunting revenue across African countries and found that only three percent reached local communities—a figure the hunting industry disputes but has not convincingly refuted. Sixty percent or more vanishes into government agencies—often corrupt ones. Another quarter to forty percent goes to outfitters and operators. Less than five percent funds actual conservation. The claim that hunting "benefits rural Africans" is a marketing fiction crafted in boardrooms, not villages.
 
-The conservation math is equally damning. Trophy hunting proponents argue that regulated hunting maintains population balance, removes problem animals, generates funds that protect the rest. But lion populations have fallen ninety percent since 1950—from 200,000 to 20,000—during the very era of "scientific" hunting management. Elephants numbered 10 million in 1900; today, 415,000 remain. Black rhinoceros populations dropped 97.6% between 1960 and 1995.
+The conservation math is equally damning. Trophy hunting proponents argue that regulated hunting maintains population balance, removes problem animals, generates funds that protect the rest. But lion populations have fallen by an estimated seventy-five percent since the 1970s—from approximately 100,000 to fewer than 25,000—during the very era of "scientific" hunting management. Elephants numbered 10 million in 1900; today, 415,000 remain. Black rhinoceros populations dropped 97.6% between 1960 and 1995.
 
 These collapses occurred *under* the management regime that was supposed to prevent them. The industry did not reverse decline. It accelerated it.
 
@@ -70,7 +70,7 @@ In Southeast Asia, Wilmar controls forty-three percent of global palm oil proces
 
 The Amazon Soy Moratorium, celebrated as an environmental victory when it passed, simply displaced destruction. Corporations did not stop clearing land—they moved to the Cerrado savanna, where no moratorium applied. Today, soy-linked deforestation in the Cerrado runs at 10.2 times the rate in the Amazon. The companies found a loophole. They always find a loophole.
 
-And with each hectare cleared, the mammals vanish. Fifteen thousand jaguars remain where millions once prowled. Thirty thousand giant armadillos. Lowland tapirs declining across their range. Giant anteaters sliding toward extinction. Amazonian manatees endangered. Woolly monkeys critically so. Each species represents millions of years of evolutionary refinement—genetic libraries accumulated across epochs, erased in a single generation for cattle feed and cooking oil.
+And with each hectare cleared, the mammals vanish. Jaguar populations have been halved since the 1960s, with current estimates ranging from 15,000 to over 60,000 depending on methodology. Thirty thousand giant armadillos. Lowland tapirs declining across their range. Giant anteaters sliding toward extinction. Amazonian manatees endangered. Woolly monkeys critically so. Each species represents millions of years of evolutionary refinement—genetic libraries accumulated across epochs, erased in a single generation for cattle feed and cooking oil.
 
 ---
 
@@ -142,7 +142,7 @@ Immediate actions would include a moratorium on all trophy hunting of threatened
 
 Systemic changes would run deeper. Ending the $7 trillion in annual fossil fuel subsidies that distort global energy markets. Ending the $540 billion in environmentally destructive agricultural subsidies that make forest clearing profitable. Expanding protected areas to thirty percent of Earth's surface by 2030—the "30x30" target—and actually funding their management. Recognizing and enforcing Indigenous land rights. Transforming economic measurement beyond GDP growth to account for ecological value.
 
-The cost estimate for adequate global conservation funding is $700 billion annually. Current funding stands at approximately $120 billion. The gap is $600 billion per year.
+The cost estimate for adequate global conservation funding is $700 billion annually. Current funding stands at approximately $120 billion. The gap is approximately $600 billion per year.
 
 For context: global military spending exceeds $2 trillion annually. The money exists. The will does not.
 

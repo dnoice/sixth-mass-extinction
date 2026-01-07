@@ -50,7 +50,7 @@
 > **Article:** `articles/big_mammals_bigger_lies.md`
 > **Audit Date:** 2026-01-06
 > **Auditor:** Claude Opus 4.5 (AI-Assisted Review)
-> **Status:** MINOR CORRECTIONS RECOMMENDED
+> **Status:** CORRECTIONS APPLIED
 
 ---
 
@@ -120,10 +120,10 @@ This article demonstrates **strong factual foundation** with extensive verificat
 
 | # | Severity | Line(s) | Issue | Status |
 | - | -------- | ------- | ----- | ------ |
-| 1 | ERROR | 47 | Lion 90% decline uses disputed 200,000 baseline | Open |
-| 2 | CAUTION | 73 | Jaguar "millions" historical claim unsupported | Open |
-| 3 | CAUTION | 45 | Trophy hunting 3% figure is contested | Open |
-| 4 | MINOR | 145 | Funding gap arithmetic slightly off | Open |
+| 1 | ERROR | 47 | Lion 90% decline uses disputed 200,000 baseline | CORRECTED |
+| 2 | CAUTION | 73 | Jaguar "millions" historical claim unsupported | CORRECTED |
+| 3 | CAUTION | 45 | Trophy hunting 3% figure is contested | CORRECTED |
+| 4 | MINOR | 145 | Funding gap arithmetic slightly off | CORRECTED |
 
 ---
 
@@ -423,10 +423,11 @@ The gap is approximately $600 billion per year.
 ## Audit Sign-Off
 
 **Audit Completed:** 2026-01-06
+**Corrections Applied:** 2026-01-06
 **Overall Quality:** Strong - well-researched with minor issues
-**Next Review Recommended:** After corrections applied
+**Next Review Recommended:** Publication ready
 **Auditor:** Claude Opus 4.5 (AI-Assisted)
-**Reviewed By:** [Pending Human Review]
+**Reviewed By:** Dennis 'dnoice' Smaltz
 
 ---
 
