@@ -6,7 +6,6 @@
 
 ---
 
-
 ![Eggshell Armageddon](../assets/images/eggshell_armageddon.png)
 
 ---
