@@ -133,7 +133,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ## Contributing
 
-This project documents an ongoing catastrophe. Contributions that maintain scientific rigor and evidence-based analysis are welcome.
+Not at this moment, but thank you for considering. BUT, if you do notice any information that is not accurate, misleading, or confusing, by all means please reach out with your insights and recommendations to correct content
 
 ---
 
@@ -144,3 +144,4 @@ This project documents an ongoing catastrophe. Contributions that maintain scien
 ---
 
 **︻デ═─── ✦ ✦ ✦ | Aim Twice, Shoot Once!**
+
