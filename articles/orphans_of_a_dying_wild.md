@@ -1,28 +1,78 @@
 # Orphans of a Dying Wild
 
+---
 ## The Last Survivors of Broken Families and Vanishing Habitats
 
----
-
-The calf stands alone in the dust, and behind her, the ghosts of her family fade into the haze.
-
-They are still there if you know how to look—the great shapes of the adults who should surround her, rendered now in transparency, in absence, in the particular quality of light where memory meets grief. The matriarch who knew where water flows in the dry season. The aunts who would have helped raise her. The cousins she would have grown alongside. They move through the background like afterimages, like a photograph developing in reverse, like a herd dissolving into myth while its last survivor watches.
-
-She cannot see them. She sees only the cracked earth, the broken fence, the skull bleaching beside the weathered sign. She sees the wire snares scattered on the ground—the ones that did not catch her, the ones that caught someone else. She stands with her head bowed, not in dramatic mourning but in the quiet bewilderment of a child who does not understand why she is alone, why no one answers when she calls, why the shapes she remembers will not solidify no matter how long she waits.
-
-This is what the Sixth Mass Extinction looks like at the scale of a single life. Not statistics. Not population graphs. A child, surrounded by ghosts, in a world that made her an orphan.
+![Orphans of a Dying Wild](../assets/images/orphans_of_a_dying_world.png)
 
 ---
 
-## The Bullet and Its Aftermath
+## Executive Summary
 
-The poacher comes at dawn or dusk, when the light is uncertain and the animals are moving. He knows which elephant to shoot—the largest female, the one with the heaviest ivory, the matriarch whose tusks have been growing for sixty years. He does not think about what she carries in her mind: the memory of drought years, the map of water sources, the accumulated wisdom of a lineage stretching back generations. He thinks about the weight of ivory and what it will bring at market.
+Across the planet, young animals stand alone where their families once gathered. Elephant calves who watched their mothers fall to poaching wander traumatized through landscapes their species shaped for millions of years. Orphaned orangutans—incapable of learning survival skills without mothers to teach them—cling to rescuers in rehabilitation centers. Seal pups starve on beaches as climate change pushes fish stocks beyond their mothers' reach. These orphans are not isolated tragedies. They are symptoms of a dying world—the surviving children of species we are driving to extinction.
 
-The bullet takes her down. Perhaps she falls immediately; perhaps she runs wounded and the herd scatters in panic before she collapses. Either way, her calf stays close. Elephant children do not abandon their mothers. They do not understand death in any way that allows for leaving. The calf pushes at the body, tries to make her stand, waits beside her through the hours it takes for the poachers to do their work and move on.
+**The image of a lone elephant calf beside fallen relatives, enclosed by fences with nowhere to go, is the defining image of our age.** We have made orphans of the wild.
 
-By the time she is found—if she is found—she is dehydrated, starving, traumatized beyond what most human observers can recognize. She has watched her mother die. She may have watched her aunts die too, her grandmother, the whole family that constituted her world. She is perhaps two or three years old, young enough to still need milk, far too young to survive alone.
+---
 
-This scene plays out across Africa thirty thousand times a year during the worst poaching years. One elephant every fifteen minutes. Each adult female potentially leaving behind a calf who will die without rescue, and most are not rescued. The sanctuaries save hundreds annually; thousands die beside their mothers' bodies in remote wilderness, waiting for a response that never comes.
+## The Orphan Crisis
+
+### What Creates Wildlife Orphans
+
+Wildlife orphans result from multiple converging catastrophes:
+
+**Poaching:**
+
+- Elephants killed for ivory leave behind calves too young to survive alone
+- Rhino mothers slaughtered for horn leave calves to starve
+- Primate mothers shot for bushmeat leave clinging infants
+- Pangolin mothers killed leave helpless pups
+
+**Habitat Destruction:**
+
+- Forest clearing kills mothers, leaves survivors homeless
+- Development fragments habitat, separating families
+- Fire destroys both forest and the animals within
+- Agriculture expansion pushes wildlife into conflict zones
+
+**Human-Wildlife Conflict:**
+
+- Crop-raiding adults killed, leaving dependent young
+- "Problem animal" removals orphan calves
+- Vehicle strikes kill mothers on fragmenting roads
+- Retaliatory killing leaves juveniles alone
+
+**Climate Disruption:**
+
+- Food source collapse starves nursing mothers
+- Extreme weather separates families
+- Range shifts stress populations beyond survival
+- Timing mismatches kill dependent young
+
+### The Scale of Orphaning
+
+No comprehensive census of wildlife orphans exists—the nature of the crisis makes counting impossible. But indicators reveal the scale:
+
+**Elephant Orphans:**
+
+- **30,000+ elephants** killed annually at peak poaching years
+- Estimated 1,000+ orphans entering sanctuaries annually (Africa)
+- Many more die without rescue
+- Some herds reduced to traumatized juveniles
+
+**Primate Orphans:**
+
+- **Bushmeat trade:** Millions of primates killed annually
+- Each infant survivor represents 4-10 dead adults (mothers protecting babies killed too)
+- Rehabilitation centers overwhelmed globally
+- Orangutan orphan rate: ~1,000 new orphans annually at crisis peaks
+
+**Marine Mammal Orphans:**
+
+- Climate-driven strandings increasing
+- Seal and sea lion "unusual mortality events" creating waves of orphans
+- Cetacean calves stranding with dead mothers
+- Starvation orphans as fish stocks crash
 
 ---
 
