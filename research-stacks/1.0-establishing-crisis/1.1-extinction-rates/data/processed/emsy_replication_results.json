@@ -1,0 +1,65 @@
+{
+  "generated_at": "2026-01-07T12:22:02.107341",
+  "data_source": "IUCN Red List 2025-2 Full Export",
+  "total_species_assessed": 172620,
+  "vertebrate_summary": {
+    "total_assessed": 64622,
+    "total_extinctions": 435,
+    "emsy": 54.29
+  },
+  "rate_multipliers": {
+    "vs_0.1": 542.9,
+    "vs_1.0": 54.3,
+    "vs_2.0": 27.1
+  },
+  "by_taxa": [
+    {
+      "taxon": "AVES",
+      "label": "Birds",
+      "extinctions": 169,
+      "species": 11185,
+      "emsy": 121.8509812969559,
+      "multiplier": 121.8509812969559
+    },
+    {
+      "taxon": "MAMMALIA",
+      "label": "Mammals",
+      "extinctions": 91,
+      "species": 6036,
+      "emsy": 121.58233395326964,
+      "multiplier": 121.58233395326964
+    },
+    {
+      "taxon": "AMPHIBIA",
+      "label": "Amphibians",
+      "extinctions": 39,
+      "species": 8051,
+      "emsy": 39.065473733978145,
+      "multiplier": 39.065473733978145
+    },
+    {
+      "taxon": "ACTINOPTERYGII",
+      "label": "Bony Fish",
+      "extinctions": 101,
+      "species": 27716,
+      "emsy": 29.387939422436787,
+      "multiplier": 29.387939422436787
+    },
+    {
+      "taxon": "REPTILIA",
+      "label": "Reptiles",
+      "extinctions": 34,
+      "species": 10368,
+      "emsy": 26.446136997212268,
+      "multiplier": 26.446136997212268
+    },
+    {
+      "taxon": "CHONDRICHTHYES",
+      "label": "Sharks & Rays",
+      "extinctions": 1,
+      "species": 1266,
+      "emsy": 6.370075931305101,
+      "multiplier": 6.370075931305101
+    }
+  ]
+}

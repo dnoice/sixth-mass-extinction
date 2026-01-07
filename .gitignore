@@ -1,0 +1,48 @@
+# SME Project .gitignore
+
+# Large data files (>100MB GitHub limit)
+# These are kept local - see sources/dump/DATA_CATALOG.md for documentation
+**/dump/**/full-export/assessments.csv
+**/dump/**/full-export/assessments_with_html.csv
+**/dump/**/full-export/taxonomy_with_html.csv
+**/dump/**/full-export/common_names.csv
+
+# Also exclude any CSV >50MB in dump directories
+# (use Git LFS if these need version control)
+
+# Windows artifacts
+nul
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+*.log
+
+# Temporary files
+*.tmp
+*.temp

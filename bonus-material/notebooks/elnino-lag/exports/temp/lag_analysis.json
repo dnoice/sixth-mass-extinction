@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-01-07T11:49:37.595466",
+  "notebook": "elnino_lag_analysis.ipynb",
+  "hypothesis": "Amazon fire season predicts coral bleaching with temporal lag",
+  "seasonal_patterns": {
+    "amazon_peak_months": [
+      8,
+      9
+    ],
+    "coral_peak_month": 10
+  },
+  "cross_correlation": {
+    "optimal_lag_months": 14,
+    "correlation_r": 0.4435296019932975,
+    "p_value": 1.9195306568576236e-06,
+    "significant": true
+  },
+  "key_insights": [
+    "Optimal lag is 14 months (r=0.44, p=0.000)",
+    "Both systems respond to El Ni\u00f1o but through different mechanisms",
+    "The correlation structure suggests shared climate forcing"
+  ]
+}
