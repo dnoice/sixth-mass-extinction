@@ -1,8 +1,8 @@
-<!--
+ <!--
 ✒ Metadata
     - Title: Technical Glossary (SME Edition - v1.0)
-    - File Name: GLOSSARY.md
-    - Relative Path: docs/GLOSSARY.md
+    - File Name: sme_glossary.md
+    - Relative Path: docs\references\sme_glossary.md
     - Artifact Type: docs
     - Version: 1.0.0
     - Date: 2026-01-04
@@ -41,11 +41,11 @@
 ## Table of Contents
 
 1. [Acronyms & Abbreviations](#acronyms--abbreviations)
-2. [Extinction & Conservation Terms](#extinction--conservation-terms)
-3. [Ecological Concepts](#ecological-concepts)
-4. [Climate & Environmental Terms](#climate--environmental-terms)
-5. [Economic & Policy Terms](#economic--policy-terms)
-6. [Project-Specific Terms](#project-specific-terms)
+1. [Extinction & Conservation Terms](#extinction--conservation-terms)
+1. [Ecological Concepts](#ecological-concepts)
+1. [Climate & Environmental Terms](#climate--environmental-terms)
+1. [Economic & Policy Terms](#economic--policy-terms)
+1. [Project-Specific Terms](#project-specific-terms)
 
 ---
 
@@ -58,7 +58,7 @@
 | **BGCI** | Botanic Gardens Conservation International | Global network for plant conservation |
 | **CBD** | Convention on Biological Diversity | UN treaty for biodiversity conservation |
 | **CITES** | Convention on International Trade in Endangered Species | Treaty regulating wildlife trade |
-| **COP** | Conference of the Parties | Annual UN climate/biodiversity negotiations |
+| **COP** | Conference of the Parties | An nual UN climate/biodiversity negotiations |
 | **DAC** | Direct Air Capture | Technology to remove CO₂ directly from atmosphere |
 | **E/MSY** | Extinctions per Million Species-Years | Standard metric for extinction rate measurement |
 | **EOR** | Enhanced Oil Recovery | Using captured CO₂ to extract more oil |
@@ -136,7 +136,7 @@ Species with disproportionately large ecological impact relative to abundance (e
 
 ### Mass Extinction
 
-Rapid loss of >75% of species in geologically short timeframe. Five previous events; sixth ongoing.
+Rapid loss of >75% of species in geologically short timeframe. Five previous events; comprehensive assessment STRONLY suggests SME ongoing .
 
 ### Paper Park
 
