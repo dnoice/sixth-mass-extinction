@@ -133,7 +133,53 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ## Contributing
 
-Not at this moment, but thank you for considering. BUT, if you do notice any information that is not accurate, misleading, or confusing, by all means please reach out with your insights and recommendations to correct content
+### Current Status
+
+This project is **not accepting direct contributions** at this time. The research framework, documentation standards, and editorial voice require tight consistency that makes open collaboration impractical during this phase.
+
+That said, **thank you for considering**. Your interest in this work matters.
+
+### Reporting Inaccuracies
+
+If you notice information that is **inaccurate, misleading, outdated, or confusing**, we absolutely want to hear from you. Scientific integrity is non-negotiable.
+
+**What to report:**
+
+- Factual errors (incorrect statistics, misattributed sources, outdated data)
+- Broken or dead citation links
+- Misleading framing or context
+- Logical inconsistencies
+- Typographical errors that change meaning
+
+**How to report:**
+
+1. **Open an Issue** — Use the [GitHub Issues](../../issues) tab with the label `factual-correction`
+2. **Be specific** — Reference the exact file, section, and problematic text
+3. **Provide sources** — Include peer-reviewed citations or authoritative references when possible
+4. **Explain the problem** — Describe why the current content is incorrect or misleading
+
+### What We're Looking For
+
+| Helpful | Not Helpful |
+| ------- | ----------- |
+| "The extinction rate in Section 2 cites 100x but IPBES 2019 states 100-1,000x" | "I think the numbers are wrong" |
+| "This link to WWF report returns 404" | "Links don't work" |
+| "The claim about amphibians contradicts the IUCN source provided" | "This doesn't seem right" |
+
+### Future Contributions
+
+As the project matures, we may open specific areas for contribution:
+
+- Translation efforts
+- Data visualization improvements
+- Additional peer-reviewed source verification
+- Accessibility enhancements
+
+Watch this repository for updates on contribution opportunities.
+
+### Code of Conduct
+
+All interactions should reflect the project's core principles: **truth over hope, direct language over euphemisms, systemic analysis over individual blame**. We expect respectful, evidence-based discourse focused on improving the accuracy and impact of this documentation
 
 ---
 
