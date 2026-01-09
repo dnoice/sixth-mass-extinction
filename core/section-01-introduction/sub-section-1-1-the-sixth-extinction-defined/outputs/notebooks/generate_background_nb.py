@@ -1,4 +1,7 @@
-{
+import json
+import os
+
+b_structure = {
  "cells": [
   {
    "cell_type": "markdown",
@@ -27,7 +30,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -48,13 +51,13 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "metadata": {},
    "outputs": [],
    "source": [
     "# 📥 Data Ingestion\n",
     "df = pd.read_csv(DATA_PATH / 'iucn_table_3.csv', thousands=',')\n",
-    "df.columns = df.columns.str.strip().str.replace('\"', '')\n",
+    "df.columns = df.columns.str.strip().str.replace('"', '')\n",
     "\n",
     "target_classes = {\n",
     "    'MAMMALIA': 'Mammals',\n",
@@ -73,7 +76,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -107,7 +110,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -160,3 +163,8 @@
  "nbformat": 4,
  "nbformat_minor": 5
 }
+
+with open('1.1_validate_background_rate.ipynb', 'w', encoding='utf-8') as f:
+    json.dump(nb_structure, f, indent=1, ensure_ascii=False)
+
+print("✅ Notebook Generated.")

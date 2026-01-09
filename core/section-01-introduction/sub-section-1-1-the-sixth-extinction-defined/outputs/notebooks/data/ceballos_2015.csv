@@ -1,0 +1,11 @@
+# Source: Ceballos et al. (2015), Science Advances, Table S2 & Text
+# Citation: Ceballos, G., et al. (2015). Accelerated modern human-induced species losses: Entering the sixth mass extinction. Science Advances, 1(5), e1400253.
+# Method: Manual transcription from published supplementary text.
+# Note: "Conservative" = Extinct (EX) only. "Highly Conservative" = EX + Extinct in Wild (EW) + Possibly Extinct (PE).
+Group,Period,Category,Count,Elevation_Factor
+Vertebrates,Since 1500,Conservative (EX),338,8
+Vertebrates,Since 1500,Highly Conservative (EX+EW+PE),617,15
+Mammals,Since 1500,Conservative (EX),NaN,14
+Mammals,Since 1500,Highly Conservative (EX+EW+PE),NaN,28
+Vertebrates,Since 1900,Conservative (EX),NaN,22
+Vertebrates,Since 1900,Highly Conservative (EX+EW+PE),NaN,53
